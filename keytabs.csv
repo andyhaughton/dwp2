@@ -1,0 +1,15 @@
+Server,Account,Service
+dwpsasmds01,dwpsasmds01-sas,SAS
+dwpsasmds02,dwpsasmds02-sas,SAS
+dwpsasmds03,dwpsasmds03-sas,SAS
+dwpsasgcs01,dwpsasgcs01-sas,SAS
+dwpsasgcs02,dwpsasgcs02-sas,SAS
+dwpsasgnd01,dwpsasgnd01-sas,SAS
+dwpsasgnd02,dwpsasgnd02-sas,SAS
+dwpsasgnd03,dwpsasgnd03-sas,SAS
+dwpsasgnd04,dwpsasgnd04-sas,SAS
+dwpsasgnd05,dwpsasgnd05-sas,SAS
+dwpsasgnd06,dwpsasgnd06-sas,SAS
+dwpsasgnd07,dwpsasgnd07-sas,SAS
+dwpsasfed01,dwpsasfed01-sas,SAS
+dwpsasfed02,dwpsasfed02-sas,SAS

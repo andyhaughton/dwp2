@@ -1,0 +1,5516 @@
+﻿LDAP Group,LDAP User,User Name,User Flag,BCDB Flag
+aanbd,,,0,0
+aanbd_r,,,0,0
+add1,,,0,0
+adm,,,0,0
+adm,daemon,,1,0
+adm,root,,1,0
+aiuser,,,0,0
+asd1a,,,0,0
+asd1b,,,0,0
+asd1c,,,0,0
+asd1d,,,0,0
+asd1nes,,,0,0
+asd3b,,,0,0
+asd3d,,,0,0
+asd3g,,,0,0
+asd4f,,,0,0
+asd5a,,,0,0
+asd5c,,,0,0
+asd6f,,,0,0
+asd7b,,,0,0
+asd7d,,,0,0
+asd8d,,,0,0
+ashe,,,0,0
+asmdba,oracle11,,1,0
+atas,,,0,0
+auth,,,0,0
+backup,,,0,0
+bamis,u80203010,Debbie Morton,1,0
+bb,,,0,0
+bc1006,,,0,0
+bc1008,,,0,0
+bc1011,,,0,0
+bc1011_r,,,0,0
+bc1011_w,,,0,0
+bc1012,,,0,0
+bc1019,,,0,0
+bc1021,,,0,0
+bc1030,,,0,0
+bc1046,,,0,0
+bc1048,u10081241,Alexandra Hutchinson,1,1
+bc1048,u10017204,Andrew Taylor,1,1
+bc1048,u53679208,Emma Gowan,1,1
+bc1048,u79934707,Kevin Hawthorne,1,1
+bc1049,,,0,0
+bc1050,,,0,0
+bc1051,,,0,0
+bc1053,,,0,0
+bc1054,,,0,0
+bc1055,,,0,0
+bc1056,,,0,0
+bc1082,,,0,0
+bc1084,,,0,0
+bc1085,,,0,0
+bc1091,,,0,0
+bc1097,,,0,0
+bc1100,,,0,0
+bc1102,,,0,0
+bc1104,,,0,0
+bc1106,,,0,0
+bc1107,,,0,0
+bc1108,,,0,0
+bc1113,,,0,0
+bc1114,,,0,0
+bc1117,,,0,0
+bc1118,,,0,0
+bc1121,,,0,0
+bc1122,,,0,0
+bc1123,,,0,0
+bc1123w,,,0,0
+bc1126_r,,,0,0
+bc1126_w,,,0,0
+bc1127,,,0,0
+bc1128,,,0,0
+bc1136,,,0,0
+bc1137,,,0,0
+bc1141,,,0,0
+bc1145,,,0,0
+bc1150,,,0,0
+bc1153,,,0,0
+bc1156,,,0,0
+bc1157,,,0,0
+bc1159,,,0,0
+bc1161,,,0,0
+bc1165,,,0,0
+bc1166,,,0,0
+bc1167,,,0,0
+bc1173,,,0,0
+bc1174,,,0,0
+bc1175,,,0,0
+bc1175_w,,,0,0
+bc1176,,,0,0
+bc1178,,,0,0
+bc1179,,,0,0
+bc1181er,,,0,0
+bc1181ew,,,0,0
+bc1181ur,,,0,0
+bc1181uw,,,0,0
+bc1182,,,0,0
+bc1191,,,0,0
+bc1192,,,0,0
+bc1195,,,0,0
+bc1196,,,0,0
+bc1198,,,0,0
+bc1202,,,0,0
+bc1203,,,0,0
+bc1205,,,0,0
+bc1206,,,0,0
+bc1210,,,0,0
+bc1211,,,0,0
+bc1214,,,0,0
+bc1226,u86965107,Andrea Bennie,1,1
+bc1226,u10086739,Andrew Rushworth,1,1
+bc1226,u10092805,Christopher Wheeler,1,1
+bc1226,u59970300,David Etchells,1,1
+bc1226,u53679208,Emma Gowan,1,1
+bc1226,u85356740,Lee Irving,1,1
+bc1226,u10018690,Nick Ryan,1,1
+bc1227,,,0,0
+bc1229,,,0,0
+bc1235,,,0,0
+bc1246,u10081241,Alexandra Hutchinson,1,1
+bc1246,u10017204,Andrew Taylor,1,1
+bc1246,u53679208,Emma Gowan,1,1
+bc1246,u79934707,Kevin Hawthorne,1,1
+bc1253,,,0,0
+bc1256,,,0,0
+bc1262,,,0,0
+bc1263,,,0,0
+bc1269,u76323908,Chris Gowans,1,1
+bc1269,u10056683,Deepthi Vemireddy,1,1
+bc1269,u77274907,Duncan Evans,1,1
+bc1269,u46042764,Ravi Kumar,1,1
+bc1269,u92456601,Srinath Ravula,1,1
+bc1270,,,0,0
+bc1271,,,0,0
+bc1274,,,0,0
+bc1275a,,,0,0
+bc1275r,,,0,0
+bc1276,,,0,0
+bc1278,,,0,0
+bc1282,,,0,0
+bc1286,,,0,0
+bc1291,u60946907,Andy Greaves,1,1
+bc1291,u10071936,Martin Dodd,1,1
+bc1291,u65044200,Michael Braithwaite,1,1
+bc1291,u46058483,Reece McDowall,1,1
+bc1293,,,0,0
+bc1298,,,0,0
+bc1300,,,0,0
+bc1302,,,0,0
+bc1305,u10064731,Christopher Steer,1,1
+bc1305,u10115913,Helen Smith,1,1
+bc1305,u10117280,Joseph Welham,1,1
+bc1305,u10124365,Kiran Ameer,1,1
+bc1305,u10119227,Michael Willows,1,1
+bc1305,u10070928,Mike Elkins,1,1
+bc1305,u77308302,Neil Sorensen,1,1
+bc1306,,,0,0
+bc1307,,,0,0
+bc1309,,,0,0
+bc1310,,,0,0
+bc1311,,,0,0
+bc1319,,,0,0
+bc1322,,,0,0
+bc1325,,,0,0
+bc1328,,,0,0
+bc1329,,,0,0
+bc1330,,,0,0
+bc1331,,,0,0
+bc1332,,,0,0
+bc1334,,,0,0
+bc1335,,,0,0
+bc1336,,,0,0
+bc1339,,,0,0
+bc1340,,,0,0
+bc1341,,,0,0
+bc1345,,,0,0
+bc1350,,,0,0
+bc1351,,,0,0
+bc1352,,,0,0
+bc1355,,,0,0
+bc1357,,,0,0
+bc1360,,,0,0
+bc1362,,,0,0
+bc1363,,,0,0
+bc1363tm,,,0,0
+bc1364,,,0,0
+bc1366,,,0,0
+bc1372,,,0,0
+bc1373,,,0,0
+bc1374,,,0,0
+bc1377,,,0,0
+bc1378,,,0,0
+bc1381,,,0,0
+bc1389,,,0,0
+bc1391,,,0,0
+bc1392,,,0,0
+bc1393,,,0,0
+bc1395,,,0,0
+bc1396,,,0,0
+bc1398,,,0,0
+bc1399,,,0,0
+bc1403,,,0,0
+bc1407,,,0,0
+bc1410,,,0,1
+bc1413,,,0,0
+bc1416,,,0,0
+bc1418,,,0,0
+bc1420,,,0,0
+bc1421,,,0,0
+bc1421r,,,0,0
+bc1422,,,0,0
+bc1428,,,0,0
+bc1429,,,0,0
+bc1430,,,0,0
+bc1432,,,0,0
+bc1433,,,0,0
+bc1436,u10092685,Charlotte Harris,1,1
+bc1436,u10002831,David Howdon,1,1
+bc1436,u10106399,Eleanor King,1,1
+bc1436,u10103714,Hjalte Sorensen,1,1
+bc1436,u10116569,Imogen Ellis,1,1
+bc1436,u10115339,Maham Hashmi,1,1
+bc1436,u10070928,Mike Elkins,1,1
+bc1436,u10116675,Zaynab Yasmeen,1,1
+bc1437,,,0,0
+bc1438,,,0,0
+bc1440,u10071936,Martin Dodd,1,1
+bc1440,u65044200,Michael Braithwaite,1,1
+bc1441,,,0,0
+bc1448,,,0,0
+bc1452,,,0,0
+bc1452w,,,0,0
+bc1462,u10081241,Alexandra Hutchinson,1,1
+bc1462,u10017204,Andrew Taylor,1,1
+bc1462,u53679208,Emma Gowan,1,1
+bc1462,u79934707,Kevin Hawthorne,1,1
+bc1463,,,0,0
+bc1467,,,0,0
+bc1475,,,0,0
+bc1476,,,0,0
+bc1477,,,0,0
+bc1478,,,0,0
+bc1479,,,0,0
+bc1480,,,0,0
+bc1483,,,0,0
+bc1484,,,0,0
+bc1485,,,0,0
+bc1486,,,0,0
+bc1488,,,0,0
+bc1493,,,0,0
+bc1494,,,0,0
+bc1496,,,0,0
+bc1497g,u10012626,Ben Durcan,1,1
+bc1497g,u10094987,Benjamin Ashton,1,1
+bc1497g,u10123718,Bethany Munns,1,1
+bc1497g,u10124576,Charlotte Springle,1,1
+bc1497g,u10075066,Christopher Lord,1,1
+bc1497g,u86805011,Gary Gifford,1,1
+bc1497g,u77418005,Gillian Ferry,1,1
+bc1497g,u10116629,Grace Cassidy,1,1
+bc1497g,u10106375,Hannah McLennan,1,1
+bc1497g,u69682307,Hatti Archer,1,1
+bc1497g,u10081383,James Halse,1,1
+bc1497g,u10145982,James Redfern,1,1
+bc1497g,u88820207,James Rees,1,1
+bc1497g,u10097907,Jennifer Gibson,1,1
+bc1497g,u10116680,Jennifer Szulc,1,1
+bc1497g,u10082395,Julius Urbutis,1,1
+bc1497g,u10124114,Kieran Gregory,1,1
+bc1497g,u10072125,Kris Simpson,1,1
+bc1497g,u10107627,Luke Hartley,1,1
+bc1497g,u10106551,Matt Parkinson,1,1
+bc1497g,u10106551,Matthew Parkinson,1,1
+bc1497g,u10116296,Matthew Perciato,1,1
+bc1497g,u10076989,Matthew Tapley,1,1
+bc1497g,u10117379,Muhammad Zaman,1,1
+bc1497g,u10108039,Nicholas Thomas,1,1
+bc1497g,u10076332,Paul Crust,1,1
+bc1497g,u10117064,Peter Booth,1,1
+bc1497g,u10117081,Philippe Gaudart-Wifling,1,1
+bc1497g,u10110004,Rachel Boughey,1,1
+bc1497g,u10145528,Rebecca McCaw,1,1
+bc1497g,u10111432,Rhian Eveleigh,1,1
+bc1497g,u86700312,Rob Hardcastle,1,1
+bc1497g,u10124185,Robyn Kenwright,1,1
+bc1497g,u10084627,Salina Choudhry,1,1
+bc1497g,u10112091,Sarah-Kate O'Grady,1,1
+bc1497g,u10106373,Thomas Lloyd,1,1
+bc1497g,u10117383,William Talbot,1,1
+bc1497g,u10149844,Xiang-Yang Tang,1,1
+bc1499,,,0,0
+bc1503,,,0,0
+bc1506,,,0,0
+bc1508g,,,0,0
+bc1509g,u10065298,Aidan McCormack,1,1
+bc1509g,u10071619,Annie Morton,1,1
+bc1509g,u81499502,Charlie James,1,1
+bc1509g,u78440700,Chris Cousins,1,1
+bc1509g,u10103031,Cosmo Lupo,1,1
+bc1509g,u10116594,Daniel Azaz,1,1
+bc1509g,u10074463,Daniel Scorer,1,1
+bc1509g,u10088164,David Young,1,1
+bc1509g,u10092127,Douglas MacDivitt,1,1
+bc1509g,u10144678,Eder Towers,1,1
+bc1509g,u82977210,Elaine McCauley,1,1
+bc1509g,u10096166,Ellie Grainger,1,1
+bc1509g,u87447309,Gemma Kirk,1,1
+bc1509g,u10063984,Glenn Covacic,1,1
+bc1509g,u10096870,Grace Stamate,1,1
+bc1509g,u91147207,Graham Oliver-Beech,1,1
+bc1509g,u10111504,Hannah Bentham,1,1
+bc1509g,u10145661,Hannah Short,1,1
+bc1509g,u10070745,Helen Shackleton,1,1
+bc1509g,u10107015,Helena Janes,1,1
+bc1509g,u10084399,James Machin,1,1
+bc1509g,u10071961,Jamie Douglas,1,1
+bc1509g,u10081006,Joanna Edgell,1,1
+bc1509g,u10076420,Joseph Cann,1,1
+bc1509g,u10111949,Laurence Ellison,1,1
+bc1509g,u10095351,Lily Shannon,1,1
+bc1509g,u87957301,Louise Goulding,1,1
+bc1509g,u10080886,Matthew Collins,1,1
+bc1509g,u10116676,Megan Steele,1,1
+bc1509g,u10085091,Meshkath Mukul,1,1
+bc1509g,u10086262,Michael Scott,1,1
+bc1509g,u10082095,Michelle Hurren,1,1
+bc1509g,u10117225,Nathan Kelly,1,1
+bc1509g,u90765203,Owen Magrath,1,1
+bc1509g,u10121058,Philip Heron,1,1
+bc1509g,u10063407,Rachel Councell,1,1
+bc1509g,u10085592,Samuel McNeil,1,1
+bc1509g,u10124386,Sophie Philips,1,1
+bc1509g,u10077857,Stefania Porcu,1,1
+bc1509g,u10064615,Stephanie Sarwar,1,1
+bc1509g,u10063218,Thomas Pickering,1,1
+bc1509g,u10089490,Tom Mouland,1,1
+bc1509g,u86604909,Tom Walker,1,1
+bc1510g,u10116603,Abigail Dawson,1,1
+bc1510g,u91011308,Ivan Mathers,1,1
+bc1510g,u10117294,Kiril Radionov,1,1
+bc1510g,u10144949,Lukas Ambroza,1,1
+bc1510g,u10116677,Rayhan Ravat,1,1
+bc1510g,u75567112,Shane Kennedy,1,1
+bc1511,,,0,0
+bc1515g,u10144659,Alexandra Mittens,1,1
+bc1515g,u10144860,Aoife Bermingham,1,1
+bc1515g,u10149401,Benjamin Green,1,1
+bc1515g,u10124137,Beth Tinsley,1,1
+bc1515g,u10074834,Clare Smithson,1,1
+bc1515g,u10116620,Conall McNally,1,1
+bc1515g,u10091293,David Campbell,1,1
+bc1515g,u85082511,Elaine Willis,1,1
+bc1515g,u10116599,Francine Kidd,1,1
+bc1515g,u10144730,Hafizah Haider,1,1
+bc1515g,u73450111,Jill Millichamp,1,1
+bc1515g,u10089709,Joey Leung,1,1
+bc1515g,u10002890,Josephine Daniels,1,1
+bc1515g,u85684509,Kate Perry,1,1
+bc1515g,u10018789,Katie Riley,1,1
+bc1515g,u10103582,Manuella Njouoguep-laptche,1,1
+bc1515g,u10116600,Mary Andryszewska,1,1
+bc1515g,u10116606,Matthew Pike,1,1
+bc1515g,u10148317,Matthew Renwick,1,1
+bc1515g,u10063817,Michael Hatton,1,1
+bc1515g,u88294811,Michelle Ridley,1,1
+bc1515g,u10023546,Nadejda Tzokova,1,1
+bc1515g,u85977610,Natalie Lloyd,1,1
+bc1515g,u10144952,Nikkita Kamal,1,1
+bc1515g,u90019310,Nina Wood,1,1
+bc1515g,u10118781,Patrick Burns,1,1
+bc1515g,u10071592,Rebecca Blackburn,1,1
+bc1515g,u10028370,Sarah Connelly,1,1
+bc1515g,u10116596,Shalisha Patrick,1,1
+bc1515g,u88611103,Sirinnuj Redden,1,1
+bc1515g,u10117089,Thomas Brewis,1,1
+bc1515g,u10144677,Thomas Hampshire,1,1
+bc1515g,u10060716,Waqas Zahid,1,1
+bc1515g,u10123946,William Fairweather,1,1
+bc1516g,,,0,0
+bc1517,,,0,0
+bc1522,,,0,0
+bc1523g,,,0,0
+bc1526,,,0,0
+bc1528,,,0,0
+bc1530,,,0,0
+bc1531,u53679208,Emma Gowan,1,1
+bc1531,u79934707,Kevin Hawthorne,1,1
+bc1532,,,0,0
+bc1533,,,0,0
+bc1535,,,0,0
+bc1536,,,0,0
+bc1537,,,0,0
+bc1538,,,0,0
+bc1540,,,0,0
+bc1542,,,0,0
+bc1543,,,0,0
+bc1545,,,0,0
+bc1546,,,0,0
+bc1549g,,,0,1
+bc1551,,,0,0
+bc1554,,,0,0
+bc1555,,,0,0
+bc1556,,,0,0
+bc1558,,,0,0
+bc1559,,,0,0
+bc1563,,,0,0
+bc1566,,,0,0
+bc1568,,,0,0
+bc1570,,,0,1
+bc1571,,,0,0
+bc1573,,,0,0
+bc1574,u10107187,Adam Raine,1,1
+bc1574,u10106007,Andrew McCarthy,1,1
+bc1574,u10089194,Luke Barclay,1,1
+bc1574,u48003599,William Bowers,1,1
+bc1575,,,0,0
+bc1580,,,0,0
+bc1581,,,0,0
+bc1582,,,0,0
+bc1584,,,0,0
+bc1597,,,0,0
+bc1601,,,0,0
+bc1602,,,0,0
+bc1604,,,0,0
+bc1605,,,0,0
+bc1614,,,0,0
+bc1615,,,0,0
+bc1618,,,0,0
+bc1620,,,0,0
+bc1621,,,0,0
+bc1626,,,0,0
+bc1629,,,0,0
+bc1630,,,0,0
+bc1631,,,0,0
+bc1635,,,0,0
+bc1640,,,0,0
+bc1651,,,0,0
+bc1653,,,0,0
+bc1656g,,,0,0
+bc1660,u10081241,Alexandra Hutchinson,1,1
+bc1660,u10017204,Andrew Taylor,1,1
+bc1660,u55823509,Phil Bell,1,1
+bc1663,u52358212,Angie Panting,1,1
+bc1663,u77994604,Caroline Ashmore,1,1
+bc1663,u86884409,Daniel Hickey,1,1
+bc1663,u46064846,David Fleming,1,1
+bc1663,u80203010,Debbie Morton,1,1
+bc1663,u50829301,Debby Bell,1,1
+bc1663,u10014595,Iain Woolard,1,1
+bc1663,u79513311,Ingrid Whitworth,1,1
+bc1663,u10096747,Jen Machin,1,1
+bc1663,u85278112,Lee Swan,1,1
+bc1663,u80200606,Leigh Taggart,1,1
+bc1663,u43777206,Linda Donnelly,1,1
+bc1663,u10017946,Louise McGuinness,1,1
+bc1663,u10021846,Neil Coulson,1,1
+bc1663,u24366710,Sandra Cartner,1,1
+bc1663,u84023906,Stephen Clark,1,1
+bc1663,u74908502,Steve Howe,1,1
+bc1663,u10015157,Suzy Rutter,1,1
+bc1665,,,0,0
+bc1666,,,0,0
+bc1668,u52358212,Angie Panting,1,1
+bc1668,u77994604,Caroline Ashmore,1,1
+bc1668,u86884409,Daniel Hickey,1,1
+bc1668,u46064846,David Fleming,1,1
+bc1668,u80203010,Debbie Morton,1,1
+bc1668,u50829301,Debby Bell,1,1
+bc1668,u10014595,Iain Woolard,1,1
+bc1668,u79513311,Ingrid Whitworth,1,1
+bc1668,u10096747,Jen Machin,1,1
+bc1668,u85278112,Lee Swan,1,1
+bc1668,u80200606,Leigh Taggart,1,1
+bc1668,u43777206,Linda Donnelly,1,1
+bc1668,u10017946,Louise McGuinness,1,1
+bc1668,u10021846,Neil Coulson,1,1
+bc1668,u24366710,Sandra Cartner,1,1
+bc1668,u84023906,Stephen Clark,1,1
+bc1668,u74908502,Steve Howe,1,1
+bc1668,u10015157,Suzy Rutter,1,1
+bc1669,,,0,0
+bc1678,u60946907,Andy Greaves,1,1
+bc1679,,,0,0
+bc1682,,,0,0
+bc1686,u10147511,Babar Neyazi,1,1
+bc1686,u10111373,Charlotte Coulson,1,1
+bc1686,u88945412,Dave Pankhurst,1,1
+bc1686,u92491309,Dominic Pinto,1,1
+bc1686,u83652903,Gillian Leighton,1,1
+bc1686,u10146037,Hannah Langston,1,1
+bc1686,u10146122,Hassan Hassan,1,1
+bc1686,u71952400,Howard Redway,1,1
+bc1686,u10076219,James Hudson,1,1
+bc1686,u10098491,James Oswald,1,1
+bc1686,u88820207,James Rees,1,1
+bc1686,u46032075,Jennifer George,1,1
+bc1686,u10149302,Jennifer Shearer,1,1
+bc1686,u55367111,Joe Bosak,1,1
+bc1686,u59219109,John Snow,1,1
+bc1686,u10097903,John Stainsby,1,1
+bc1686,u10123931,Manisha Jundoosingh,1,1
+bc1686,u87964206,Michael Twinem,1,1
+bc1686,u10115002,Oliver Rea,1,1
+bc1686,u69600466,Rob Willis,1,1
+bc1686,u10116618,Ryan Davison,1,1
+bc1686,u90392606,Sam Mold,1,1
+bc1686,u91067306,Simon Clay,1,1
+bc1686,u10087633,Steve Webster,1,1
+bc1686,u74167502,Stuart Grant,1,1
+bc1686,u10116634,Tiffany Lau,1,1
+bc1686,u10063166,Timothy Hefferon,1,1
+bc1686,u10074778,Tony Breyal,1,1
+bc1686,u10075402,Yasmine Ammar,1,1
+bc1687,u10105936,Andrew Cruickshank,1,1
+bc1687,u10012626,Ben Durcan,1,1
+bc1687,u10094987,Benjamin Ashton,1,1
+bc1687,u92491309,Dominic Pinto,1,1
+bc1687,u86805011,Gary Gifford,1,1
+bc1687,u77418005,Gillian Ferry,1,1
+bc1687,u10098491,James Oswald,1,1
+bc1687,u88820207,James Rees,1,1
+bc1687,u46032075,Jennifer George,1,1
+bc1687,u55367111,Joe Bosak,1,1
+bc1687,u10082395,Julius Urbutis,1,1
+bc1687,u10107627,Luke Hartley,1,1
+bc1687,u10106551,Matt Parkinson,1,1
+bc1687,u10081038,Matthew Lawless,1,1
+bc1687,u10106551,Matthew Parkinson,1,1
+bc1687,u10076989,Matthew Tapley,1,1
+bc1687,u10092848,Max Levene,1,1
+bc1687,u88994910,Michael Payne,1,1
+bc1687,u10117064,Peter Booth,1,1
+bc1687,u10111432,Rhian Eveleigh,1,1
+bc1687,u10084627,Salina Choudhry,1,1
+bc1687,u90392606,Sam Mold,1,1
+bc1687,u10112091,Sarah-Kate O'Grady,1,1
+bc1687,u90195803,Steven Tulloch,1,1
+bc1687,u74167502,Stuart Grant,1,1
+bc1687,u10106373,Thomas Lloyd,1,1
+bc1687,u10063166,Timothy Hefferon,1,1
+bc1687,u82498209,Tom Younger,1,1
+bc1687,u56175502,Val Strassburg,1,1
+bc1699,,,0,0
+bc1705,,,0,0
+bc1708,,,0,0
+bc1714,,,0,0
+bc1715g,u10124282,Ahmed Ulusow,1,1
+bc1715g,u10106007,Andrew McCarthy,1,1
+bc1715g,u84091101,Belinda Selby,1,1
+bc1715g,u10092685,Charlotte Harris,1,1
+bc1715g,u10064731,Christopher Steer,1,1
+bc1715g,u10002831,David Howdon,1,1
+bc1715g,u88677207,David Irvine,1,1
+bc1715g,u10145766,Eleanor Doyle,1,1
+bc1715g,u10106399,Eleanor King,1,1
+bc1715g,u10144661,Erin Elliott,1,1
+bc1715g,u10116646,Erin Watkins,1,1
+bc1715g,u10117217,Faye Clancy,1,1
+bc1715g,u10104173,Francois Kabriti,1,1
+bc1715g,u10112189,Gail Ludlam,1,1
+bc1715g,u10103714,Hjalte Sorensen,1,1
+bc1715g,u10116569,Imogen Ellis,1,1
+bc1715g,u10116635,Jack Medlock,1,1
+bc1715g,u10144863,Jacob Kenny,1,1
+bc1715g,u10116638,Jessica Prince,1,1
+bc1715g,u10103134,Kate Martin,1,1
+bc1715g,u10105945,Kate Warner,1,1
+bc1715g,u10077648,Laura McConnell,1,1
+bc1715g,u10073726,Luke Staniland,1,1
+bc1715g,u10115339,Maham Hashmi,1,1
+bc1715g,u10080980,Matthew Edmundson,1,1
+bc1715g,u10070928,Mike Elkins,1,1
+bc1715g,u10144670,Peter Hornett,1,1
+bc1715g,u10124548,Philippa Roddis,1,1
+bc1715g,u10124362,Stephen Sint-Nicolaas,1,1
+bc1715g,u10117510,Susannah Boddie,1,1
+bc1715g,u10092176,Tara Nicholson,1,1
+bc1715g,u89089712,Valerie Christian,1,1
+bc1715g,u10116675,Zaynab Yasmeen,1,1
+bc1718,,,0,0
+bc1719,,,0,0
+bc1724,,,0,0
+bc1725,,,0,0
+bc1727,,,0,0
+bc1730g,u10088587,Abi Walsh,1,1
+bc1730g,u10118124,Adam McGuinness,1,1
+bc1730g,u10145154,Alice Delahay,1,1
+bc1730g,u82351100,Charlotte Cheung,1,1
+bc1730g,u10144988,Charlotte Jones,1,1
+bc1730g,u10108202,Christian Dutton,1,1
+bc1730g,u10116303,Christopher Ellis,1,1
+bc1730g,u10116554,Dane Meech,1,1
+bc1730g,u10116639,Dominic Sear,1,1
+bc1730g,u10148376,Elena Sharratt,1,1
+bc1730g,u10115317,Elijah Hall,1,1
+bc1730g,u10144953,Elliot Coenen,1,1
+bc1730g,u10145308,Jack Ross,1,1
+bc1730g,u10116316,Jake Shipley,1,1
+bc1730g,u10014365,Joanne Gilroy,1,1
+bc1730g,u10124125,Joe Richardson,1,1
+bc1730g,u88258803,Juliet Hutchinson,1,1
+bc1730g,u10021284,Kat Brotton,1,1
+bc1730g,u10112897,Laura Dawson,1,1
+bc1730g,u80165101,Leanne Tinker,1,1
+bc1730g,u10116654,Lewis Gill,1,1
+bc1730g,u10144955,Lewis Weinberger,1,1
+bc1730g,u10117531,Luke Scorer,1,1
+bc1730g,u10111839,Magnus Clarke,1,1
+bc1730g,u86873310,Mark Craimer,1,1
+bc1730g,u79836508,Mark Tempest,1,1
+bc1730g,u10120646,Martha Laney,1,1
+bc1730g,u10087472,Matthew Brown,1,1
+bc1730g,u10070832,Michelle Hayes,1,1
+bc1730g,u10108201,Oana Budurea,1,1
+bc1730g,u87945111,Peter Rochford,1,1
+bc1730g,u87177203,Phillip Smith,1,1
+bc1730g,u10144663,Polly Soole,1,1
+bc1730g,u10144911,Ryan Lee-Shield,1,1
+bc1730g,u10144713,Sarah Kovacs,1,1
+bc1730g,u85750907,Sarah Minto,1,1
+bc1730g,u10093014,Sarah Monks,1,1
+bc1730g,u10116582,Sian Galsworthy,1,1
+bc1730g,u10075614,Stacey Taylor,1,1
+bc1730g,u10115108,Steven Boyes,1,1
+bc1730g,u91241506,Susan Gillie,1,1
+bc1730g,u86840000,Thomas Dawson,1,1
+bc1730g,u10064732,Thomas Sims,1,1
+bc1730g,u10104467,William Waugh,1,1
+bc1730g,u10092045,Yasin Yusuf,1,1
+bc1731,,,0,0
+bc1732,,,0,0
+bc1740,,,0,0
+bc1743,,,0,0
+bc1744,,,0,0
+bc1749g,,,0,0
+bc1759,,,0,0
+bc1767,,,0,0
+bc1768,,,0,0
+bc1774,,,0,0
+bc1776,,,0,0
+bc1780,,,0,0
+bc1781,,,0,0
+bc1786g,u10124391,Adam Bravery,1,1
+bc1786g,u10105936,Andrew Cruickshank,1,1
+bc1786g,u10087661,Andrew Singleton,1,1
+bc1786g,u10147511,Babar Neyazi,1,1
+bc1786g,u46063066,Bethany Wyld,1,1
+bc1786g,u10111373,Charlotte Coulson,1,1
+bc1786g,u10116707,Daniel Hatton,1,1
+bc1786g,u88945412,Dave Pankhurst,1,1
+bc1786g,u92491309,Dominic Pinto,1,1
+bc1786g,u10145069,Eden Packer,1,1
+bc1786g,u10060583,Edmund Kirby,1,1
+bc1786g,u10026085,Edmund O'Mahony,1,1
+bc1786g,u10145224,Elliot Green,1,1
+bc1786g,u83652903,Gillian Leighton,1,1
+bc1786g,u10146037,Hannah Langston,1,1
+bc1786g,u10146122,Hassan Hassan,1,1
+bc1786g,u10117355,Helen Birks,1,1
+bc1786g,u71952400,Howard Redway,1,1
+bc1786g,u10087456,Imogen Butcher,1,1
+bc1786g,u10076219,James Hudson,1,1
+bc1786g,u10124352,James Mock,1,1
+bc1786g,u10098491,James Oswald,1,1
+bc1786g,u46032075,Jennifer George,1,1
+bc1786g,u10149302,Jennifer Shearer,1,1
+bc1786g,u55367111,Joe Bosak,1,1
+bc1786g,u78284210,Joe McLaughlin,1,1
+bc1786g,u59219109,John Snow,1,1
+bc1786g,u10097903,John Stainsby,1,1
+bc1786g,u10108177,Kally Chan,1,1
+bc1786g,u88174009,Lee McGargill,1,1
+bc1786g,u10123931,Manisha Jundoosingh,1,1
+bc1786g,u10082020,Maria Paliuc,1,1
+bc1786g,u87964206,Michael Twinem,1,1
+bc1786g,u10115002,Oliver Rea,1,1
+bc1786g,u10145069,Packer Eden,1,1
+bc1786g,u10115326,Quentin Dhumeaux,1,1
+bc1786g,u10107283,Rachel Bennett,1,1
+bc1786g,u10061511,Richard Mosley,1,1
+bc1786g,u69600466,Rob Willis,1,1
+bc1786g,u10144734,Ryan Churchill,1,1
+bc1786g,u10116618,Ryan Davison,1,1
+bc1786g,u90392606,Sam Mold,1,1
+bc1786g,u10118501,Samantha Shaw,1,1
+bc1786g,u91067306,Simon Clay,1,1
+bc1786g,u10087633,Steve Webster,1,1
+bc1786g,u90195803,Steven Tulloch,1,1
+bc1786g,u74167502,Stuart Grant,1,1
+bc1786g,u10116634,Tiffany Lau,1,1
+bc1786g,u10055660,Tim Knight,1,1
+bc1786g,u10063166,Timothy Hefferon,1,1
+bc1786g,u10074778,Tony Breyal,1,1
+bc1786g,u10025800,Trushar Pandya,1,1
+bc1786g,u10075402,Yasmine Ammar,1,1
+bc1786g,u10102902,Yolanda Ruiz-Rodriguez,1,1
+bc1787,,,0,0
+bc1789,,,0,0
+bc1790g,u63173905,Simon Gault,1,1
+bc1794,,,0,0
+bc1795,,,0,0
+bc1798,,,0,0
+bc1799,,,0,0
+bc1800,,,0,0
+bc1803,,,0,0
+bc1805,,,0,0
+bc1808,,,0,0
+bc1809,,,0,0
+bc1811g,u91140805,Adam Hillmore,1,1
+bc1811g,u10095367,Adam Phillips,1,1
+bc1811g,u60537002,Andrew Friedman,1,1
+bc1811g,u10046308,Andrew Stocks,1,1
+bc1811g,u69676064,Bruce Byrne,1,1
+bc1811g,u10116593,David Wynne,1,1
+bc1811g,u82407111,Edward Green,1,1
+bc1811g,u10119201,Edward Parsons,1,1
+bc1811g,u10145406,Ezra Khan,1,1
+bc1811g,u10119945,Felix Senga,1,1
+bc1811g,u10106588,Gabriel Ferros,1,1
+bc1811g,u10110919,Graham Walmsley,1,1
+bc1811g,u10124516,Isaac Holliday,1,1
+bc1811g,u10149710,Jack Bridgewater,1,1
+bc1811g,u10116602,James Cawley,1,1
+bc1811g,u80703301,Kavandeep Aujla,1,1
+bc1811g,u10145268,Lucy Hyde,1,1
+bc1811g,u10071458,Matthew Miller,1,1
+bc1811g,u10083441,Rahim Lakhani,1,1
+bc1811g,u89024111,Rhys Cockerell,1,1
+bc1811g,u10001893,Richard Ward,1,1
+bc1811g,u10123642,Sam Parsons,1,1
+bc1811g,u82935401,Simon Lunn,1,1
+bc1811g,u10144783,Sophie Talbot,1,1
+bc1811g,u10105923,Stephanie Astley,1,1
+bc1811g,u10076205,Stephanie Isaac,1,1
+bc1811g,u10070005,Stephanie Llewelyn,1,1
+bc1811g,u10116666,Zachary Vella,1,1
+bc1813,,,0,0
+bc1814,,,0,0
+bc1819g,u83620109,Andy Moffatt,1,1
+bc1819g,u10144843,Ayesha Abbas,1,1
+bc1819g,u48003928,Casey Fawcett,1,1
+bc1819g,u10124122,Daniel Phillips,1,1
+bc1819g,u10107155,Danni Bryant,1,1
+bc1819g,u10003241,Darren Bottoms,1,1
+bc1819g,u76601507,Diane Hume,1,1
+bc1819g,u10124207,Euan Coyle,1,1
+bc1819g,u10116617,Genevieve Berwick,1,1
+bc1819g,u10116584,Georgia Moore,1,1
+bc1819g,u10090828,Giovanna Mollo,1,1
+bc1819g,u72604007,Graham Jones,1,1
+bc1819g,u78537011,James Lind,1,1
+bc1819g,u10064951,Jeraldine Kay,1,1
+bc1819g,u10149835,Joshua Williams,1,1
+bc1819g,u76451909,Julie Ashton,1,1
+bc1819g,u10015078,Laura Durant,1,1
+bc1819g,u10116330,Lauriane Canadas,1,1
+bc1819g,u10034474,Lucian Strinati-Greenwood,1,1
+bc1819g,u86938310,Marianne Bacon,1,1
+bc1819g,u10107654,Matthew Conway,1,1
+bc1819g,u10095539,Michael Roussos-Poponis,1,1
+bc1819g,u84357908,Nick Murphy,1,1
+bc1819g,u10144945,Niyazi Eriksen,1,1
+bc1819g,u10065117,Patricia Stone,1,1
+bc1819g,u69352513,Paul Higginbottom,1,1
+bc1819g,u72915112,Richard Parker,1,1
+bc1819g,u10050290,Richard Wookey,1,1
+bc1819g,u10107180,Robin Wood,1,1
+bc1819g,u10076987,Sajan Chadha,1,1
+bc1819g,u10144790,Samuel Shilton,1,1
+bc1819g,u10144917,Sandev Kalsi,1,1
+bc1819g,u10145041,Sanjidah Ali,1,1
+bc1819g,u10080081,Sophie McLagan,1,1
+bc1819g,u10028433,Stuart Prince,1,1
+bc1819g,u10076127,Thomas Evans,1,1
+bc1819g,u69448928,Tom Davidson,1,1
+bc1822,u10086995,Alex Bailey,1,1
+bc1822,u48003395,James Grant,1,1
+bc1822,u79934707,Kevin Hawthorne,1,1
+bc1822,u46048470,Koushik Anagurthi,1,1
+bc1822,u10086813,Peter Baxter,1,1
+bc1822,u10087016,Timothy Patton,1,1
+bc1822,u48003394,Zinat Wali,1,1
+bc1823,,,0,0
+bc1826,,,0,0
+bc1831,,,0,0
+bc1832,,,0,0
+bc1833,,,0,0
+bc1834,,,0,0
+bc1835,u79934707,Kevin Hawthorne,1,1
+bc1835,u89009308,Mark Dobson,1,1
+bc1835,u77752804,Neil Taylor,1,1
+bc1835,u89003311,Nicky Tarry,1,1
+bc1844g,u10107187,Adam Raine,1,1
+bc1844g,u55832302,Andrew Needham,1,1
+bc1844g,u10017601,Andy Bell,1,1
+bc1844g,u78765112,Chris Page,1,1
+bc1844g,u10145328,Emma Hurst,1,1
+bc1844g,u10144905,Harriet Smallwood,1,1
+bc1844g,u10107334,Laura Robertson,1,1
+bc1844g,u10089194,Luke Barclay,1,1
+bc1844g,u10116670,Marcel Pawlik,1,1
+bc1844g,u48003599,William Bowers,1,1
+bc1852,,,0,0
+bc1855g,,,0,0
+bc1856,,,0,0
+bc1865,u60537002,Andrew Friedman,1,1
+bc1865,u10119201,Edward Parsons,1,1
+bc1865,u10144953,Elliot Coenen,1,1
+bc1865,u10119945,Felix Senga,1,1
+bc1865,u10144955,Lewis Weinberger,1,1
+bc1865,u86873310,Mark Craimer,1,1
+bc1865,u10117081,Philippe Gaudart-Wifling,1,1
+bc1865,u10076205,Stephanie Isaac,1,1
+bc1869g,u10081631,Adam Whitaker,1,1
+bc1869g,u10112870,Adina Huma,1,1
+bc1869g,u10075743,Alex Hart,1,1
+bc1869g,u10065127,Ally Mays,1,1
+bc1869g,u87144507,Ashley Buckner,1,1
+bc1869g,u63138805,Chris Tracey,1,1
+bc1869g,u10116612,Daniel Wilson,1,1
+bc1869g,u10117208,Darvin Sridharan,1,1
+bc1869g,u90765105,David Thompson,1,1
+bc1869g,u10087637,Edward Pitt,1,1
+bc1869g,u69614032,Gayle Gardner,1,1
+bc1869g,u80075708,Helen Capocci,1,1
+bc1869g,u74667708,Ian Davis,1,1
+bc1869g,u10087922,Imran Khan,1,1
+bc1869g,u10124196,Jake Gilbert,1,1
+bc1869g,u10124540,Jake Reast,1,1
+bc1869g,u88959405,James Barrott,1,1
+bc1869g,u10087109,James Hurkett,1,1
+bc1869g,u10049250,Lesley Wardlaw,1,1
+bc1869g,u85650304,Lorna Morns-Stephenson,1,1
+bc1869g,u10074705,Lucy McKenna,1,1
+bc1869g,u10065151,Mark Griffiths,1,1
+bc1869g,u81676511,Martin Moran,1,1
+bc1869g,u10081672,Matthew Roberts,1,1
+bc1869g,u10007771,Melanie Bowden,1,1
+bc1869g,u10144679,Millie Gallimore,1,1
+bc1869g,u64956512,Nigel Lister,1,1
+bc1869g,u10082042,Paris Kollias,1,1
+bc1869g,u10007253,Paul Ainsworth,1,1
+bc1869g,u81570205,Penny Pegman,1,1
+bc1869g,u10084786,Rachel Tokell,1,1
+bc1869g,u10076640,Reece Carney,1,1
+bc1869g,u10060581,Riaz Ali,1,1
+bc1869g,u89894301,Rickson Gunzo,1,1
+bc1869g,u10124126,Robbie Fisher,1,1
+bc1869g,u10000115,Samantha Poole,1,1
+bc1869g,u10073059,Samuel Caton,1,1
+bc1869g,u10116605,Shannon Doughty,1,1
+bc1869g,u10116662,Sophie Dangerfield,1,1
+bc1869g,u10000206,Stuart Hawkins,1,1
+bc1869g,u10111299,Stuart Lewis,1,1
+bc1869g,u64295903,Tony Albericci,1,1
+bc1869g,u10116663,Zara Loughridge,1,1
+bc1869wp,,,0,1
+bc1870g,,,0,1
+bc1871,,,0,0
+bc1872g,,,0,0
+bc1876,,,0,0
+bc1877,,,0,0
+bc1878,,,0,0
+bc1879,,,0,0
+bc1880,,,0,0
+bc1881,u77274907,Duncan Evans,1,0
+bc1887g,u10112348,David Hurst,1,1
+bc1887g,u10115033,Elainah Greer,1,1
+bc1887g,u74297404,Emma Slater,1,1
+bc1887g,u10073908,Graham Knox,1,1
+bc1887g,u10145515,Ravinder Boparai,1,1
+bc1887g,u10118740,Tom Griffiths,1,1
+bc1888g,u79060702,Alan Gibson,1,1
+bc1888g,u10018487,Ali Spahiu,1,1
+bc1888g,u10096834,Amy Grant,1,1
+bc1888g,u10116254,Andrew Etherington,1,1
+bc1888g,u10150407,Caitlin Rice,1,1
+bc1888g,u10151489,Cameron Goodwin,1,1
+bc1888g,u10117690,Charlotte Moyse,1,1
+bc1888g,u10115891,Charlotte Stubbs,1,1
+bc1888g,u10076486,Christopher Tucker,1,1
+bc1888g,u10071146,Claire Cameron,1,1
+bc1888g,u10063325,Clint Woo,1,1
+bc1888g,u10116283,Clive Warhurst,1,1
+bc1888g,u10117295,Daniel Jendrzejewski,1,1
+bc1888g,u83209701,Dawn McDonagh,1,1
+bc1888g,u10117286,Dominique Radcliffe,1,1
+bc1888g,u82640007,Donncha Burke,1,1
+bc1888g,u10063318,Ebun Modupeore Edwin,1,1
+bc1888g,u48003861,Edisa Livingstone,1,1
+bc1888g,u10110922,Faizaa Fazal,1,1
+bc1888g,u84084503,George Johnson,1,1
+bc1888g,u88989808,George Mclean,1,1
+bc1888g,u10109752,Georgios Tzelepis,1,1
+bc1888g,u10145500,Grace Moignard,1,1
+bc1888g,u10124202,Harrison Jones,1,1
+bc1888g,u10149458,Harry Phasey,1,1
+bc1888g,u10115913,Helen Smith,1,1
+bc1888g,u10116622,Ian Forbes,1,1
+bc1888g,u10117263,Ioana Criclevit,1,1
+bc1888g,u46059503,Jack Andrews,1,1
+bc1888g,u10117321,James Brown,1,1
+bc1888g,u10108972,James Gray,1,1
+bc1888g,u10086026,James Kerr,1,1
+bc1888g,u88958007,Jessica Arrowsmith,1,1
+bc1888g,u87447002,Joanne Burrage,1,1
+bc1888g,u10116299,Joe Bull,1,1
+bc1888g,u89001900,John Stacey,1,1
+bc1888g,u10117257,Jonathan Howard,1,1
+bc1888g,u10119942,Jonathan Thompson,1,1
+bc1888g,u10117209,Joseph Glynn,1,1
+bc1888g,u10124130,Joseph Oliver,1,1
+bc1888g,u10117280,Joseph Welham,1,1
+bc1888g,u70941307,Judith Correia,1,1
+bc1888g,u10148475,Justyna Owen,1,1
+bc1888g,u10110704,Juwaria Rahman,1,1
+bc1888g,u10089240,Katie Wong,1,1
+bc1888g,u10124365,Kiran Ameer,1,1
+bc1888g,u10117591,Kirsten Mackenzie,1,1
+bc1888g,u10117072,Leonardo Gada,1,1
+bc1888g,u10060972,Luke Stockham,1,1
+bc1888g,u10148848,Madeleine Winnard,1,1
+bc1888g,u90591506,Mark Vaughan,1,1
+bc1888g,u10117236,Martyn Rath,1,1
+bc1888g,u10103759,Matt Jarvis,1,1
+bc1888g,u10119227,Michael Willows,1,1
+bc1888g,u10124117,Mohammed Ismail Ali,1,1
+bc1888g,u46062474,Molly Lamb,1,1
+bc1888g,u10117083,Narayan Jayaram,1,1
+bc1888g,u77308302,Neil Sorensen,1,1
+bc1888g,u10075483,Peter Gomersall,1,1
+bc1888g,u10151388,Phoebe Hallett,1,1
+bc1888g,u10118854,Rachel Star,1,1
+bc1888g,u10104370,Ronald Forbes,1,1
+bc1888g,u88960607,Russ Bentley,1,1
+bc1888g,u48003865,Sarah Amis,1,1
+bc1888g,u10117092,Stephen Slater,1,1
+bc1888g,u88324306,Steven Watkins,1,1
+bc1888g,u10116005,Thomas Jones,1,1
+bc1888g,u10109180,Tonia Lewis,1,1
+bc1888g,u83691008,Tracy Hills,1,1
+bc1888g,u10117960,Umer Samin,1,1
+bc1888g,u10111438,William Barnes,1,1
+bc1888g,u10117065,William Drabble,1,1
+bc1890,,,0,0
+bc1893g,u10090259,Adam Robinson,1,1
+bc1893g,u10145233,Aimee Vickers,1,1
+bc1893g,u10150330,Alicia Slater,1,1
+bc1893g,u10086692,Andrew Ward,1,1
+bc1893g,u88609202,Angelo Valerio,1,1
+bc1893g,u48003643,Anisha Roberts,1,1
+bc1893g,u10124175,Anushka Badiani,1,1
+bc1893g,u10116653,Benjamin Phillips,1,1
+bc1893g,u46028204,Bert Van-Landeghem,1,1
+bc1893g,u10083840,Cassie Delano,1,1
+bc1893g,u84685704,Courtney Hoilett,1,1
+bc1893g,u46050003,Cyriac Kodath,1,1
+bc1893g,u69605489,Dan Reynolds,1,1
+bc1893g,u10144914,Daniel Woodell,1,1
+bc1893g,u10124198,Darrel Adams,1,1
+bc1893g,u10107343,Edward Martyn,1,1
+bc1893g,u84433909,Fergal O'Kane,1,1
+bc1893g,u10116649,Frankie Jackson,1,1
+bc1893g,u10149878,Georgia Cryan,1,1
+bc1893g,u10105854,Hannah Bewley,1,1
+bc1893g,u10116631,Inna Danylyuk,1,1
+bc1893g,u79160704,Jacob MacDonald,1,1
+bc1893g,u10116644,Jakob Reinholdsson,1,1
+bc1893g,u10080885,James Evans,1,1
+bc1893g,u10072168,Jessica Maddison,1,1
+bc1893g,u89201205,Joanna Lone,1,1
+bc1893g,u10086402,John Ferrier,1,1
+bc1893g,u10078353,Katie Underwood,1,1
+bc1893g,u10094818,Luke Montgomery,1,1
+bc1893g,u78099205,Mark Jackson,1,1
+bc1893g,u10007378,Nicholas Campbell,1,1
+bc1893g,u10103123,Peter Harrison-Evans,1,1
+bc1893g,u10074697,Raadhiyah Anees,1,1
+bc1893g,u60530809,Richenda Solon,1,1
+bc1893g,u74769108,Roger Morgan,1,1
+bc1893g,u10124127,Sam Kent,1,1
+bc1893g,u10064012,Sharon Moore,1,1
+bc1893g,u83626008,Simon Wood,1,1
+bc1893g,u10124369,Sinead Johnson-Oluwayose,1,1
+bc1893g,u10117066,Sirrie Stewart-Fowajuh,1,1
+bc1893g,u10008328,Stewart Butler,1,1
+bc1893g,u90149604,Tanya Powell,1,1
+bc1893g,u10144723,Thomas Hamlyn,1,1
+bc1893g,u88491000,Tom Stewart,1,1
+bc1893g,u10144818,Tyler Spencer-Pote,1,1
+bc1893g,u10075260,Wayne Walker,1,1
+bc1893g,u10024869,William Farbrother,1,1
+bc1893g,u10149849,Zana Wellicome,1,1
+bc1897,,,0,0
+bc1898,,,0,0
+bc1899,,,0,0
+bc1901,u10012626,Ben Durcan,1,1
+bc1901,u10094987,Benjamin Ashton,1,1
+bc1901,u10123718,Bethany Munns,1,1
+bc1901,u10124576,Charlotte Springle,1,1
+bc1901,u10075066,Christopher Lord,1,1
+bc1901,u10063337,Emma Hartley,1,1
+bc1901,u86805011,Gary Gifford,1,1
+bc1901,u77418005,Gillian Ferry,1,1
+bc1901,u10116629,Grace Cassidy,1,1
+bc1901,u10106375,Hannah McLennan,1,1
+bc1901,u69682307,Hatti Archer,1,1
+bc1901,u10081383,James Halse,1,1
+bc1901,u10145982,James Redfern,1,1
+bc1901,u88820207,James Rees,1,1
+bc1901,u10097907,Jennifer Gibson,1,1
+bc1901,u10116680,Jennifer Szulc,1,1
+bc1901,u10082395,Julius Urbutis,1,1
+bc1901,u10124114,Kieran Gregory,1,1
+bc1901,u10072125,Kris Simpson,1,1
+bc1901,u10107627,Luke Hartley,1,1
+bc1901,u10106551,Matt Parkinson,1,1
+bc1901,u10081038,Matthew Lawless,1,1
+bc1901,u10106551,Matthew Parkinson,1,1
+bc1901,u10076989,Matthew Tapley,1,1
+bc1901,u10117379,Muhammad Zaman,1,1
+bc1901,u10108039,Nicholas Thomas,1,1
+bc1901,u10076332,Paul Crust,1,1
+bc1901,u10117064,Peter Booth,1,1
+bc1901,u10117081,Philippe Gaudart-Wifling,1,1
+bc1901,u10110004,Rachel Boughey,1,1
+bc1901,u10145528,Rebecca McCaw,1,1
+bc1901,u10111432,Rhian Eveleigh,1,1
+bc1901,u86700312,Rob Hardcastle,1,1
+bc1901,u10124185,Robyn Kenwright,1,1
+bc1901,u10084627,Salina Choudhry,1,1
+bc1901,u10112091,Sarah-Kate O'Grady,1,1
+bc1901,u10106373,Thomas Lloyd,1,1
+bc1901,u10117383,William Talbot,1,1
+bc1901,u10149844,Xiang-Yang Tang,1,1
+bc1902,u10081631,Adam Whitaker,1,1
+bc1902,u10112870,Adina Huma,1,1
+bc1902,u10075743,Alex Hart,1,1
+bc1902,u10065127,Ally Mays,1,1
+bc1902,u87144507,Ashley Buckner,1,1
+bc1902,u63138805,Chris Tracey,1,1
+bc1902,u10116612,Daniel Wilson,1,1
+bc1902,u10117208,Darvin Sridharan,1,1
+bc1902,u90765105,David Thompson,1,1
+bc1902,u10087637,Edward Pitt,1,1
+bc1902,u69614032,Gayle Gardner,1,1
+bc1902,u80075708,Helen Capocci,1,1
+bc1902,u74667708,Ian Davis,1,1
+bc1902,u10087922,Imran Khan,1,1
+bc1902,u10124196,Jake Gilbert,1,1
+bc1902,u10124540,Jake Reast,1,1
+bc1902,u88959405,James Barrott,1,1
+bc1902,u10087109,James Hurkett,1,1
+bc1902,u10049250,Lesley Wardlaw,1,1
+bc1902,u85650304,Lorna Morns-Stephenson,1,1
+bc1902,u10074705,Lucy McKenna,1,1
+bc1902,u10065151,Mark Griffiths,1,1
+bc1902,u81676511,Martin Moran,1,1
+bc1902,u10081672,Matthew Roberts,1,1
+bc1902,u10007771,Melanie Bowden,1,1
+bc1902,u10144679,Millie Gallimore,1,1
+bc1902,u64956512,Nigel Lister,1,1
+bc1902,u10082042,Paris Kollias,1,1
+bc1902,u10007253,Paul Ainsworth,1,1
+bc1902,u81570205,Penny Pegman,1,1
+bc1902,u10084786,Rachel Tokell,1,1
+bc1902,u10076640,Reece Carney,1,1
+bc1902,u10060581,Riaz Ali,1,1
+bc1902,u89894301,Rickson Gunzo,1,1
+bc1902,u10124126,Robbie Fisher,1,1
+bc1902,u10000115,Samantha Poole,1,1
+bc1902,u10073059,Samuel Caton,1,1
+bc1902,u10116605,Shannon Doughty,1,1
+bc1902,u10116662,Sophie Dangerfield,1,1
+bc1902,u10000206,Stuart Hawkins,1,1
+bc1902,u10111299,Stuart Lewis,1,1
+bc1902,u64295903,Tony Albericci,1,1
+bc1902,u10116663,Zara Loughridge,1,1
+bc1903,u10065298,Aidan McCormack,1,1
+bc1903,u10071619,Annie Morton,1,1
+bc1903,u81499502,Charlie James,1,1
+bc1903,u78440700,Chris Cousins,1,1
+bc1903,u10103031,Cosmo Lupo,1,1
+bc1903,u10116594,Daniel Azaz,1,1
+bc1903,u10074463,Daniel Scorer,1,1
+bc1903,u10088164,David Young,1,1
+bc1903,u10092127,Douglas MacDivitt,1,1
+bc1903,u10144678,Eder Towers,1,1
+bc1903,u82977210,Elaine McCauley,1,1
+bc1903,u10096166,Ellie Grainger,1,1
+bc1903,u87447309,Gemma Kirk,1,1
+bc1903,u10063984,Glenn Covacic,1,1
+bc1903,u10096870,Grace Stamate,1,1
+bc1903,u91147207,Graham Oliver-Beech,1,1
+bc1903,u10111504,Hannah Bentham,1,1
+bc1903,u10145661,Hannah Short,1,1
+bc1903,u10070745,Helen Shackleton,1,1
+bc1903,u10107015,Helena Janes,1,1
+bc1903,u10084399,James Machin,1,1
+bc1903,u10071961,Jamie Douglas,1,1
+bc1903,u10081006,Joanna Edgell,1,1
+bc1903,u10076420,Joseph Cann,1,1
+bc1903,u10111949,Laurence Ellison,1,1
+bc1903,u10095351,Lily Shannon,1,1
+bc1903,u87957301,Louise Goulding,1,1
+bc1903,u10080886,Matthew Collins,1,1
+bc1903,u10116676,Megan Steele,1,1
+bc1903,u10085091,Meshkath Mukul,1,1
+bc1903,u10086262,Michael Scott,1,1
+bc1903,u10082095,Michelle Hurren,1,1
+bc1903,u10117225,Nathan Kelly,1,1
+bc1903,u90765203,Owen Magrath,1,1
+bc1903,u10121058,Philip Heron,1,1
+bc1903,u10063407,Rachel Councell,1,1
+bc1903,u10085592,Samuel McNeil,1,1
+bc1903,u10124386,Sophie Philips,1,1
+bc1903,u10077857,Stefania Porcu,1,1
+bc1903,u10064615,Stephanie Sarwar,1,1
+bc1903,u10063218,Thomas Pickering,1,1
+bc1903,u10089490,Tom Mouland,1,1
+bc1903,u86604909,Tom Walker,1,1
+bc1904,u10116603,Abigail Dawson,1,1
+bc1904,u91011308,Ivan Mathers,1,1
+bc1904,u10117294,Kiril Radionov,1,1
+bc1904,u10144949,Lukas Ambroza,1,1
+bc1904,u10116677,Rayhan Ravat,1,1
+bc1904,u75567112,Shane Kennedy,1,1
+bc1905,u10144659,Alexandra Mittens,1,1
+bc1905,u10144860,Aoife Bermingham,1,1
+bc1905,u10149401,Benjamin Green,1,1
+bc1905,u10124137,Beth Tinsley,1,1
+bc1905,u10074834,Clare Smithson,1,1
+bc1905,u10116620,Conall McNally,1,1
+bc1905,u10091293,David Campbell,1,1
+bc1905,u85082511,Elaine Willis,1,1
+bc1905,u10116599,Francine Kidd,1,1
+bc1905,u10144730,Hafizah Haider,1,1
+bc1905,u73450111,Jill Millichamp,1,1
+bc1905,u10089709,Joey Leung,1,1
+bc1905,u10002890,Josephine Daniels,1,1
+bc1905,u85684509,Kate Perry,1,1
+bc1905,u10018789,Katie Riley,1,1
+bc1905,u10103582,Manuella Njouoguep-laptche,1,1
+bc1905,u10116600,Mary Andryszewska,1,1
+bc1905,u10116606,Matthew Pike,1,1
+bc1905,u10148317,Matthew Renwick,1,1
+bc1905,u10063817,Michael Hatton,1,1
+bc1905,u88294811,Michelle Ridley,1,1
+bc1905,u10023546,Nadejda Tzokova,1,1
+bc1905,u85977610,Natalie Lloyd,1,1
+bc1905,u10144952,Nikkita Kamal,1,1
+bc1905,u90019310,Nina Wood,1,1
+bc1905,u10118781,Patrick Burns,1,1
+bc1905,u10071592,Rebecca Blackburn,1,1
+bc1905,u10028370,Sarah Connelly,1,1
+bc1905,u10116596,Shalisha Patrick,1,1
+bc1905,u88611103,Sirinnuj Redden,1,1
+bc1905,u10117089,Thomas Brewis,1,1
+bc1905,u10144677,Thomas Hampshire,1,1
+bc1905,u10060716,Waqas Zahid,1,1
+bc1905,u10123946,William Fairweather,1,1
+bc1906,u10116603,Abigail Dawson,1,1
+bc1906,u10105959,Christopher Vile,1,1
+bc1906,u10123755,Elliott Larkinson,1,1
+bc1906,u85801803,Jane Ball,1,1
+bc1906,u10064049,Keith Boote,1,1
+bc1906,u83216312,Libby Hughes,1,1
+bc1906,u91276802,Olatunde Akinlade,1,1
+bc1906,u75567112,Shane Kennedy,1,1
+bc1907,,,0,1
+bc1908,u10090259,Adam Robinson,1,1
+bc1908,u10145233,Aimee Vickers,1,1
+bc1908,u10150330,Alicia Slater,1,1
+bc1908,u10086692,Andrew Ward,1,1
+bc1908,u88609202,Angelo Valerio,1,1
+bc1908,u48003643,Anisha Roberts,1,1
+bc1908,u10124175,Anushka Badiani,1,1
+bc1908,u10116653,Benjamin Phillips,1,1
+bc1908,u46028204,Bert Van-Landeghem,1,1
+bc1908,u10083840,Cassie Delano,1,1
+bc1908,u84685704,Courtney Hoilett,1,1
+bc1908,u46050003,Cyriac Kodath,1,1
+bc1908,u69605489,Dan Reynolds,1,1
+bc1908,u10144914,Daniel Woodell,1,1
+bc1908,u10124198,Darrel Adams,1,1
+bc1908,u10107343,Edward Martyn,1,1
+bc1908,u84433909,Fergal O'Kane,1,1
+bc1908,u10116649,Frankie Jackson,1,1
+bc1908,u10149878,Georgia Cryan,1,1
+bc1908,u10105854,Hannah Bewley,1,1
+bc1908,u10116631,Inna Danylyuk,1,1
+bc1908,u79160704,Jacob MacDonald,1,1
+bc1908,u10116644,Jakob Reinholdsson,1,1
+bc1908,u10080885,James Evans,1,1
+bc1908,u10072168,Jessica Maddison,1,1
+bc1908,u89201205,Joanna Lone,1,1
+bc1908,u10086402,John Ferrier,1,1
+bc1908,u10078353,Katie Underwood,1,1
+bc1908,u10094818,Luke Montgomery,1,1
+bc1908,u78099205,Mark Jackson,1,1
+bc1908,u10007378,Nicholas Campbell,1,1
+bc1908,u10103123,Peter Harrison-Evans,1,1
+bc1908,u10074697,Raadhiyah Anees,1,1
+bc1908,u60530809,Richenda Solon,1,1
+bc1908,u74769108,Roger Morgan,1,1
+bc1908,u10124127,Sam Kent,1,1
+bc1908,u10064012,Sharon Moore,1,1
+bc1908,u83626008,Simon Wood,1,1
+bc1908,u10124369,Sinead Johnson-Oluwayose,1,1
+bc1908,u10117066,Sirrie Stewart-Fowajuh,1,1
+bc1908,u10008328,Stewart Butler,1,1
+bc1908,u90149604,Tanya Powell,1,1
+bc1908,u10144723,Thomas Hamlyn,1,1
+bc1908,u88491000,Tom Stewart,1,1
+bc1908,u10144818,Tyler Spencer-Pote,1,1
+bc1908,u10075260,Wayne Walker,1,1
+bc1908,u10024869,William Farbrother,1,1
+bc1908,u10149849,Zana Wellicome,1,1
+bc1909,u63173905,Simon Gault,1,1
+bc1910,u91140805,Adam Hillmore,1,1
+bc1910,u10095367,Adam Phillips,1,1
+bc1910,u60537002,Andrew Friedman,1,1
+bc1910,u10046308,Andrew Stocks,1,1
+bc1910,u69676064,Bruce Byrne,1,1
+bc1910,u10116593,David Wynne,1,1
+bc1910,u82407111,Edward Green,1,1
+bc1910,u10119201,Edward Parsons,1,1
+bc1910,u10145406,Ezra Khan,1,1
+bc1910,u10119945,Felix Senga,1,1
+bc1910,u10106588,Gabriel Ferros,1,1
+bc1910,u10110919,Graham Walmsley,1,1
+bc1910,u10124516,Isaac Holliday,1,1
+bc1910,u10149710,Jack Bridgewater,1,1
+bc1910,u10116602,James Cawley,1,1
+bc1910,u80703301,Kavandeep Aujla,1,1
+bc1910,u10145268,Lucy Hyde,1,1
+bc1910,u10071458,Matthew Miller,1,1
+bc1910,u10083441,Rahim Lakhani,1,1
+bc1910,u89024111,Rhys Cockerell,1,1
+bc1910,u10001893,Richard Ward,1,1
+bc1910,u10123642,Sam Parsons,1,1
+bc1910,u82935401,Simon Lunn,1,1
+bc1910,u10144783,Sophie Talbot,1,1
+bc1910,u10105923,Stephanie Astley,1,1
+bc1910,u10076205,Stephanie Isaac,1,1
+bc1910,u10070005,Stephanie Llewelyn,1,1
+bc1910,u10116666,Zachary Vella,1,1
+bc1911,u83620109,Andy Moffatt,1,1
+bc1911,u10144843,Ayesha Abbas,1,1
+bc1911,u48003928,Casey Fawcett,1,1
+bc1911,u10124122,Daniel Phillips,1,1
+bc1911,u10107155,Danni Bryant,1,1
+bc1911,u10003241,Darren Bottoms,1,1
+bc1911,u76601507,Diane Hume,1,1
+bc1911,u10124207,Euan Coyle,1,1
+bc1911,u10116617,Genevieve Berwick,1,1
+bc1911,u10116584,Georgia Moore,1,1
+bc1911,u10090828,Giovanna Mollo,1,1
+bc1911,u72604007,Graham Jones,1,1
+bc1911,u78537011,James Lind,1,1
+bc1911,u10064951,Jeraldine Kay,1,1
+bc1911,u10149835,Joshua Williams,1,1
+bc1911,u76451909,Julie Ashton,1,1
+bc1911,u10015078,Laura Durant,1,1
+bc1911,u10116330,Lauriane Canadas,1,1
+bc1911,u10034474,Lucian Strinati-Greenwood,1,1
+bc1911,u86938310,Marianne Bacon,1,1
+bc1911,u10107654,Matthew Conway,1,1
+bc1911,u10095539,Michael Roussos-Poponis,1,1
+bc1911,u84357908,Nick Murphy,1,1
+bc1911,u10144945,Niyazi Eriksen,1,1
+bc1911,u10065117,Patricia Stone,1,1
+bc1911,u69352513,Paul Higginbottom,1,1
+bc1911,u72915112,Richard Parker,1,1
+bc1911,u10050290,Richard Wookey,1,1
+bc1911,u10107180,Robin Wood,1,1
+bc1911,u10076987,Sajan Chadha,1,1
+bc1911,u10144790,Samuel Shilton,1,1
+bc1911,u10144917,Sandev Kalsi,1,1
+bc1911,u10145041,Sanjidah Ali,1,1
+bc1911,u10080081,Sophie McLagan,1,1
+bc1911,u10028433,Stuart Prince,1,1
+bc1911,u10076127,Thomas Evans,1,1
+bc1911,u69448928,Tom Davidson,1,1
+bc1912,u10107187,Adam Raine,1,1
+bc1912,u55832302,Andrew Needham,1,1
+bc1912,u10017601,Andy Bell,1,1
+bc1912,u78765112,Chris Page,1,1
+bc1912,u10145328,Emma Hurst,1,1
+bc1912,u10144905,Harriet Smallwood,1,1
+bc1912,u10107334,Laura Robertson,1,1
+bc1912,u10089194,Luke Barclay,1,1
+bc1912,u10116670,Marcel Pawlik,1,1
+bc1912,u48003599,William Bowers,1,1
+bc1913,u10124282,Ahmed Ulusow,1,1
+bc1913,u10106007,Andrew McCarthy,1,1
+bc1913,u84091101,Belinda Selby,1,1
+bc1913,u10092685,Charlotte Harris,1,1
+bc1913,u10064731,Christopher Steer,1,1
+bc1913,u10002831,David Howdon,1,1
+bc1913,u88677207,David Irvine,1,1
+bc1913,u10145766,Eleanor Doyle,1,1
+bc1913,u10106399,Eleanor King,1,1
+bc1913,u10144661,Erin Elliott,1,1
+bc1913,u10116646,Erin Watkins,1,1
+bc1913,u10117217,Faye Clancy,1,1
+bc1913,u10104173,Francois Kabriti,1,1
+bc1913,u10112189,Gail Ludlam,1,1
+bc1913,u10103714,Hjalte Sorensen,1,1
+bc1913,u10116569,Imogen Ellis,1,1
+bc1913,u10116635,Jack Medlock,1,1
+bc1913,u10144863,Jacob Kenny,1,1
+bc1913,u10116638,Jessica Prince,1,1
+bc1913,u10103134,Kate Martin,1,1
+bc1913,u10105945,Kate Warner,1,1
+bc1913,u10077648,Laura McConnell,1,1
+bc1913,u10073726,Luke Staniland,1,1
+bc1913,u10115339,Maham Hashmi,1,1
+bc1913,u10080980,Matthew Edmundson,1,1
+bc1913,u10070928,Mike Elkins,1,1
+bc1913,u10144670,Peter Hornett,1,1
+bc1913,u10124548,Philippa Roddis,1,1
+bc1913,u10124362,Stephen Sint-Nicolaas,1,1
+bc1913,u10117510,Susannah Boddie,1,1
+bc1913,u10092176,Tara Nicholson,1,1
+bc1913,u89089712,Valerie Christian,1,1
+bc1913,u10116675,Zaynab Yasmeen,1,1
+bc1914,u10088587,Abi Walsh,1,1
+bc1914,u10118124,Adam McGuinness,1,1
+bc1914,u10145154,Alice Delahay,1,1
+bc1914,u82351100,Charlotte Cheung,1,1
+bc1914,u10144988,Charlotte Jones,1,1
+bc1914,u10108202,Christian Dutton,1,1
+bc1914,u10116303,Christopher Ellis,1,1
+bc1914,u10116554,Dane Meech,1,1
+bc1914,u10116639,Dominic Sear,1,1
+bc1914,u10148376,Elena Sharratt,1,1
+bc1914,u10115317,Elijah Hall,1,1
+bc1914,u10144953,Elliot Coenen,1,1
+bc1914,u10145308,Jack Ross,1,1
+bc1914,u10116316,Jake Shipley,1,1
+bc1914,u10014365,Joanne Gilroy,1,1
+bc1914,u10124125,Joe Richardson,1,1
+bc1914,u88258803,Juliet Hutchinson,1,1
+bc1914,u10021284,Kat Brotton,1,1
+bc1914,u10112897,Laura Dawson,1,1
+bc1914,u80165101,Leanne Tinker,1,1
+bc1914,u10116654,Lewis Gill,1,1
+bc1914,u10144955,Lewis Weinberger,1,1
+bc1914,u10117531,Luke Scorer,1,1
+bc1914,u10111839,Magnus Clarke,1,1
+bc1914,u86873310,Mark Craimer,1,1
+bc1914,u79836508,Mark Tempest,1,1
+bc1914,u10120646,Martha Laney,1,1
+bc1914,u10087472,Matthew Brown,1,1
+bc1914,u10070832,Michelle Hayes,1,1
+bc1914,u10108201,Oana Budurea,1,1
+bc1914,u87945111,Peter Rochford,1,1
+bc1914,u87177203,Phillip Smith,1,1
+bc1914,u10144663,Polly Soole,1,1
+bc1914,u10144911,Ryan Lee-Shield,1,1
+bc1914,u10144713,Sarah Kovacs,1,1
+bc1914,u85750907,Sarah Minto,1,1
+bc1914,u10093014,Sarah Monks,1,1
+bc1914,u10116582,Sian Galsworthy,1,1
+bc1914,u10075614,Stacey Taylor,1,1
+bc1914,u10115108,Steven Boyes,1,1
+bc1914,u91241506,Susan Gillie,1,1
+bc1914,u86840000,Thomas Dawson,1,1
+bc1914,u10064732,Thomas Sims,1,1
+bc1914,u10104467,William Waugh,1,1
+bc1914,u10092045,Yasin Yusuf,1,1
+bc1915,,,0,0
+bc1916,u10124391,Adam Bravery,1,1
+bc1916,u10105936,Andrew Cruickshank,1,1
+bc1916,u10087661,Andrew Singleton,1,1
+bc1916,u10147511,Babar Neyazi,1,1
+bc1916,u46063066,Bethany Wyld,1,1
+bc1916,u10111373,Charlotte Coulson,1,1
+bc1916,u10116707,Daniel Hatton,1,1
+bc1916,u88945412,Dave Pankhurst,1,1
+bc1916,u92491309,Dominic Pinto,1,1
+bc1916,u10145069,Eden Packer,1,1
+bc1916,u10060583,Edmund Kirby,1,1
+bc1916,u10026085,Edmund O'Mahony,1,1
+bc1916,u10145224,Elliot Green,1,1
+bc1916,u83652903,Gillian Leighton,1,1
+bc1916,u10146037,Hannah Langston,1,1
+bc1916,u10146122,Hassan Hassan,1,1
+bc1916,u10117355,Helen Birks,1,1
+bc1916,u71952400,Howard Redway,1,1
+bc1916,u10087456,Imogen Butcher,1,1
+bc1916,u10076219,James Hudson,1,1
+bc1916,u10124352,James Mock,1,1
+bc1916,u10098491,James Oswald,1,1
+bc1916,u46032075,Jennifer George,1,1
+bc1916,u10149302,Jennifer Shearer,1,1
+bc1916,u55367111,Joe Bosak,1,1
+bc1916,u78284210,Joe McLaughlin,1,1
+bc1916,u59219109,John Snow,1,1
+bc1916,u10097903,John Stainsby,1,1
+bc1916,u10108177,Kally Chan,1,1
+bc1916,u88174009,Lee McGargill,1,1
+bc1916,u10123931,Manisha Jundoosingh,1,1
+bc1916,u10082020,Maria Paliuc,1,1
+bc1916,u87964206,Michael Twinem,1,1
+bc1916,u10115002,Oliver Rea,1,1
+bc1916,u10145069,Packer Eden,1,1
+bc1916,u10115326,Quentin Dhumeaux,1,1
+bc1916,u10107283,Rachel Bennett,1,1
+bc1916,u10061511,Richard Mosley,1,1
+bc1916,u69600466,Rob Willis,1,1
+bc1916,u10144734,Ryan Churchill,1,1
+bc1916,u10116618,Ryan Davison,1,1
+bc1916,u90392606,Sam Mold,1,1
+bc1916,u10118501,Samantha Shaw,1,1
+bc1916,u91067306,Simon Clay,1,1
+bc1916,u10087633,Steve Webster,1,1
+bc1916,u90195803,Steven Tulloch,1,1
+bc1916,u74167502,Stuart Grant,1,1
+bc1916,u10116634,Tiffany Lau,1,1
+bc1916,u10055660,Tim Knight,1,1
+bc1916,u10063166,Timothy Hefferon,1,1
+bc1916,u10074778,Tony Breyal,1,1
+bc1916,u10025800,Trushar Pandya,1,1
+bc1916,u10075402,Yasmine Ammar,1,1
+bc1916,u10102902,Yolanda Ruiz-Rodriguez,1,1
+bc1917,u10115961,Adam Thompson,1,1
+bc1917,u48003789,Arun Mehan,1,1
+bc1917,u10097733,Bryony Maw,1,1
+bc1917,u88957504,Chris Anderson,1,1
+bc1917,u48003707,Christopher Palmer,1,1
+bc1917,u10029504,Emine Deviren,1,1
+bc1917,u10011296,Francesco Arzilli,1,1
+bc1917,u10117260,Greg Harrison,1,1
+bc1917,u10117588,Hasan Uddin,1,1
+bc1917,u10000189,Hitesh Patel,1,1
+bc1917,u10116641,Inga Sagolla,1,1
+bc1917,u10124115,Joe McCready,1,1
+bc1917,u10109476,Ken Chalk,1,1
+bc1917,u10076244,Lyndon Clews,1,1
+bc1917,u10001189,Mark Burley,1,1
+bc1917,u91268512,Mark Langdon,1,1
+bc1917,u10079375,Michael Oldridge,1,1
+bc1917,u88994910,Michael Payne,1,1
+bc1917,u10111185,Pontus Ljungberg,1,1
+bc1917,u10037699,Sian Moley,1,1
+bc1917,u48003803,Toby Houston,1,1
+bc1917,u10145401,Veronica Tran,1,1
+bc1917,u10096973,William Shaw,1,1
+bc1917,u10089292,Zara Harrison,1,1
+bc1917,u46066408,Zareen Khan,1,1
+bc1918,,,0,1
+bc1919,,,0,0
+bc1922,,,0,0
+bc1923,,,0,0
+bc1924,,,0,0
+bc1925,u59349207,Ann Simpson-Hawkins,1,1
+bc1925,u10098073,John Bilverstone,1,1
+bc1925,u88822500,Louise Blake,1,1
+bc1926,,,0,0
+bc1932,,,0,0
+bc1937,,,0,0
+bc1938,u10112348,David Hurst,1,1
+bc1938,u10115033,Elainah Greer,1,1
+bc1938,u74297404,Emma Slater,1,1
+bc1938,u10073908,Graham Knox,1,1
+bc1938,u10145515,Ravinder Boparai,1,1
+bc1938,u10118740,Tom Griffiths,1,1
+bc1940,,,0,1
+bc1942,,,0,0
+bc1944g,u10115961,Adam Thompson,1,1
+bc1944g,u48003789,Arun Mehan,1,1
+bc1944g,u10097733,Bryony Maw,1,1
+bc1944g,u88957504,Chris Anderson,1,1
+bc1944g,u48003707,Christopher Palmer,1,1
+bc1944g,u10029504,Emine Deviren,1,1
+bc1944g,u10011296,Francesco Arzilli,1,1
+bc1944g,u10117260,Greg Harrison,1,1
+bc1944g,u10117588,Hasan Uddin,1,1
+bc1944g,u10000189,Hitesh Patel,1,1
+bc1944g,u10116641,Inga Sagolla,1,1
+bc1944g,u10124115,Joe McCready,1,1
+bc1944g,u10109476,Ken Chalk,1,1
+bc1944g,u10076244,Lyndon Clews,1,1
+bc1944g,u10001189,Mark Burley,1,1
+bc1944g,u91268512,Mark Langdon,1,1
+bc1944g,u10079375,Michael Oldridge,1,1
+bc1944g,u88994910,Michael Payne,1,1
+bc1944g,u10111185,Pontus Ljungberg,1,1
+bc1944g,u10037699,Sian Moley,1,1
+bc1944g,u48003803,Toby Houston,1,1
+bc1944g,u10145401,Veronica Tran,1,1
+bc1944g,u10096973,William Shaw,1,1
+bc1944g,u10089292,Zara Harrison,1,1
+bc1944g,u46066408,Zareen Khan,1,1
+bc1950,u79060702,Alan Gibson,1,1
+bc1950,u10018487,Ali Spahiu,1,1
+bc1950,u10116254,Andrew Etherington,1,1
+bc1950,u10150407,Caitlin Rice,1,1
+bc1950,u10115891,Charlotte Stubbs,1,1
+bc1950,u10063325,Clint Woo,1,1
+bc1950,u10117295,Daniel Jendrzejewski,1,1
+bc1950,u10117286,Dominique Radcliffe,1,1
+bc1950,u10063318,Ebun Modupeore Edwin,1,1
+bc1950,u48003861,Edisa Livingstone,1,1
+bc1950,u10110922,Faizaa Fazal,1,1
+bc1950,u10149458,Harry Phasey,1,1
+bc1950,u10116622,Ian Forbes,1,1
+bc1950,u10117263,Ioana Criclevit,1,1
+bc1950,u10117321,James Brown,1,1
+bc1950,u10108972,James Gray,1,1
+bc1950,u88958007,Jessica Arrowsmith,1,1
+bc1950,u89001900,John Stacey,1,1
+bc1950,u10119942,Jonathan Thompson,1,1
+bc1950,u10117209,Joseph Glynn,1,1
+bc1950,u10124130,Joseph Oliver,1,1
+bc1950,u70941307,Judith Correia,1,1
+bc1950,u10089240,Katie Wong,1,1
+bc1950,u10117072,Leonardo Gada,1,1
+bc1950,u10060972,Luke Stockham,1,1
+bc1950,u10148848,Madeleine Winnard,1,1
+bc1950,u10117236,Martyn Rath,1,1
+bc1950,u10124117,Mohammed Ismail Ali,1,1
+bc1950,u46062474,Molly Lamb,1,1
+bc1950,u10075483,Peter Gomersall,1,1
+bc1950,u10104370,Ronald Forbes,1,1
+bc1950,u88960607,Russ Bentley,1,1
+bc1950,u48003865,Sarah Amis,1,1
+bc1950,u10117092,Stephen Slater,1,1
+bc1950,u88324306,Steven Watkins,1,1
+bc1950,u10116005,Thomas Jones,1,1
+bc1950,u10109180,Tonia Lewis,1,1
+bc1950,u83691008,Tracy Hills,1,1
+bc1950,u10117960,Umer Samin,1,1
+bc1950chbr,u10018487,Ali Spahiu,1,1
+bc1950esaw,u10117263,Ioana Criclevit,1,1
+bc1950esaw,u70941307,Judith Correia,1,1
+bc1950esaw,u10089240,Katie Wong,1,1
+bc1950esaw,u10117591,Kirsten Mackenzie,1,1
+bc1950esaw,u10117072,Leonardo Gada,1,1
+bc1950esaw,u10117960,Umer Samin,1,1
+bc1950flom,u79060702,Alan Gibson,1,1
+bc1950flom,u10089240,Katie Wong,1,1
+bc1950hbpr,u79060702,Alan Gibson,1,1
+bc1950hbpr,u10104370,Ronald Forbes,1,1
+bc1950hbro,u10018487,Ali Spahiu,1,1
+bc1950hbro,u10115891,Charlotte Stubbs,1,1
+bc1950hbro,u10117286,Dominique Radcliffe,1,1
+bc1950hbro,u10149458,Harry Phasey,1,1
+bc1950hbro,u46062474,Molly Lamb,1,1
+bc1950pipp,u10110922,Faizaa Fazal,1,1
+bc1950pipp,u88958007,Jessica Arrowsmith,1,1
+bc1950pipp,u88960607,Russ Bentley,1,1
+bc1950pipp,u88324306,Steven Watkins,1,1
+bc1950ucre,u10116254,Andrew Etherington,1,1
+bc1950ucre,u10063318,Ebun Modupeore Edwin,1,1
+bc1950ucre,u10075483,Peter Gomersall,1,1
+bc1950ucre,u10117092,Stephen Slater,1,1
+bc1950ucre,u10116005,Thomas Jones,1,1
+bc1950ucre,u10111438,William Barnes,1,1
+bc1950wpad,,,0,1
+bc1951,u64331604,Anthony Gray,1,1
+bc1951,u85780905,Ian Miller,1,1
+bc1951,u10089821,Shaun Edwards,1,1
+bc1954g,u10112115,???,1,1
+bc1954g,u69395790,Adrian Stone,1,1
+bc1954g,u10085969,Aleksandra Bobrowska,1,1
+bc1954g,u10107862,Arthur Lugtigheid,1,1
+bc1954g,u87447100,Becky Martin-Smith,1,1
+bc1954g,u10080930,Daniel Routledge,1,1
+bc1954g,u56707509,Gayll Thomson,1,1
+bc1954g,u10112115,Marina Papadopoulou,1,1
+bc1954g,u10096227,Michal Wojcik,1,1
+bc1954g,u10111475,Olga Boynton,1,1
+bc1954g,u10110153,Oliver Houston,1,1
+bc1954g,u10077157,Pieter Wessels,1,1
+bc1954g,u10091876,Shruti Kohli,1,1
+bc1957,,,0,0
+bc1958,u10003241,Darren Bottoms,1,1
+bc1958,u10015078,Laura Durant,1,1
+bc1958,u10107180,Robin Wood,1,1
+bc1958,u69448928,Tom Davidson,1,1
+bc1959,u91140805,Adam Hillmore,1,1
+bc1959,u10095367,Adam Phillips,1,1
+bc1959,u60537002,Andrew Friedman,1,1
+bc1959,u10046308,Andrew Stocks,1,1
+bc1959,u69676064,Bruce Byrne,1,1
+bc1959,u10116593,David Wynne,1,1
+bc1959,u82407111,Edward Green,1,1
+bc1959,u10119201,Edward Parsons,1,1
+bc1959,u10145406,Ezra Khan,1,1
+bc1959,u10106588,Gabriel Ferros,1,1
+bc1959,u10110919,Graham Walmsley,1,1
+bc1959,u10124516,Isaac Holliday,1,1
+bc1959,u10149710,Jack Bridgewater,1,1
+bc1959,u10116602,James Cawley,1,1
+bc1959,u80703301,Kavandeep Aujla,1,1
+bc1959,u10145268,Lucy Hyde,1,1
+bc1959,u10071458,Matthew Miller,1,1
+bc1959,u10083441,Rahim Lakhani,1,1
+bc1959,u10001893,Richard Ward,1,1
+bc1959,u10123642,Sam Parsons,1,1
+bc1959,u82935401,Simon Lunn,1,1
+bc1959,u10144783,Sophie Talbot,1,1
+bc1959,u10105923,Stephanie Astley,1,1
+bc1959,u10076205,Stephanie Isaac,1,1
+bc1959,u10070005,Stephanie Llewelyn,1,1
+bc1959,u10116666,Zachary Vella,1,1
+bc1960,u89009308,Mark Dobson,1,1
+bc1960,u77752804,Neil Taylor,1,1
+bc1960,u89003311,Nicky Tarry,1,1
+bc1961,u86321509,Anna Dyson,1,1
+bc1961,u79934707,Kevin Hawthorne,1,1
+bc1961,u89009308,Mark Dobson,1,1
+bc1961,u77752804,Neil Taylor,1,1
+bc1961,u89003311,Nicky Tarry,1,1
+bc1962,,,0,0
+bc1963,,,0,0
+bc1964,u55832302,Andrew Needham,1,1
+bc1964,u10017601,Andy Bell,1,1
+bc1964,u10144905,Harriet Smallwood,1,1
+bc1965,u10112115,???,1,1
+bc1965,u69395790,Adrian Stone,1,1
+bc1965,u10085969,Aleksandra Bobrowska,1,1
+bc1965,u10107862,Arthur Lugtigheid,1,1
+bc1965,u87447100,Becky Martin-Smith,1,1
+bc1965,u10080930,Daniel Routledge,1,1
+bc1965,u56707509,Gayll Thomson,1,1
+bc1965,u10112115,Marina Papadopoulou,1,1
+bc1965,u10096227,Michal Wojcik,1,1
+bc1965,u10111475,Olga Boynton,1,1
+bc1965,u10110153,Oliver Houston,1,1
+bc1965,u10077157,Pieter Wessels,1,1
+bc1965,u10091876,Shruti Kohli,1,1
+bc1966,,,0,0
+bc1967,u10105936,Andrew Cruickshank,1,1
+bc1967,u10087661,Andrew Singleton,1,1
+bc1967,u10111373,Charlotte Coulson,1,1
+bc1967,u88945412,Dave Pankhurst,1,1
+bc1967,u83652903,Gillian Leighton,1,1
+bc1967,u10146037,Hannah Langston,1,1
+bc1967,u10117355,Helen Birks,1,1
+bc1967,u71952400,Howard Redway,1,1
+bc1967,u10124352,James Mock,1,1
+bc1967,u10098491,James Oswald,1,1
+bc1967,u59219109,John Snow,1,1
+bc1967,u10097903,John Stainsby,1,1
+bc1967,u10108177,Kally Chan,1,1
+bc1967,u10123931,Manisha Jundoosingh,1,1
+bc1967,u10082020,Maria Paliuc,1,1
+bc1967,u10107283,Rachel Bennett,1,1
+bc1967,u69600466,Rob Willis,1,1
+bc1967,u10144734,Ryan Churchill,1,1
+bc1967,u10118501,Samantha Shaw,1,1
+bc1967,u91067306,Simon Clay,1,1
+bc1967,u10087633,Steve Webster,1,1
+bc1967,u90195803,Steven Tulloch,1,1
+bc1967,u74167502,Stuart Grant,1,1
+bc1967,u10116634,Tiffany Lau,1,1
+bc1967,u10063166,Timothy Hefferon,1,1
+bc1967,u10074778,Tony Breyal,1,1
+bc1967,u10102902,Yolanda Ruiz-Rodriguez,1,1
+bc1967gen,u10111373,Charlotte Coulson,1,1
+bc1967gen,u59219109,John Snow,1,1
+bc1967gen,u74167502,Stuart Grant,1,1
+bc1967inf,u10111373,Charlotte Coulson,1,1
+bc1967inf,u88945412,Dave Pankhurst,1,1
+bc1967inf,u83652903,Gillian Leighton,1,1
+bc1967inf,u10098491,James Oswald,1,1
+bc1967inf,u59219109,John Snow,1,1
+bc1967inf,u10108177,Kally Chan,1,1
+bc1967inf,u69600466,Rob Willis,1,1
+bc1967inf,u10118501,Samantha Shaw,1,1
+bc1967inf,u10087633,Steve Webster,1,1
+bc1967inf,u10116634,Tiffany Lau,1,1
+bc1967inf,u10063166,Timothy Hefferon,1,1
+bc1968,u10081631,Adam Whitaker,1,1
+bc1968,u87144507,Ashley Buckner,1,1
+bc1968,u10116612,Daniel Wilson,1,1
+bc1968,u10145069,Eden Packer,1,1
+bc1968,u10060583,Edmund Kirby,1,1
+bc1968,u10087637,Edward Pitt,1,1
+bc1968,u10074705,Lucy McKenna,1,1
+bc1968,u81676511,Martin Moran,1,1
+bc1968,u10081672,Matthew Roberts,1,1
+bc1968,u10007771,Melanie Bowden,1,1
+bc1968,u10145069,Packer Eden,1,1
+bc1968,u10124126,Robbie Fisher,1,1
+bc1968,u10073059,Samuel Caton,1,1
+bc1968,u10000206,Stuart Hawkins,1,1
+bc1968,u10116663,Zara Loughridge,1,1
+bc1968de,,,0,1
+bc1968ev,u10117208,Darvin Sridharan,1,1
+bc1968ev,u74667708,Ian Davis,1,1
+bc1968ev,u10081672,Matthew Roberts,1,1
+bc1968ev,u10116663,Zara Loughridge,1,1
+bc1968rt,,,0,1
+bc1968uua,u10145069,Eden Packer,1,1
+bc1968uua,u10060583,Edmund Kirby,1,1
+bc1968uua,u10097903,John Stainsby,1,1
+bc1968uua,u10145069,Packer Eden,1,1
+bc1968uua,u10082042,Paris Kollias,1,1
+bc1968uua,u91067306,Simon Clay,1,1
+bc1968uua,u10025800,Trushar Pandya,1,1
+bc1968vo,u10082042,Paris Kollias,1,1
+bc1969cs2,,,0,0
+bc1970,u76323908,Chris Gowans,1,1
+bc1970,u10056683,Deepthi Vemireddy,1,1
+bc1970,u77274907,Duncan Evans,1,1
+bc1970,u46042764,Ravi Kumar,1,1
+bc1970,u92456601,Srinath Ravula,1,1
+bc1971,,,0,0
+bc1972,,,0,0
+bc1973,,,0,0
+bc1974,,,0,0
+bc1978,u10090259,Adam Robinson,1,1
+bc1978,u10086692,Andrew Ward,1,1
+bc1978,u48003643,Anisha Roberts,1,1
+bc1978,u10116653,Benjamin Phillips,1,1
+bc1978,u84433909,Fergal O'Kane,1,1
+bc1978,u10149878,Georgia Cryan,1,1
+bc1978,u10116644,Jakob Reinholdsson,1,1
+bc1978,u89201205,Joanna Lone,1,1
+bc1978,u10097903,John Stainsby,1,1
+bc1978,u10064012,Sharon Moore,1,1
+bc1978,u88491000,Tom Stewart,1,1
+bc1978lma,,,0,1
+bc1979,,,0,0
+bc1980,,,0,0
+bc1982,u66175409,Colin Lochhead,1,1
+bc1983,,,0,0
+bc1984,,,0,0
+bc1985,,,0,0
+bc1987,u76323908,Chris Gowans,1,1
+bc1987,u90011007,Christopher Allison,1,1
+bc1987,u76955107,Deana Roche,1,1
+bc1987,u10056683,Deepthi Vemireddy,1,1
+bc1987,u76728502,Doug Ruff,1,1
+bc1987,u77274907,Duncan Evans,1,1
+bc1987,u62392200,Janet Westwood,1,1
+bc1987,u78054809,Jayne Turner,1,1
+bc1987,u77397401,Kevin John Sills,1,1
+bc1987,u78222202,Paul Mccluskey,1,1
+bc1987,u46042764,Ravi Kumar,1,1
+bc1987,u85529600,Scott Porter,1,1
+bc1987,u92456601,Srinath Ravula,1,1
+bc1988,,,0,0
+bc1990,,,0,0
+bc1991,,,0,0
+bc1992,,,0,0
+bc1993,,,0,0
+bc1994,,,0,0
+bc1995,,,0,0
+bc1996,,,0,0
+bc1997,u55832302,Andrew Needham,1,1
+bc1997,u10144905,Harriet Smallwood,1,1
+bc1997,u74167502,Stuart Grant,1,1
+bc1998,,,0,0
+bc1999,u10112348,David Hurst,1,1
+bc1999,u10115033,Elainah Greer,1,1
+bc1999,u74297404,Emma Slater,1,1
+bc1999,u10073908,Graham Knox,1,1
+bc1999,u10145515,Ravinder Boparai,1,1
+bc1999,u10118740,Tom Griffiths,1,1
+bc2000,u52358212,Angie Panting,1,1
+bc2000,u77994604,Caroline Ashmore,1,1
+bc2000,u86884409,Daniel Hickey,1,1
+bc2000,u46064846,David Fleming,1,1
+bc2000,u80203010,Debbie Morton,1,1
+bc2000,u50829301,Debby Bell,1,1
+bc2000,u10014595,Iain Woolard,1,1
+bc2000,u79513311,Ingrid Whitworth,1,1
+bc2000,u10096747,Jen Machin,1,1
+bc2000,u85278112,Lee Swan,1,1
+bc2000,u80200606,Leigh Taggart,1,1
+bc2000,u43777206,Linda Donnelly,1,1
+bc2000,u10017946,Louise McGuinness,1,1
+bc2000,u10021846,Neil Coulson,1,1
+bc2000,u24366710,Sandra Cartner,1,1
+bc2000,u84023906,Stephen Clark,1,1
+bc2000,u74908502,Steve Howe,1,1
+bc2000,u10015157,Suzy Rutter,1,1
+bc2001g,,,0,0
+bc2003g,,,0,0
+bc2004,u10075157,Ahmed Khan,1,1
+bc2004,u77842406,Allyson Evans,1,1
+bc2004,u80957500,Andrea Robson,1,1
+bc2004,u86321509,Anna Dyson,1,1
+bc2004,u10117561,Billy Williams,1,1
+bc2004,u60804312,Christine Crozier,1,1
+bc2004,u69447275,Craig Barker,1,1
+bc2004,u10104152,Craig Skelton,1,1
+bc2004,u69611235,Dalbag Suman,1,1
+bc2004,u59821205,David Barnes,1,1
+bc2004,u64355507,David Ledger,1,1
+bc2004,u10105479,Dean Blake,1,1
+bc2004,u80421410,Ian Barlow,1,1
+bc2004,u10104031,Jude Dennis,1,1
+bc2004,u10105477,Mairead Kirby,1,1
+bc2004,u89009308,Mark Dobson,1,1
+bc2004,u56762612,Mick Watson,1,1
+bc2004,u85082204,Neil Emmerson,1,1
+bc2004,u77752804,Neil Taylor,1,1
+bc2004,u57195512,Richard Butterworth,1,1
+bc2004,u88398602,Richard Roblin,1,1
+bc2004,u10117214,Ridwan Jeena,1,1
+bc2004,u46064844,Saeed Anjum,1,1
+bc2004,u10120623,Stewart Lee,1,1
+bc2004,u75588010,Susan Harper,1,1
+bc2004,u10105480,Tracey Philip,1,1
+bc2004,u10117222,Umesh Asnani,1,1
+bc2005,u10075157,Ahmed Khan,1,1
+bc2005,u77842406,Allyson Evans,1,1
+bc2005,u80957500,Andrea Robson,1,1
+bc2005,u86321509,Anna Dyson,1,1
+bc2005,u10117561,Billy Williams,1,1
+bc2005,u60804312,Christine Crozier,1,1
+bc2005,u69447275,Craig Barker,1,1
+bc2005,u10104152,Craig Skelton,1,1
+bc2005,u69611235,Dalbag Suman,1,1
+bc2005,u59821205,David Barnes,1,1
+bc2005,u64355507,David Ledger,1,1
+bc2005,u10105479,Dean Blake,1,1
+bc2005,u80421410,Ian Barlow,1,1
+bc2005,u10104031,Jude Dennis,1,1
+bc2005,u10105477,Mairead Kirby,1,1
+bc2005,u89009308,Mark Dobson,1,1
+bc2005,u56762612,Mick Watson,1,1
+bc2005,u85082204,Neil Emmerson,1,1
+bc2005,u77752804,Neil Taylor,1,1
+bc2005,u57195512,Richard Butterworth,1,1
+bc2005,u88398602,Richard Roblin,1,1
+bc2005,u10117214,Ridwan Jeena,1,1
+bc2005,u46064844,Saeed Anjum,1,1
+bc2005,u10120623,Stewart Lee,1,1
+bc2005,u75588010,Susan Harper,1,1
+bc2005,u10105480,Tracey Philip,1,1
+bc2005,u10117222,Umesh Asnani,1,1
+bc2010,u79060702,Alan Gibson,1,1
+bc2010,u10018487,Ali Spahiu,1,1
+bc2010,u10096834,Amy Grant,1,1
+bc2010,u10116254,Andrew Etherington,1,1
+bc2010,u10150407,Caitlin Rice,1,1
+bc2010,u10151489,Cameron Goodwin,1,1
+bc2010,u10117690,Charlotte Moyse,1,1
+bc2010,u10115891,Charlotte Stubbs,1,1
+bc2010,u10076486,Christopher Tucker,1,1
+bc2010,u10071146,Claire Cameron,1,1
+bc2010,u10063325,Clint Woo,1,1
+bc2010,u10116283,Clive Warhurst,1,1
+bc2010,u10117295,Daniel Jendrzejewski,1,1
+bc2010,u83209701,Dawn McDonagh,1,1
+bc2010,u10117286,Dominique Radcliffe,1,1
+bc2010,u82640007,Donncha Burke,1,1
+bc2010,u10063318,Ebun Modupeore Edwin,1,1
+bc2010,u48003861,Edisa Livingstone,1,1
+bc2010,u10110922,Faizaa Fazal,1,1
+bc2010,u84084503,George Johnson,1,1
+bc2010,u88989808,George Mclean,1,1
+bc2010,u10109752,Georgios Tzelepis,1,1
+bc2010,u10145500,Grace Moignard,1,1
+bc2010,u10124202,Harrison Jones,1,1
+bc2010,u10149458,Harry Phasey,1,1
+bc2010,u10115913,Helen Smith,1,1
+bc2010,u10116622,Ian Forbes,1,1
+bc2010,u10117263,Ioana Criclevit,1,1
+bc2010,u46059503,Jack Andrews,1,1
+bc2010,u10117321,James Brown,1,1
+bc2010,u10108972,James Gray,1,1
+bc2010,u10086026,James Kerr,1,1
+bc2010,u88958007,Jessica Arrowsmith,1,1
+bc2010,u87447002,Joanne Burrage,1,1
+bc2010,u10116299,Joe Bull,1,1
+bc2010,u89001900,John Stacey,1,1
+bc2010,u10117257,Jonathan Howard,1,1
+bc2010,u10119942,Jonathan Thompson,1,1
+bc2010,u10117209,Joseph Glynn,1,1
+bc2010,u10124130,Joseph Oliver,1,1
+bc2010,u10117280,Joseph Welham,1,1
+bc2010,u70941307,Judith Correia,1,1
+bc2010,u10148475,Justyna Owen,1,1
+bc2010,u10110704,Juwaria Rahman,1,1
+bc2010,u10089240,Katie Wong,1,1
+bc2010,u10124365,Kiran Ameer,1,1
+bc2010,u10117591,Kirsten Mackenzie,1,1
+bc2010,u10117072,Leonardo Gada,1,1
+bc2010,u10060972,Luke Stockham,1,1
+bc2010,u10148848,Madeleine Winnard,1,1
+bc2010,u90591506,Mark Vaughan,1,1
+bc2010,u10117236,Martyn Rath,1,1
+bc2010,u10103759,Matt Jarvis,1,1
+bc2010,u10119227,Michael Willows,1,1
+bc2010,u10124117,Mohammed Ismail Ali,1,1
+bc2010,u46062474,Molly Lamb,1,1
+bc2010,u10117083,Narayan Jayaram,1,1
+bc2010,u77308302,Neil Sorensen,1,1
+bc2010,u10075483,Peter Gomersall,1,1
+bc2010,u10151388,Phoebe Hallett,1,1
+bc2010,u10118854,Rachel Star,1,1
+bc2010,u10104370,Ronald Forbes,1,1
+bc2010,u88960607,Russ Bentley,1,1
+bc2010,u48003865,Sarah Amis,1,1
+bc2010,u10117092,Stephen Slater,1,1
+bc2010,u88324306,Steven Watkins,1,1
+bc2010,u10116005,Thomas Jones,1,1
+bc2010,u10109180,Tonia Lewis,1,1
+bc2010,u83691008,Tracy Hills,1,1
+bc2010,u10117960,Umer Samin,1,1
+bc2010,u10111438,William Barnes,1,1
+bc2010,u10117065,William Drabble,1,1
+bc2011,,,0,0
+bc2012,u59349207,Ann Simpson-Hawkins,1,1
+bc2012,u10098073,John Bilverstone,1,1
+bc2012,u88822500,Louise Blake,1,1
+bc2014,,,0,0
+bc2015,,,0,0
+bc2016,,,0,0
+bc2017,,,0,0
+bc2018,,,0,0
+bc2019,u10107187,Adam Raine,1,1
+bc2019,u46049872,Allan Burrage,1,1
+bc2019,u10107343,Edward Martyn,1,1
+bc2019,u10116644,Jakob Reinholdsson,1,1
+bc2019,u46065405,Thomas Harris,1,1
+bc2019,u48003599,William Bowers,1,1
+bc2020,,,0,0
+bc2021,,,0,0
+bc2022,,,0,0
+bc2023,,,0,0
+bc2024,,,0,0
+bc2025,,,0,0
+bc2026,,,0,0
+bc2027,,,0,0
+bc2029,,,0,0
+bc2032,,,0,0
+bc2033,u60946907,Andy Greaves,1,1
+bc2033,u87641401,Christopher Norris,1,1
+bc2034,,,0,0
+bc2035,,,0,0
+bc2036,u52358212,Angie Panting,1,1
+bc2036,u77994604,Caroline Ashmore,1,1
+bc2036,u86884409,Daniel Hickey,1,1
+bc2036,u46064846,David Fleming,1,1
+bc2036,u80203010,Debbie Morton,1,1
+bc2036,u50829301,Debby Bell,1,1
+bc2036,u10014595,Iain Woolard,1,1
+bc2036,u79513311,Ingrid Whitworth,1,1
+bc2036,u10096747,Jen Machin,1,1
+bc2036,u85278112,Lee Swan,1,1
+bc2036,u80200606,Leigh Taggart,1,1
+bc2036,u43777206,Linda Donnelly,1,1
+bc2036,u10017946,Louise McGuinness,1,1
+bc2036,u10021846,Neil Coulson,1,1
+bc2036,u24366710,Sandra Cartner,1,1
+bc2036,u84023906,Stephen Clark,1,1
+bc2036,u74908502,Steve Howe,1,1
+bc2036,u10015157,Suzy Rutter,1,1
+bc2037,u10112348,David Hurst,1,1
+bc2037,u10115033,Elainah Greer,1,1
+bc2037,u74297404,Emma Slater,1,1
+bc2037,u10073908,Graham Knox,1,1
+bc2037,u10145515,Ravinder Boparai,1,1
+bc2037,u10118740,Tom Griffiths,1,1
+bc2038,,,0,0
+bc2039,,,0,0
+bc2040,,,0,0
+bc2041,,,0,0
+bc2043,,,0,0
+bc2044,,,0,0
+bc2047,u79934707,Kevin Hawthorne,1,1
+bc2047,u89003311,Nicky Tarry,1,1
+bc2048,,,0,0
+bc2049,u60946907,Andy Greaves,1,1
+bc2049,u87641401,Christopher Norris,1,1
+bc2050,,,0,0
+bc2052,,,0,0
+bc2054,,,0,0
+bc2055,u10056683,Deepthi Vemireddy,1,1
+bc2055,u46042764,Ravi Kumar,1,1
+bc2055,u92456601,Srinath Ravula,1,1
+bc2056,,,0,0
+bc2057,,,0,0
+bc2058,u10017674,Adam Pearce,1,1
+bc2058,u59349207,Ann Simpson-Hawkins,1,1
+bc2058,u10098073,John Bilverstone,1,1
+bc2058,u10085747,Kezia-Jane Rapley,1,1
+bc2058,u88822500,Louise Blake,1,1
+bc2058,u10118631,Michael Holland,1,1
+bc2058,u87813811,Richard Goulsbra,1,1
+bc2059,,,0,0
+bc2060,,,0,0
+bc2061g,,,0,0
+bc2062,,,0,0
+bc2064,,,0,0
+bc2065,u55832302,Andrew Needham,1,1
+bc2065,u10017601,Andy Bell,1,1
+bc2065,u10084627,Salina Choudhry,1,1
+bc2066,,,0,0
+bc2067,u86805011,Gary Gifford,1,1
+bc2067,u77418005,Gillian Ferry,1,1
+bc2067,u10063984,Glenn Covacic,1,1
+bc2067,u10124114,Kieran Gregory,1,1
+bc2067,u10117225,Nathan Kelly,1,1
+bc2067,u90765203,Owen Magrath,1,1
+bc2067,u10110004,Rachel Boughey,1,1
+bc2067,u10117383,William Talbot,1,1
+bc2067fwl,,,0,1
+bc2067tu15,,,0,0
+bc2068,,,0,0
+bc2069,,,0,1
+bc2070,u10090259,Adam Robinson,1,1
+bc2070,u10145233,Aimee Vickers,1,1
+bc2070,u10150330,Alicia Slater,1,1
+bc2070,u10086692,Andrew Ward,1,1
+bc2070,u88609202,Angelo Valerio,1,1
+bc2070,u48003643,Anisha Roberts,1,1
+bc2070,u10124175,Anushka Badiani,1,1
+bc2070,u10116653,Benjamin Phillips,1,1
+bc2070,u46028204,Bert Van-Landeghem,1,1
+bc2070,u10083840,Cassie Delano,1,1
+bc2070,u84685704,Courtney Hoilett,1,1
+bc2070,u46050003,Cyriac Kodath,1,1
+bc2070,u69605489,Dan Reynolds,1,1
+bc2070,u10144914,Daniel Woodell,1,1
+bc2070,u10124198,Darrel Adams,1,1
+bc2070,u10107343,Edward Martyn,1,1
+bc2070,u84433909,Fergal O'Kane,1,1
+bc2070,u10116649,Frankie Jackson,1,1
+bc2070,u10149878,Georgia Cryan,1,1
+bc2070,u10105854,Hannah Bewley,1,1
+bc2070,u10116631,Inna Danylyuk,1,1
+bc2070,u79160704,Jacob MacDonald,1,1
+bc2070,u10116644,Jakob Reinholdsson,1,1
+bc2070,u10080885,James Evans,1,1
+bc2070,u10072168,Jessica Maddison,1,1
+bc2070,u89201205,Joanna Lone,1,1
+bc2070,u10086402,John Ferrier,1,1
+bc2070,u10097903,John Stainsby,1,1
+bc2070,u10078353,Katie Underwood,1,1
+bc2070,u10094818,Luke Montgomery,1,1
+bc2070,u78099205,Mark Jackson,1,1
+bc2070,u10007378,Nicholas Campbell,1,1
+bc2070,u10103123,Peter Harrison-Evans,1,1
+bc2070,u10074697,Raadhiyah Anees,1,1
+bc2070,u60530809,Richenda Solon,1,1
+bc2070,u74769108,Roger Morgan,1,1
+bc2070,u10124127,Sam Kent,1,1
+bc2070,u10064012,Sharon Moore,1,1
+bc2070,u83626008,Simon Wood,1,1
+bc2070,u10124369,Sinead Johnson-Oluwayose,1,1
+bc2070,u10117066,Sirrie Stewart-Fowajuh,1,1
+bc2070,u10008328,Stewart Butler,1,1
+bc2070,u90149604,Tanya Powell,1,1
+bc2070,u10144723,Thomas Hamlyn,1,1
+bc2070,u88491000,Tom Stewart,1,1
+bc2070,u10144818,Tyler Spencer-Pote,1,1
+bc2070,u10075260,Wayne Walker,1,1
+bc2070,u10024869,William Farbrother,1,1
+bc2070,u10149849,Zana Wellicome,1,1
+bc2071,,,0,0
+bc2075,u10098491,James Oswald,1,1
+bc2075,u46032075,Jennifer George,1,1
+bc2076,u10116603,Abigail Dawson,1,1
+bc2076,u10103762,Jake Lowell,1,1
+bc2076,u75567112,Shane Kennedy,1,1
+bc2077,u10103762,Jake Lowell,1,1
+bc2077,u91276802,Olatunde Akinlade,1,1
+bc2077,u75567112,Shane Kennedy,1,1
+bc2078,u10014365,Joanne Gilroy,1,1
+bc2078,u80165101,Leanne Tinker,1,1
+bc2078,u86873310,Mark Craimer,1,1
+bc2078,u91241506,Susan Gillie,1,1
+bc2078,u86840000,Thomas Dawson,1,1
+bc2078,u10064732,Thomas Sims,1,1
+bc2079,,,0,0
+bc2080,u10092127,Douglas MacDivitt,1,1
+bc2080,u10063984,Glenn Covacic,1,1
+bc2080,u10117225,Nathan Kelly,1,1
+bc2080,u90765203,Owen Magrath,1,1
+bc2080,u10085592,Samuel McNeil,1,1
+bc2080,u10063218,Thomas Pickering,1,1
+bc2080pipr,u10092127,Douglas MacDivitt,1,1
+bc2080pipr,u10085592,Samuel McNeil,1,1
+bc2081,,,0,0
+bc2082,u10124282,Ahmed Ulusow,1,1
+bc2082,u10092685,Charlotte Harris,1,1
+bc2082,u10002831,David Howdon,1,1
+bc2082,u10082077,Eleanor King,1,1
+bc2082,u10103714,Hjalte Sorensen,1,1
+bc2082,u10116569,Imogen Ellis,1,1
+bc2082,u10116635,Jack Medlock,1,1
+bc2082,u10116638,Jessica Prince,1,1
+bc2082,u10103134,Kate Martin,1,1
+bc2082,u89089712,Valerie Christian,1,1
+bc2083,,,0,0
+bc2084,u10144843,Ayesha Abbas,1,1
+bc2084,u48003928,Casey Fawcett,1,1
+bc2084,u10107155,Danni Bryant,1,1
+bc2084,u76601507,Diane Hume,1,1
+bc2084,u10116617,Genevieve Berwick,1,1
+bc2084,u72604007,Graham Jones,1,1
+bc2084,u10064951,Jeraldine Kay,1,1
+bc2084,u10149835,Joshua Williams,1,1
+bc2084,u10015078,Laura Durant,1,1
+bc2084,u10095539,Michael Roussos-Poponis,1,1
+bc2084,u10065117,Patricia Stone,1,1
+bc2084,u10050290,Richard Wookey,1,1
+bc2084,u10107180,Robin Wood,1,1
+bc2084,u10028433,Stuart Prince,1,1
+bc2086,,,0,0
+bc2088,,,0,0
+bc2090,,,0,0
+bc2091,u90011007,Christopher Allison,1,1
+bc2091,u76955107,Deana Roche,1,1
+bc2091,u76728502,Doug Ruff,1,1
+bc2091,u78054809,Jayne Turner,1,1
+bc2091,u77397401,Kevin John Sills,1,1
+bc2091,u79485201,Paul Anderson,1,1
+bc2091,u65223502,Robert Mccreadie,1,1
+bc2091,u90576912,Rosanna Fleetwood,1,1
+bc2091,u85529600,Scott Porter,1,1
+bc2091,u71373201,Shane Bryant,1,1
+bc2092,,,0,0
+bc2094,u90011007,Christopher Allison,1,1
+bc2094,u76955107,Deana Roche,1,1
+bc2094,u76728502,Doug Ruff,1,1
+bc2094,u78054809,Jayne Turner,1,1
+bc2094,u77397401,Kevin John Sills,1,1
+bc2094,u79485201,Paul Anderson,1,1
+bc2094,u65223502,Robert Mccreadie,1,1
+bc2094,u90576912,Rosanna Fleetwood,1,1
+bc2094,u85529600,Scott Porter,1,1
+bc2094,u71373201,Shane Bryant,1,1
+bc2095,u76728502,Doug Ruff,1,1
+bc2095,u85529600,Scott Porter,1,1
+bc2098,u10065298,Aidan McCormack,1,1
+bc2098,u10088164,David Young,1,1
+bc2098,u10063407,Rachel Councell,1,1
+bc2099,,,0,0
+bc2100,,,0,0
+bc2103g,u64300711,Dean Harrowell,1,1
+bc2103g,u75517405,Suzy Robertson,1,1
+bc2104,u64300711,Dean Harrowell,1,1
+bc2104,u75517405,Suzy Robertson,1,1
+bc2106,,,0,0
+bc2108,u55832302,Andrew Needham,1,1
+bc2108,u10017601,Andy Bell,1,1
+bc2108,u10144905,Harriet Smallwood,1,1
+bc2110,,,0,0
+bc2112,u63138805,Chris Tracey,1,1
+bc2112,u10117208,Darvin Sridharan,1,1
+bc2112,u74667708,Ian Davis,1,1
+bc2112,u10081672,Matthew Roberts,1,1
+bc2112,u10116663,Zara Loughridge,1,1
+bc2113,,,0,0
+bc2114,,,0,0
+bc2118,u64331604,Anthony Gray,1,1
+bc2118,u73862812,Debbie Helm,1,1
+bc2118,u69351084,Gillian Watering,1,1
+bc2118,u85780905,Ian Miller,1,1
+bc2118,u65464812,Isabel Lord,1,1
+bc2118,u88443207,Mark Maclean,1,1
+bc2118,u57689904,Mark Weber,1,1
+bc2118,u10089821,Shaun Edwards,1,1
+bc2119,u64331604,Anthony Gray,1,1
+bc2119,u73862812,Debbie Helm,1,1
+bc2119,u69351084,Gillian Watering,1,1
+bc2119,u85780905,Ian Miller,1,1
+bc2119,u65464812,Isabel Lord,1,1
+bc2119,u88443207,Mark Maclean,1,1
+bc2119,u57689904,Mark Weber,1,1
+bc2119,u10089821,Shaun Edwards,1,1
+bc2120,u76323908,Chris Gowans,1,1
+bc2120,u77274907,Duncan Evans,1,1
+bc2122,,,0,0
+bc2123,u90011007,Christopher Allison,1,1
+bc2123,u76955107,Deana Roche,1,1
+bc2123,u76728502,Doug Ruff,1,1
+bc2123,u78054809,Jayne Turner,1,1
+bc2123,u77397401,Kevin John Sills,1,1
+bc2123,u79485201,Paul Anderson,1,1
+bc2123,u85529600,Scott Porter,1,1
+bc2123,u71373201,Shane Bryant,1,1
+bc2123rti,,,0,1
+bc2125,u87447100,Becky Martin-Smith,1,1
+bc2125,u56707509,Gayll Thomson,1,1
+bc2133,u10107187,Adam Raine,1,1
+bc2133,u10073908,Graham Knox,1,1
+bc2133,u10116644,Jakob Reinholdsson,1,1
+bc2133,u10118740,Tom Griffiths,1,1
+bc2140,u48007515,Alexander Kolomiets,1,1
+bc2140,u48007516,Asli Yalcin,1,1
+bc2140,u82640007,Donncha Burke,1,1
+bc2140,u48007513,Ian Creese,1,1
+bc2144,u69682307,Hatti Archer,1,1
+bc2144,u10081383,James Halse,1,1
+bc2144,u88820207,James Rees,1,1
+bc2144,u10106373,Thomas Lloyd,1,1
+bc2145,u10086692,Andrew Ward,1,1
+bc2145,u10147511,Babar Neyazi,1,1
+bc2145,u10123718,Bethany Munns,1,1
+bc2145,u88957504,Chris Anderson,1,1
+bc2145,u10144914,Daniel Woodell,1,1
+bc2145,u10002831,David Howdon,1,1
+bc2145,u92491309,Dominic Pinto,1,1
+bc2145,u10116631,Inna Danylyuk,1,1
+bc2145,u10076219,James Hudson,1,1
+bc2145,u10145982,James Redfern,1,1
+bc2145,u46032075,Jennifer George,1,1
+bc2145,u10116680,Jennifer Szulc,1,1
+bc2145,u10107627,Luke Hartley,1,1
+bc2145,u10106551,Matt Parkinson,1,1
+bc2145,u10081038,Matthew Lawless,1,1
+bc2145,u10106551,Matthew Parkinson,1,1
+bc2145,u10116296,Matthew Perciato,1,1
+bc2145,u10117379,Muhammad Zaman,1,1
+bc2145,u10076332,Paul Crust,1,1
+bc2145,u10117064,Peter Booth,1,1
+bc2145,u10097666,Philip Thomas,1,1
+bc2145,u10111432,Rhian Eveleigh,1,1
+bc2145,u74769108,Roger Morgan,1,1
+bc2145,u10084627,Salina Choudhry,1,1
+bc2145,u10064012,Sharon Moore,1,1
+bc2145,u10106373,Thomas Lloyd,1,1
+bc2145,u10096973,William Shaw,1,1
+bc2145,u10117383,William Talbot,1,1
+bc2146,u46049872,Allan Burrage,1,1
+bc2146,u46065405,Thomas Harris,1,1
+bc2147,u46049872,Allan Burrage,1,1
+bc2147,u46065405,Thomas Harris,1,1
+bc2149,u10086692,Andrew Ward,1,1
+bc2149,u10116653,Benjamin Phillips,1,1
+bc2149,u10144914,Daniel Woodell,1,1
+bc2149,u10107343,Edward Martyn,1,1
+bc2149,u10116631,Inna Danylyuk,1,1
+bc2149,u10116644,Jakob Reinholdsson,1,1
+bc2149,u80703301,Kavandeep Aujla,1,1
+bc2149,u10076332,Paul Crust,1,1
+bc2149,u10097666,Philip Thomas,1,1
+bc2149,u10074697,Raadhiyah Anees,1,1
+bc2149,u10061511,Richard Mosley,1,1
+bc2149,u10001893,Richard Ward,1,1
+bc2149,u74769108,Roger Morgan,1,1
+bc2149,u88491000,Tom Stewart,1,1
+bc2149,u10116666,Zachary Vella,1,1
+bc2153,,,0,0
+bc2154,,,0,0
+bc2158,,,0,0
+bc2159,u10086692,Andrew Ward,1,1
+bc2159,u10080885,James Evans,1,1
+bc2159,u10074697,Raadhiyah Anees,1,1
+bc2159,u10064012,Sharon Moore,1,1
+bc2163,,,0,0
+bc2164,u10046308,Andrew Stocks,1,1
+bc2164,u88609202,Angelo Valerio,1,1
+bc2164,u48003643,Anisha Roberts,1,1
+bc2164,u48003789,Arun Mehan,1,1
+bc2164,u10147511,Babar Neyazi,1,1
+bc2164,u10116653,Benjamin Phillips,1,1
+bc2164,u10123718,Bethany Munns,1,1
+bc2164,u10097733,Bryony Maw,1,1
+bc2164,u10092685,Charlotte Harris,1,1
+bc2164,u78440700,Chris Cousins,1,1
+bc2164,u10065077,Christine Peachey-Pace,1,1
+bc2164,u10064731,Christopher Steer,1,1
+bc2164,u10144914,Daniel Woodell,1,1
+bc2164,u10112348,David Hurst,1,1
+bc2164,u88677207,David Irvine,1,1
+bc2164,u92491309,Dominic Pinto,1,1
+bc2164,u10115033,Elainah Greer,1,1
+bc2164,u10106399,Eleanor King,1,1
+bc2164,u10145328,Emma Hurst,1,1
+bc2164,u84433909,Fergal O'Kane,1,1
+bc2164,u10116649,Frankie Jackson,1,1
+bc2164,u86805011,Gary Gifford,1,1
+bc2164,u10110919,Graham Walmsley,1,1
+bc2164,u10117588,Hasan Uddin,1,1
+bc2164,u10000189,Hitesh Patel,1,1
+bc2164,u10103714,Hjalte Sorensen,1,1
+bc2164,u71952400,Howard Redway,1,1
+bc2164,u10116569,Imogen Ellis,1,1
+bc2164,u10116631,Inna Danylyuk,1,1
+bc2164,u10076219,James Hudson,1,1
+bc2164,u10098491,James Oswald,1,1
+bc2164,u88820207,James Rees,1,1
+bc2164,u10124115,Joe McCready,1,1
+bc2164,u80703301,Kavandeep Aujla,1,1
+bc2164,u10109476,Ken Chalk,1,1
+bc2164,u10124114,Kieran Gregory,1,1
+bc2164,u10072125,Kris Simpson,1,1
+bc2164,u10077648,Laura McConnell,1,1
+bc2164,u10107334,Laura Robertson,1,1
+bc2164,u10095351,Lily Shannon,1,1
+bc2164,u10107627,Luke Hartley,1,1
+bc2164,u10076244,Lyndon Clews,1,1
+bc2164,u10001189,Mark Burley,1,1
+bc2164,u10106551,Matt Parkinson,1,1
+bc2164,u10080980,Matthew Edmundson,1,1
+bc2164,u10081038,Matthew Lawless,1,1
+bc2164,u10106551,Matthew Parkinson,1,1
+bc2164,u88994910,Michael Payne,1,1
+bc2164,u10117379,Muhammad Zaman,1,1
+bc2164,u77308302,Neil Sorensen,1,1
+bc2164,u10076332,Paul Crust,1,1
+bc2164,u10117064,Peter Booth,1,1
+bc2164,u10103123,Peter Harrison-Evans,1,1
+bc2164,u10145515,Ravinder Boparai,1,1
+bc2164,u10111432,Rhian Eveleigh,1,1
+bc2164,u10061511,Richard Mosley,1,1
+bc2164,u10001893,Richard Ward,1,1
+bc2164,u89894301,Rickson Gunzo,1,1
+bc2164,u86700312,Rob Hardcastle,1,1
+bc2164,u74769108,Roger Morgan,1,1
+bc2164,u10112091,Sarah-Kate O'Grady,1,1
+bc2164,u10064012,Sharon Moore,1,1
+bc2164,u10124362,Stephen Sint-Nicolaas,1,1
+bc2164,u10117510,Susannah Boddie,1,1
+bc2164,u10106373,Thomas Lloyd,1,1
+bc2164,u48003803,Toby Houston,1,1
+bc2164,u88491000,Tom Stewart,1,1
+bc2164,u10074778,Tony Breyal,1,1
+bc2164,u10117960,Umer Samin,1,1
+bc2164,u89089712,Valerie Christian,1,1
+bc2164,u10096973,William Shaw,1,1
+bc2164,u10117383,William Talbot,1,1
+bc2164,u10116675,Zaynab Yasmeen,1,1
+bc2165,u10124576,Charlotte Springle,1,1
+bc2165,u10106375,Hannah McLennan,1,1
+bc2165,u88820207,James Rees,1,1
+bc2165,u10109476,Ken Chalk,1,1
+bc2165,u10072125,Kris Simpson,1,1
+bc2165,u10107334,Laura Robertson,1,1
+bc2165,u10106551,Matt Parkinson,1,1
+bc2165,u10081038,Matthew Lawless,1,1
+bc2165,u10106551,Matthew Parkinson,1,1
+bc2165,u10076989,Matthew Tapley,1,1
+bc2165,u10117064,Peter Booth,1,1
+bc2165,u10110004,Rachel Boughey,1,1
+bc2165,u10061511,Richard Mosley,1,1
+bc2165,u86700312,Rob Hardcastle,1,1
+bc2166,u10097733,Bryony Maw,1,1
+bc2166,u10145328,Emma Hurst,1,1
+bc2166,u10109476,Ken Chalk,1,1
+bc2166,u86700312,Rob Hardcastle,1,1
+bc2167,u10106007,Andrew McCarthy,1,1
+bc2167,u10124576,Charlotte Springle,1,1
+bc2167,u78440700,Chris Cousins,1,1
+bc2167,u82407111,Edward Green,1,1
+bc2167,u86805011,Gary Gifford,1,1
+bc2167,u10106375,Hannah McLennan,1,1
+bc2167,u10000189,Hitesh Patel,1,1
+bc2167,u10076219,James Hudson,1,1
+bc2167,u88820207,James Rees,1,1
+bc2167,u10109476,Ken Chalk,1,1
+bc2167,u10095351,Lily Shannon,1,1
+bc2167,u10106551,Matt Parkinson,1,1
+bc2167,u10081038,Matthew Lawless,1,1
+bc2167,u10106551,Matthew Parkinson,1,1
+bc2167,u10116665,Michael Fini Henriques,1,1
+bc2167,u10076332,Paul Crust,1,1
+bc2167,u10117064,Peter Booth,1,1
+bc2167,u10111432,Rhian Eveleigh,1,1
+bc2167,u10061511,Richard Mosley,1,1
+bc2167,u10001893,Richard Ward,1,1
+bc2167,u86700312,Rob Hardcastle,1,1
+bc2167,u82935401,Simon Lunn,1,1
+bc2167,u10106373,Thomas Lloyd,1,1
+bc2168,u10107187,Adam Raine,1,1
+bc2168,u84685704,Courtney Hoilett,1,1
+bc2168,u10115033,Elainah Greer,1,1
+bc2168,u74297404,Emma Slater,1,1
+bc2168,u10145515,Ravinder Boparai,1,1
+bc2168,u83894409,Steve Perry,1,1
+bc2168,u10118740,Tom Griffiths,1,1
+bc2168,u56175502,Val Strassburg,1,1
+bc2168,u48003599,William Bowers,1,1
+bc2169,u10116620,Conall McNally,1,1
+bc2169,u10091293,David Campbell,1,1
+bc2169,u90765105,David Thompson,1,1
+bc2169,u10002890,Josephine Daniels,1,1
+bc2170,u46044900,Mark Mulvaney,1,1
+bc2170,u46063836,Richard Carey,1,1
+bc2170,u48003960,Robert Turner,1,1
+bc2171,,,0,1
+bc2175,u10090259,Adam Robinson,1,1
+bc2175,u88609202,Angelo Valerio,1,1
+bc2175,u48003643,Anisha Roberts,1,1
+bc2175,u46028204,Bert Van-Landeghem,1,1
+bc2175,u46050003,Cyriac Kodath,1,1
+bc2175,u10107343,Edward Martyn,1,1
+bc2175,u84433909,Fergal O'Kane,1,1
+bc2175,u10116617,Genevieve Berwick,1,1
+bc2175,u79160704,Jacob MacDonald,1,1
+bc2175,u10116644,Jakob Reinholdsson,1,1
+bc2175,u10086402,John Ferrier,1,1
+bc2175,u10094818,Luke Montgomery,1,1
+bc2175,u10007378,Nicholas Campbell,1,1
+bc2175,u10097666,Philip Thomas,1,1
+bc2175,u74769108,Roger Morgan,1,1
+bc2175,u10124127,Sam Kent,1,1
+bc2175,u10117066,Sirrie Stewart-Fowajuh,1,1
+bc2175,u10008328,Stewart Butler,1,1
+bc2175,u88491000,Tom Stewart,1,1
+bc2175,u10149849,Zana Wellicome,1,1
+bc2180,,,0,0
+bc2181,u10123718,Bethany Munns,1,1
+bc2181,u10092685,Charlotte Harris,1,1
+bc2181,u10124576,Charlotte Springle,1,1
+bc2181,u63138805,Chris Tracey,1,1
+bc2181,u10075066,Christopher Lord,1,1
+bc2181,u10116642,Christopher Proe,1,1
+bc2181,u10002831,David Howdon,1,1
+bc2181,u92491309,Dominic Pinto,1,1
+bc2181,u10106399,Eleanor King,1,1
+bc2181,u86805011,Gary Gifford,1,1
+bc2181,u10116629,Grace Cassidy,1,1
+bc2181,u10106375,Hannah McLennan,1,1
+bc2181,u69682307,Hatti Archer,1,1
+bc2181,u10103714,Hjalte Sorensen,1,1
+bc2181,u10116569,Imogen Ellis,1,1
+bc2181,u10098491,James Oswald,1,1
+bc2181,u88820207,James Rees,1,1
+bc2181,u46032075,Jennifer George,1,1
+bc2181,u10116680,Jennifer Szulc,1,1
+bc2181,u87447002,Joanne Burrage,1,1
+bc2181,u10124114,Kieran Gregory,1,1
+bc2181,u10072125,Kris Simpson,1,1
+bc2181,u10107627,Luke Hartley,1,1
+bc2181,u10076244,Lyndon Clews,1,1
+bc2181,u10106551,Matt Parkinson,1,1
+bc2181,u10081038,Matthew Lawless,1,1
+bc2181,u10106551,Matthew Parkinson,1,1
+bc2181,u10116296,Matthew Perciato,1,1
+bc2181,u10076989,Matthew Tapley,1,1
+bc2181,u10092848,Max Levene,1,1
+bc2181,u10117379,Muhammad Zaman,1,1
+bc2181,u10076332,Paul Crust,1,1
+bc2181,u10117064,Peter Booth,1,1
+bc2181,u10111432,Rhian Eveleigh,1,1
+bc2181,u86700312,Rob Hardcastle,1,1
+bc2181,u10124185,Robyn Kenwright,1,1
+bc2181,u10084627,Salina Choudhry,1,1
+bc2181,u90392606,Sam Mold,1,1
+bc2181,u10112091,Sarah-Kate O'Grady,1,1
+bc2181,u10106373,Thomas Lloyd,1,1
+bc2181,u10074778,Tony Breyal,1,1
+bc2181,u10096973,William Shaw,1,1
+bc2181,u10117383,William Talbot,1,1
+bc2182,u10124576,Charlotte Springle,1,1
+bc2182,u86805011,Gary Gifford,1,1
+bc2182,u10145500,Grace Moignard,1,1
+bc2182,u10117260,Greg Harrison,1,1
+bc2182,u10106375,Hannah McLennan,1,1
+bc2182,u10115913,Helen Smith,1,1
+bc2182,u10103762,Jake Lowell,1,1
+bc2182,u10098491,James Oswald,1,1
+bc2182,u88820207,James Rees,1,1
+bc2182,u46032075,Jennifer George,1,1
+bc2182,u87447002,Joanne Burrage,1,1
+bc2182,u10117280,Joseph Welham,1,1
+bc2182,u10109476,Ken Chalk,1,1
+bc2182,u10124114,Kieran Gregory,1,1
+bc2182,u10107627,Luke Hartley,1,1
+bc2182,u10076244,Lyndon Clews,1,1
+bc2182,u10106551,Matt Parkinson,1,1
+bc2182,u10081038,Matthew Lawless,1,1
+bc2182,u10106551,Matthew Parkinson,1,1
+bc2182,u10076989,Matthew Tapley,1,1
+bc2182,u88994910,Michael Payne,1,1
+bc2182,u10117064,Peter Booth,1,1
+bc2182,u10111432,Rhian Eveleigh,1,1
+bc2182,u86700312,Rob Hardcastle,1,1
+bc2182,u10112091,Sarah-Kate O'Grady,1,1
+bc2182,u10074778,Tony Breyal,1,1
+bc2182,u10096973,William Shaw,1,1
+bc2182,u10117383,William Talbot,1,1
+bc2184,u10124576,Charlotte Springle,1,1
+bc2184,u10075066,Christopher Lord,1,1
+bc2184,u10116629,Grace Cassidy,1,1
+bc2184,u10106375,Hannah McLennan,1,1
+bc2184,u69682307,Hatti Archer,1,1
+bc2184,u10081383,James Halse,1,1
+bc2184,u10145982,James Redfern,1,1
+bc2184,u10097907,Jennifer Gibson,1,1
+bc2184,u10082395,Julius Urbutis,1,1
+bc2184,u10107627,Luke Hartley,1,1
+bc2184,u10106551,Matt Parkinson,1,1
+bc2184,u10081038,Matthew Lawless,1,1
+bc2184,u10106551,Matthew Parkinson,1,1
+bc2184,u10116296,Matthew Perciato,1,1
+bc2184,u10076989,Matthew Tapley,1,1
+bc2184,u10117379,Muhammad Zaman,1,1
+bc2184,u10108039,Nicholas Thomas,1,1
+bc2184,u10076332,Paul Crust,1,1
+bc2184,u10117064,Peter Booth,1,1
+bc2184,u10145528,Rebecca McCaw,1,1
+bc2184,u10111432,Rhian Eveleigh,1,1
+bc2184,u86700312,Rob Hardcastle,1,1
+bc2184,u10106373,Thomas Lloyd,1,1
+bc2184,u10149844,Xiang-Yang Tang,1,1
+bc2185,u10112348,David Hurst,1,1
+bc2185,u10115033,Elainah Greer,1,1
+bc2185,u74297404,Emma Slater,1,1
+bc2185,u10145515,Ravinder Boparai,1,1
+bc2186,u56175502,Val Strassburg,1,1
+bc2187,u71952400,Howard Redway,1,1
+bc2187,u55367111,Joe Bosak,1,1
+bc2187,u87964206,Michael Twinem,1,1
+bc2188,u48003643,Anisha Roberts,1,1
+bc2188,u10107343,Edward Martyn,1,1
+bc2188,u10116644,Jakob Reinholdsson,1,1
+bc2189,u52358212,Angie Panting,1,1
+bc2189,u79934707,Kevin Hawthorne,1,1
+bc2189,u10021846,Neil Coulson,1,1
+bc2189,u55823509,Phil Bell,1,1
+bc2189,u88398602,Richard Roblin,1,1
+bc2191,u10017674,Adam Pearce,1,1
+bc2191,u59349207,Ann Simpson-Hawkins,1,1
+bc2191,u10098073,John Bilverstone,1,1
+bc2191,u10085747,Kezia-Jane Rapley,1,1
+bc2191,u88822500,Louise Blake,1,1
+bc2191,u10118631,Michael Holland,1,1
+bc2191,u87813811,Richard Goulsbra,1,1
+bc2192,u10017674,Adam Pearce,1,1
+bc2192,u59349207,Ann Simpson-Hawkins,1,1
+bc2192,u10098073,John Bilverstone,1,1
+bc2192,u10085747,Kezia-Jane Rapley,1,1
+bc2192,u88822500,Louise Blake,1,1
+bc2192,u10118631,Michael Holland,1,1
+bc2192,u87813811,Richard Goulsbra,1,1
+bc2193,u59349207,Ann Simpson-Hawkins,1,1
+bc2193,u10098073,John Bilverstone,1,1
+bc2194,u10145328,Emma Hurst,1,1
+bc2194,u10000189,Hitesh Patel,1,1
+bc2194,u10076244,Lyndon Clews,1,1
+bc2194,u10111185,Pontus Ljungberg,1,1
+bc2194,u10037699,Sian Moley,1,1
+bc2194,u46066408,Zareen Khan,1,1
+bc2195,u88957504,Chris Anderson,1,1
+bc2195,u46066408,Zareen Khan,1,1
+bc2196,,,0,0
+bc2197,,,0,0
+bc2202,,,0,1
+bc2203,,,0,0
+bc2204,u10072125,Kris Simpson,1,1
+bc2204,u10107334,Laura Robertson,1,1
+bc2204,u10106551,Matt Parkinson,1,1
+bc2204,u10106551,Matthew Parkinson,1,1
+bc2204,u10076989,Matthew Tapley,1,1
+bc2204,u10110004,Rachel Boughey,1,1
+bc2205,u10123718,Bethany Munns,1,1
+bc2205,u77418005,Gillian Ferry,1,1
+bc2205,u10097907,Jennifer Gibson,1,1
+bc2205,u10082395,Julius Urbutis,1,1
+bc2205,u10108039,Nicholas Thomas,1,1
+bc2205,u10149844,Xiang-Yang Tang,1,1
+bc2206,,,0,0
+bc2210,u10095367,Adam Phillips,1,1
+bc2210,u10107187,Adam Raine,1,1
+bc2210,u10090259,Adam Robinson,1,1
+bc2210,u48007515,Alexander Kolomiets,1,1
+bc2210,u48007506,Alice Ndikumagenge,1,1
+bc2210,u46049872,Allan Burrage,1,1
+bc2210,u55832302,Andrew Needham,1,1
+bc2210,u10086692,Andrew Ward,1,1
+bc2210,u10017601,Andy Bell,1,1
+bc2210,u48003643,Anisha Roberts,1,1
+bc2210,u48003789,Arun Mehan,1,1
+bc2210,u48007516,Asli Yalcin,1,1
+bc2210,u84091101,Belinda Selby,1,1
+bc2210,u10094987,Benjamin Ashton,1,1
+bc2210,u10116653,Benjamin Phillips,1,1
+bc2210,u10092685,Charlotte Harris,1,1
+bc2210,u10116283,Clive Warhurst,1,1
+bc2210,u88677207,David Irvine,1,1
+bc2210,u82640007,Donncha Burke,1,1
+bc2210,u10107343,Edward Martyn,1,1
+bc2210,u84433909,Fergal O'Kane,1,1
+bc2210,u10116649,Frankie Jackson,1,1
+bc2210,u86805011,Gary Gifford,1,1
+bc2210,u10116617,Genevieve Berwick,1,1
+bc2210,u10096870,Grace Stamate,1,1
+bc2210,u10117260,Greg Harrison,1,1
+bc2210,u10117588,Hasan Uddin,1,1
+bc2210,u10103714,Hjalte Sorensen,1,1
+bc2210,u48007513,Ian Creese,1,1
+bc2210,u10116569,Imogen Ellis,1,1
+bc2210,u10116635,Jack Medlock,1,1
+bc2210,u10116644,Jakob Reinholdsson,1,1
+bc2210,u78537011,James Lind,1,1
+bc2210,u88820207,James Rees,1,1
+bc2210,u10071961,Jamie Douglas,1,1
+bc2210,u10116638,Jessica Prince,1,1
+bc2210,u10086402,John Ferrier,1,1
+bc2210,u10103134,Kate Martin,1,1
+bc2210,u10089240,Katie Wong,1,1
+bc2210,u10124114,Kieran Gregory,1,1
+bc2210,u48003550,Laura Cheatham,1,1
+bc2210,u10089194,Luke Barclay,1,1
+bc2210,u10073726,Luke Staniland,1,1
+bc2210,u10060972,Luke Stockham,1,1
+bc2210,u10111839,Magnus Clarke,1,1
+bc2210,u48003833,Marcus Lewin,1,1
+bc2210,u10001189,Mark Burley,1,1
+bc2210,u10080980,Matthew Edmundson,1,1
+bc2210,u88994910,Michael Payne,1,1
+bc2210,u10119227,Michael Willows,1,1
+bc2210,u10076332,Paul Crust,1,1
+bc2210,u48003549,Peter Morgan,1,1
+bc2210,u10074697,Raadhiyah Anees,1,1
+bc2210,u10061511,Richard Mosley,1,1
+bc2210,u10001893,Richard Ward,1,1
+bc2210,u86700312,Rob Hardcastle,1,1
+bc2210,u88960607,Russ Bentley,1,1
+bc2210,u10124127,Sam Kent,1,1
+bc2210,u48007517,Samir Sweida-Metwally,1,1
+bc2210,u10064012,Sharon Moore,1,1
+bc2210,u88324306,Steven Watkins,1,1
+bc2210,u10008328,Stewart Butler,1,1
+bc2210,u10117510,Susannah Boddie,1,1
+bc2210,u46065405,Thomas Harris,1,1
+bc2210,u88491000,Tom Stewart,1,1
+bc2210,u89089712,Valerie Christian,1,1
+bc2210,u48003599,William Bowers,1,1
+bc2210,u10117383,William Talbot,1,1
+bc2210,u10116666,Zachary Vella,1,1
+bc2211,u10095367,Adam Phillips,1,1
+bc2211,u10107187,Adam Raine,1,1
+bc2211,u10090259,Adam Robinson,1,1
+bc2211,u48007515,Alexander Kolomiets,1,1
+bc2211,u48007506,Alice Ndikumagenge,1,1
+bc2211,u46049872,Allan Burrage,1,1
+bc2211,u55832302,Andrew Needham,1,1
+bc2211,u10086692,Andrew Ward,1,1
+bc2211,u10017601,Andy Bell,1,1
+bc2211,u88609202,Angelo Valerio,1,1
+bc2211,u48003643,Anisha Roberts,1,1
+bc2211,u48007516,Asli Yalcin,1,1
+bc2211,u84091101,Belinda Selby,1,1
+bc2211,u10094987,Benjamin Ashton,1,1
+bc2211,u10116653,Benjamin Phillips,1,1
+bc2211,u10092685,Charlotte Harris,1,1
+bc2211,u88957504,Chris Anderson,1,1
+bc2211,u10116283,Clive Warhurst,1,1
+bc2211,u88677207,David Irvine,1,1
+bc2211,u82640007,Donncha Burke,1,1
+bc2211,u10107343,Edward Martyn,1,1
+bc2211,u84433909,Fergal O'Kane,1,1
+bc2211,u10116649,Frankie Jackson,1,1
+bc2211,u86805011,Gary Gifford,1,1
+bc2211,u10116617,Genevieve Berwick,1,1
+bc2211,u10096870,Grace Stamate,1,1
+bc2211,u10117260,Greg Harrison,1,1
+bc2211,u10117588,Hasan Uddin,1,1
+bc2211,u10103714,Hjalte Sorensen,1,1
+bc2211,u48007513,Ian Creese,1,1
+bc2211,u10116569,Imogen Ellis,1,1
+bc2211,u10116635,Jack Medlock,1,1
+bc2211,u10116644,Jakob Reinholdsson,1,1
+bc2211,u78537011,James Lind,1,1
+bc2211,u88820207,James Rees,1,1
+bc2211,u10071961,Jamie Douglas,1,1
+bc2211,u10116638,Jessica Prince,1,1
+bc2211,u10086402,John Ferrier,1,1
+bc2211,u10103134,Kate Martin,1,1
+bc2211,u10089240,Katie Wong,1,1
+bc2211,u10124114,Kieran Gregory,1,1
+bc2211,u10089194,Luke Barclay,1,1
+bc2211,u10073726,Luke Staniland,1,1
+bc2211,u10060972,Luke Stockham,1,1
+bc2211,u10111839,Magnus Clarke,1,1
+bc2211,u10001189,Mark Burley,1,1
+bc2211,u10080980,Matthew Edmundson,1,1
+bc2211,u88994910,Michael Payne,1,1
+bc2211,u10119227,Michael Willows,1,1
+bc2211,u10076332,Paul Crust,1,1
+bc2211,u10074697,Raadhiyah Anees,1,1
+bc2211,u10061511,Richard Mosley,1,1
+bc2211,u10001893,Richard Ward,1,1
+bc2211,u86700312,Rob Hardcastle,1,1
+bc2211,u88960607,Russ Bentley,1,1
+bc2211,u10124127,Sam Kent,1,1
+bc2211,u48007517,Samir Sweida-Metwally,1,1
+bc2211,u10064012,Sharon Moore,1,1
+bc2211,u88324306,Steven Watkins,1,1
+bc2211,u10008328,Stewart Butler,1,1
+bc2211,u10117510,Susannah Boddie,1,1
+bc2211,u46065405,Thomas Harris,1,1
+bc2211,u88491000,Tom Stewart,1,1
+bc2211,u89089712,Valerie Christian,1,1
+bc2211,u48003599,William Bowers,1,1
+bc2211,u10096973,William Shaw,1,1
+bc2211,u10117383,William Talbot,1,1
+bc2211,u10116666,Zachary Vella,1,1
+bc2212,u55832302,Andrew Needham,1,1
+bc2212,u10144905,Harriet Smallwood,1,1
+bc2213,u86965107,Andrea Bennie,1,1
+bc2213,u10086739,Andrew Rushworth,1,1
+bc2213,u10092805,Christopher Wheeler,1,1
+bc2213,u53679208,Emma Gowan,1,1
+bc2213,u85356740,Lee Irving,1,1
+bc2213,u10018690,Nick Ryan,1,1
+bc2215,u80957500,Andrea Robson,1,1
+bc2215,u85082204,Neil Emmerson,1,1
+bc2215,u77752804,Neil Taylor,1,1
+bc2216,,,0,0
+bc2217,,,0,0
+bc2218,u10118740,Tom Griffiths,1,1
+bc2219,u10118740,Tom Griffiths,1,1
+bc2222g,u10116647,Cameron Currie,1,1
+bc2222g,u10116642,Christopher Proe,1,1
+bc2222g,u10112483,David Rubyan-Ling,1,1
+bc2222g,u10145143,Jacob Billingham,1,1
+bc2222g,u10075741,Lucy Allen,1,1
+bc2222g,u10116665,Michael Fini Henriques,1,1
+bc2222g,u10071457,Parisa Rezai-Tabrizi,1,1
+bc2222g,u10144951,Patrick Roseveare,1,1
+bc2222g,u10124465,Ryan Dosanjh,1,1
+bc2223,u10116647,Cameron Currie,1,1
+bc2223,u10116642,Christopher Proe,1,1
+bc2223,u10112483,David Rubyan-Ling,1,1
+bc2223,u10145143,Jacob Billingham,1,1
+bc2223,u10075741,Lucy Allen,1,1
+bc2223,u10116665,Michael Fini Henriques,1,1
+bc2223,u10071457,Parisa Rezai-Tabrizi,1,1
+bc2223,u10144951,Patrick Roseveare,1,1
+bc2223,u10124465,Ryan Dosanjh,1,1
+bc2224,u10116647,Cameron Currie,1,1
+bc2224,u10116642,Christopher Proe,1,1
+bc2224,u10145143,Jacob Billingham,1,1
+bc2224,u10075741,Lucy Allen,1,1
+bc2224,u10116665,Michael Fini Henriques,1,1
+bc2224,u10071457,Parisa Rezai-Tabrizi,1,1
+bc2224,u10144951,Patrick Roseveare,1,1
+bc2224,u10124465,Ryan Dosanjh,1,1
+bc2225,u10098491,James Oswald,1,1
+bc2225,u10103134,Kate Martin,1,1
+bc2234,u80957500,Andrea Robson,1,1
+bc2234,u85082204,Neil Emmerson,1,1
+bc2234,u77752804,Neil Taylor,1,1
+bc2235,u10075157,Ahmed Khan,1,1
+bc2235,u77842406,Allyson Evans,1,1
+bc2235,u80957500,Andrea Robson,1,1
+bc2235,u86321509,Anna Dyson,1,1
+bc2235,u10117561,Billy Williams,1,1
+bc2235,u60804312,Christine Crozier,1,1
+bc2235,u69447275,Craig Barker,1,1
+bc2235,u10104152,Craig Skelton,1,1
+bc2235,u69611235,Dalbag Suman,1,1
+bc2235,u59821205,David Barnes,1,1
+bc2235,u64355507,David Ledger,1,1
+bc2235,u10105479,Dean Blake,1,1
+bc2235,u80421410,Ian Barlow,1,1
+bc2235,u10104031,Jude Dennis,1,1
+bc2235,u10105477,Mairead Kirby,1,1
+bc2235,u89009308,Mark Dobson,1,1
+bc2235,u56762612,Mick Watson,1,1
+bc2235,u85082204,Neil Emmerson,1,1
+bc2235,u77752804,Neil Taylor,1,1
+bc2235,u57195512,Richard Butterworth,1,1
+bc2235,u88398602,Richard Roblin,1,1
+bc2235,u10117214,Ridwan Jeena,1,1
+bc2235,u46064844,Saeed Anjum,1,1
+bc2235,u46064851,Satish Tandel,1,1
+bc2235,u10120623,Stewart Lee,1,1
+bc2235,u75588010,Susan Harper,1,1
+bc2235,u10105480,Tracey Philip,1,1
+bc2235,u10117222,Umesh Asnani,1,1
+bc2241,u10072125,Kris Simpson,1,1
+bc2241,u10107334,Laura Robertson,1,1
+bc2241,u10110004,Rachel Boughey,1,1
+bc2242,u88609202,Angelo Valerio,1,1
+bc2243,,,0,1
+bc2244,,,0,0
+bc2245,u10072125,Kris Simpson,1,1
+bc2245,u10076989,Matthew Tapley,1,1
+bc2246,u10106007,Andrew McCarthy,1,1
+bc2246,u10046308,Andrew Stocks,1,1
+bc2246,u10086692,Andrew Ward,1,1
+bc2246,u48003643,Anisha Roberts,1,1
+bc2246,u10071619,Annie Morton,1,1
+bc2246,u48003789,Arun Mehan,1,1
+bc2246,u10116653,Benjamin Phillips,1,1
+bc2246,u46028204,Bert Van-Landeghem,1,1
+bc2246,u10097733,Bryony Maw,1,1
+bc2246,u78440700,Chris Cousins,1,1
+bc2246,u63138805,Chris Tracey,1,1
+bc2246,u84685704,Courtney Hoilett,1,1
+bc2246,u10144914,Daniel Woodell,1,1
+bc2246,u10124198,Darrel Adams,1,1
+bc2246,u88677207,David Irvine,1,1
+bc2246,u76601507,Diane Hume,1,1
+bc2246,u10145069,Eden Packer,1,1
+bc2246,u10060583,Edmund Kirby,1,1
+bc2246,u10106399,Eleanor King,1,1
+bc2246,u84433909,Fergal O'Kane,1,1
+bc2246,u10011296,Francesco Arzilli,1,1
+bc2246,u10116649,Frankie Jackson,1,1
+bc2246,u86805011,Gary Gifford,1,1
+bc2246,u10116617,Genevieve Berwick,1,1
+bc2246,u10117260,Greg Harrison,1,1
+bc2246,u10117588,Hasan Uddin,1,1
+bc2246,u71952400,Howard Redway,1,1
+bc2246,u74667708,Ian Davis,1,1
+bc2246,u10087456,Imogen Butcher,1,1
+bc2246,u10116631,Inna Danylyuk,1,1
+bc2246,u10149710,Jack Bridgewater,1,1
+bc2246,u10144863,Jacob Kenny,1,1
+bc2246,u79160704,Jacob MacDonald,1,1
+bc2246,u10080885,James Evans,1,1
+bc2246,u10076219,James Hudson,1,1
+bc2246,u10087109,James Hurkett,1,1
+bc2246,u88820207,James Rees,1,1
+bc2246,u85801803,Jane Ball,1,1
+bc2246,u10072168,Jessica Maddison,1,1
+bc2246,u10116638,Jessica Prince,1,1
+bc2246,u10124115,Joe McCready,1,1
+bc2246,u10097903,John Stainsby,1,1
+bc2246,u10076420,Joseph Cann,1,1
+bc2246,u10103134,Kate Martin,1,1
+bc2246,u10018789,Katie Riley,1,1
+bc2246,u80703301,Kavandeep Aujla,1,1
+bc2246,u10077648,Laura McConnell,1,1
+bc2246,u10095351,Lily Shannon,1,1
+bc2246,u10076244,Lyndon Clews,1,1
+bc2246,u10001189,Mark Burley,1,1
+bc2246,u90591506,Mark Vaughan,1,1
+bc2246,u81676511,Martin Moran,1,1
+bc2246,u10080980,Matthew Edmundson,1,1
+bc2246,u10076989,Matthew Tapley,1,1
+bc2246,u10085091,Meshkath Mukul,1,1
+bc2246,u10023546,Nadejda Tzokova,1,1
+bc2246,u85977610,Natalie Lloyd,1,1
+bc2246,u84357908,Nick Murphy,1,1
+bc2246,u10145069,Packer Eden,1,1
+bc2246,u10082042,Paris Kollias,1,1
+bc2246,u10076332,Paul Crust,1,1
+bc2246,u10074697,Raadhiyah Anees,1,1
+bc2246,u10063407,Rachel Councell,1,1
+bc2246,u10061511,Richard Mosley,1,1
+bc2246,u10001893,Richard Ward,1,1
+bc2246,u89894301,Rickson Gunzo,1,1
+bc2246,u69600466,Rob Willis,1,1
+bc2246,u74769108,Roger Morgan,1,1
+bc2246,u10124127,Sam Kent,1,1
+bc2246,u10073059,Samuel Caton,1,1
+bc2246,u10064012,Sharon Moore,1,1
+bc2246,u83626008,Simon Wood,1,1
+bc2246,u10077857,Stefania Porcu,1,1
+bc2246,u10124362,Stephen Sint-Nicolaas,1,1
+bc2246,u83894409,Steve Perry,1,1
+bc2246,u90195803,Steven Tulloch,1,1
+bc2246,u10106373,Thomas Lloyd,1,1
+bc2246,u10063218,Thomas Pickering,1,1
+bc2246,u48003803,Toby Houston,1,1
+bc2246,u88491000,Tom Stewart,1,1
+bc2246,u10025800,Trushar Pandya,1,1
+bc2246,u56175502,Val Strassburg,1,1
+bc2246,u89089712,Valerie Christian,1,1
+bc2246,u10096973,William Shaw,1,1
+bc2246,u10116666,Zachary Vella,1,1
+bc2248,,,0,1
+bc2250,u10107187,Adam Raine,1,1
+bc2250,u10073908,Graham Knox,1,1
+bc2250,u10089194,Luke Barclay,1,1
+bc2250,u48003599,William Bowers,1,1
+bc2252,u48007860,Ryan McDonald,1,0
+bc2253,u10107187,Adam Raine,1,1
+bc2253,u10089194,Luke Barclay,1,1
+bc2253,u48003599,William Bowers,1,1
+bc2254,,,0,1
+bc2255,u10144678,Eder Towers,1,1
+bc2255,u10095351,Lily Shannon,1,1
+bc2256,u10144678,Eder Towers,1,1
+bc2256,u10095351,Lily Shannon,1,1
+bc2257,u10081631,Adam Whitaker,1,1
+bc2257,u10116254,Andrew Etherington,1,1
+bc2257,u87144507,Ashley Buckner,1,1
+bc2257,u10117295,Daniel Jendrzejewski,1,1
+bc2257,u10063318,Ebun Modupeore Edwin,1,1
+bc2257,u48003861,Edisa Livingstone,1,1
+bc2257,u10087637,Edward Pitt,1,1
+bc2257,u10117209,Joseph Glynn,1,1
+bc2257,u10074705,Lucy McKenna,1,1
+bc2257,u10007771,Melanie Bowden,1,1
+bc2257,u10151388,Phoebe Hallett,1,1
+bc2257,u10073059,Samuel Caton,1,1
+bc2257,u10117092,Stephen Slater,1,1
+bc2257,u10116005,Thomas Jones,1,1
+bc2257,u10111438,William Barnes,1,1
+bc2258,u10081631,Adam Whitaker,1,1
+bc2258,u10116254,Andrew Etherington,1,1
+bc2258,u87144507,Ashley Buckner,1,1
+bc2258,u10117295,Daniel Jendrzejewski,1,1
+bc2258,u10063318,Ebun Modupeore Edwin,1,1
+bc2258,u48003861,Edisa Livingstone,1,1
+bc2258,u10087637,Edward Pitt,1,1
+bc2258,u10117209,Joseph Glynn,1,1
+bc2258,u10074705,Lucy McKenna,1,1
+bc2258,u10007771,Melanie Bowden,1,1
+bc2258,u10151388,Phoebe Hallett,1,1
+bc2258,u10073059,Samuel Caton,1,1
+bc2258,u10117092,Stephen Slater,1,1
+bc2258,u10116005,Thomas Jones,1,1
+bc2258,u10111438,William Barnes,1,1
+bc2259,u10117295,Daniel Jendrzejewski,1,1
+bc2259,u88989808,George Mclean,1,1
+bc2259,u10117263,Ioana Criclevit,1,1
+bc2259,u10117209,Joseph Glynn,1,1
+bc2259,u70941307,Judith Correia,1,1
+bc2259,u10117072,Leonardo Gada,1,1
+bc2260,u10117263,Ioana Criclevit,1,1
+bc2260,u10117072,Leonardo Gada,1,1
+bc2261g,u69605675,Ali McAuley,1,1
+bc2261g,u76508606,Anne Calvert,1,1
+bc2261g,u48003870,Catherine Smith,1,1
+bc2261g,u90199912,Dan Sturman,1,1
+bc2261g,u10057491,Deborah Sawyer,1,1
+bc2261g,u83537608,Donna Chapman,1,1
+bc2261g,u87843809,Estelle Livesey,1,1
+bc2261g,u10107231,Gabriela Harris,1,1
+bc2261g,u91159606,Ian Doran,1,1
+bc2261g,u36385909,Ian Matthews,1,1
+bc2261g,u38523501,Janet Coy,1,1
+bc2261g,u10151553,Jonathan Crickmore,1,1
+bc2261g,u10112950,Laura Gonzales-Alonso,1,1
+bc2261g,u10121064,Laura Parkhurst,1,1
+bc2261g,u10102086,Lottie Devaney,1,1
+bc2261g,u10123493,Mohammad Ansari,1,1
+bc2261g,u10087926,Stephen Davison,1,1
+bc2261g,u10091644,Terry James,1,1
+bc2261g,u10081847,Thomas Butterfield,1,1
+bc2262,u69605675,Ali McAuley,1,1
+bc2262,u76508606,Anne Calvert,1,1
+bc2262,u48003870,Catherine Smith,1,1
+bc2262,u90199912,Dan Sturman,1,1
+bc2262,u10057491,Deborah Sawyer,1,1
+bc2262,u83537608,Donna Chapman,1,1
+bc2262,u87843809,Estelle Livesey,1,1
+bc2262,u10107231,Gabriela Harris,1,1
+bc2262,u91159606,Ian Doran,1,1
+bc2262,u36385909,Ian Matthews,1,1
+bc2262,u38523501,Janet Coy,1,1
+bc2262,u10151553,Jonathan Crickmore,1,1
+bc2262,u10112950,Laura Gonzales-Alonso,1,1
+bc2262,u10121064,Laura Parkhurst,1,1
+bc2262,u10102086,Lottie Devaney,1,1
+bc2262,u10123493,Mohammad Ansari,1,1
+bc2262,u10087926,Stephen Davison,1,1
+bc2262,u10091644,Terry James,1,1
+bc2262,u10081847,Thomas Butterfield,1,1
+bc2263,u80957500,Andrea Robson,1,1
+bc2263,u85082204,Neil Emmerson,1,1
+bc2263,u77752804,Neil Taylor,1,1
+bc2265,u10104206,Rikki Webster,1,1
+bc2268,,,0,0
+bc2269,u55832302,Andrew Needham,1,1
+bc2269,u10017601,Andy Bell,1,1
+bc2269,u10144905,Harriet Smallwood,1,1
+bc2270,u10145224,Elliot Green,1,1
+bc2270,u10149878,Georgia Cryan,1,1
+bc2270,u10124352,James Mock,1,1
+bc2270,u10097903,John Stainsby,1,1
+bc2270,u91067306,Simon Clay,1,1
+bc2271,,,0,0
+bc2272,,,0,0
+bc2274,u10111373,Charlotte Coulson,1,1
+bc2274,u59219109,John Snow,1,1
+bc2274,u10123931,Manisha Jundoosingh,1,1
+bc2274,u10087633,Steve Webster,1,1
+bc2274,u10116634,Tiffany Lau,1,1
+bc2274,u10063166,Timothy Hefferon,1,1
+bc2275,,,0,0
+bc2276,u10081631,Adam Whitaker,1,1
+bc2276,u10124282,Ahmed Ulusow,1,1
+bc2276,u10086692,Andrew Ward,1,1
+bc2276,u48003789,Arun Mehan,1,1
+bc2276,u10116653,Benjamin Phillips,1,1
+bc2276,u10097733,Bryony Maw,1,1
+bc2276,u88957504,Chris Anderson,1,1
+bc2276,u63138805,Chris Tracey,1,1
+bc2276,u10080930,Daniel Routledge,1,1
+bc2276,u10087637,Edward Pitt,1,1
+bc2276,u10116599,Francine Kidd,1,1
+bc2276,u10116649,Frankie Jackson,1,1
+bc2276,u10117260,Greg Harrison,1,1
+bc2276,u10117588,Hasan Uddin,1,1
+bc2276,u79160704,Jacob MacDonald,1,1
+bc2276,u10080885,James Evans,1,1
+bc2276,u10086402,John Ferrier,1,1
+bc2276,u10076420,Joseph Cann,1,1
+bc2276,u10074705,Lucy McKenna,1,1
+bc2276,u10001189,Mark Burley,1,1
+bc2276,u81676511,Martin Moran,1,1
+bc2276,u88994910,Michael Payne,1,1
+bc2276,u10074697,Raadhiyah Anees,1,1
+bc2276,u74769108,Roger Morgan,1,1
+bc2276,u10073059,Samuel Caton,1,1
+bc2276,u10064012,Sharon Moore,1,1
+bc2276,u10104400,Steve Topping,1,1
+bc2276,u10008328,Stewart Butler,1,1
+bc2276,u10000206,Stuart Hawkins,1,1
+bc2276,u46066408,Zareen Khan,1,1
+bc2278,u69682307,Hatti Archer,1,1
+bc2278,u10081383,James Halse,1,1
+bc2278,u10145982,James Redfern,1,1
+bc2278,u10117379,Muhammad Zaman,1,1
+bc2278,u10076332,Paul Crust,1,1
+bc2278,u10145528,Rebecca McCaw,1,1
+bc2278,u10106373,Thomas Lloyd,1,1
+bc2279,,,0,0
+bc2283,,,0,1
+bc2286,u10081631,Adam Whitaker,1,1
+bc2286,u10087637,Edward Pitt,1,1
+bc2286,u10116617,Genevieve Berwick,1,1
+bc2286,u10116663,Zara Loughridge,1,1
+bc2287,u10046308,Andrew Stocks,1,1
+bc2288,u10081631,Adam Whitaker,1,1
+bc2288,u10086692,Andrew Ward,1,1
+bc2288,u48003789,Arun Mehan,1,1
+bc2288,u10116653,Benjamin Phillips,1,1
+bc2288,u10097733,Bryony Maw,1,1
+bc2288,u10087637,Edward Pitt,1,1
+bc2288,u10144953,Elliot Coenen,1,1
+bc2288,u10116599,Francine Kidd,1,1
+bc2288,u10116649,Frankie Jackson,1,1
+bc2288,u10117588,Hasan Uddin,1,1
+bc2288,u10144955,Lewis Weinberger,1,1
+bc2288,u10001189,Mark Burley,1,1
+bc2288,u86873310,Mark Craimer,1,1
+bc2288,u81676511,Martin Moran,1,1
+bc2288,u88994910,Michael Payne,1,1
+bc2288,u10082042,Paris Kollias,1,1
+bc2288,u10074697,Raadhiyah Anees,1,1
+bc2288,u89894301,Rickson Gunzo,1,1
+bc2288,u10073059,Samuel Caton,1,1
+bc2288,u10064012,Sharon Moore,1,1
+bc2288,u10104400,Steve Topping,1,1
+bc2288,u10115108,Steven Boyes,1,1
+bc2288,u88324306,Steven Watkins,1,1
+bc2288,u10000206,Stuart Hawkins,1,1
+bc2288,u46066408,Zareen Khan,1,1
+bc2291,,,0,1
+bc2296,,,0,1
+bc2298,u55832302,Andrew Needham,1,1
+bc2298,u10017601,Andy Bell,1,1
+bc2298,u48003550,Laura Cheatham,1,1
+bc2298,u48003833,Marcus Lewin,1,1
+bc2298,u48003549,Peter Morgan,1,1
+bc2299,u86321509,Anna Dyson,1,1
+bc2299,u89003311,Nicky Tarry,1,1
+bc2300,u10065298,Aidan McCormack,1,1
+bc2300,u10088164,David Young,1,1
+bc2300,u10063407,Rachel Councell,1,1
+bc2301,u55832302,Andrew Needham,1,1
+bc2301,u10017601,Andy Bell,1,1
+bc2302g,u10117087,Bridie Lavender,1,1
+bc2302g,u10058750,Dimitra Karperou,1,1
+bc2302g,u10078634,Gillian Hubbard,1,1
+bc2302g,u10065299,Joe Cheung,1,1
+bc2302g,u10144731,Katie James,1,1
+bc2302g,u10112942,Kyle Robertson,1,1
+bc2302g,u10094816,Luke Pickard,1,1
+bc2302g,u10092848,Max Levene,1,1
+bc2302g,u10086931,Maxine Willitts,1,1
+bc2302g,u10123715,Richard Bridge,1,1
+bc2302g,u10104206,Rikki Webster,1,1
+bc2302g,u10079703,Sarah Kenny,1,1
+bc2302g,u10144947,Sean Howell,1,1
+bc2302g,u10144676,Sophia Donnelly,1,1
+bc2302g,u10123920,Thomas Hudson,1,1
+bc2303,u10117087,Bridie Lavender,1,1
+bc2303,u10058750,Dimitra Karperou,1,1
+bc2303,u10078634,Gillian Hubbard,1,1
+bc2303,u10065299,Joe Cheung,1,1
+bc2303,u10144731,Katie James,1,1
+bc2303,u10112942,Kyle Robertson,1,1
+bc2303,u10094816,Luke Pickard,1,1
+bc2303,u10092848,Max Levene,1,1
+bc2303,u10086931,Maxine Willitts,1,1
+bc2303,u10123715,Richard Bridge,1,1
+bc2303,u10104206,Rikki Webster,1,1
+bc2303,u10079703,Sarah Kenny,1,1
+bc2303,u10144947,Sean Howell,1,1
+bc2303,u10144676,Sophia Donnelly,1,1
+bc2303,u10123920,Thomas Hudson,1,1
+bc2304,u79060702,Alan Gibson,1,1
+bc2304,u10018487,Ali Spahiu,1,1
+bc2304,u10096834,Amy Grant,1,1
+bc2304,u10116254,Andrew Etherington,1,1
+bc2304,u10150407,Caitlin Rice,1,1
+bc2304,u10092685,Charlotte Harris,1,1
+bc2304,u10117690,Charlotte Moyse,1,1
+bc2304,u10115891,Charlotte Stubbs,1,1
+bc2304,u10064731,Christopher Steer,1,1
+bc2304,u10076486,Christopher Tucker,1,1
+bc2304,u10071146,Claire Cameron,1,1
+bc2304,u10063325,Clint Woo,1,1
+bc2304,u10116283,Clive Warhurst,1,1
+bc2304,u10117295,Daniel Jendrzejewski,1,1
+bc2304,u10002831,David Howdon,1,1
+bc2304,u83209701,Dawn McDonagh,1,1
+bc2304,u10117286,Dominique Radcliffe,1,1
+bc2304,u82640007,Donncha Burke,1,1
+bc2304,u10063318,Ebun Modupeore Edwin,1,1
+bc2304,u48003861,Edisa Livingstone,1,1
+bc2304,u10106399,Eleanor King,1,1
+bc2304,u10110922,Faizaa Fazal,1,1
+bc2304,u84084503,George Johnson,1,1
+bc2304,u88989808,George Mclean,1,1
+bc2304,u10109752,Georgios Tzelepis,1,1
+bc2304,u10145500,Grace Moignard,1,1
+bc2304,u10124202,Harrison Jones,1,1
+bc2304,u10149458,Harry Phasey,1,1
+bc2304,u10115913,Helen Smith,1,1
+bc2304,u10103714,Hjalte Sorensen,1,1
+bc2304,u10116622,Ian Forbes,1,1
+bc2304,u10116569,Imogen Ellis,1,1
+bc2304,u10117263,Ioana Criclevit,1,1
+bc2304,u46059503,Jack Andrews,1,1
+bc2304,u10117321,James Brown,1,1
+bc2304,u10108972,James Gray,1,1
+bc2304,u10086026,James Kerr,1,1
+bc2304,u88958007,Jessica Arrowsmith,1,1
+bc2304,u87447002,Joanne Burrage,1,1
+bc2304,u10116299,Joe Bull,1,1
+bc2304,u89001900,John Stacey,1,1
+bc2304,u10117257,Jonathan Howard,1,1
+bc2304,u10119942,Jonathan Thompson,1,1
+bc2304,u10117209,Joseph Glynn,1,1
+bc2304,u10124130,Joseph Oliver,1,1
+bc2304,u10117280,Joseph Welham,1,1
+bc2304,u70941307,Judith Correia,1,1
+bc2304,u10148475,Justyna Owen,1,1
+bc2304,u10110704,Juwaria Rahman,1,1
+bc2304,u10089240,Katie Wong,1,1
+bc2304,u10124365,Kiran Ameer,1,1
+bc2304,u10117591,Kirsten Mackenzie,1,1
+bc2304,u10117072,Leonardo Gada,1,1
+bc2304,u10060972,Luke Stockham,1,1
+bc2304,u10148848,Madeleine Winnard,1,1
+bc2304,u10115339,Maham Hashmi,1,1
+bc2304,u90591506,Mark Vaughan,1,1
+bc2304,u10117236,Martyn Rath,1,1
+bc2304,u10103759,Matt Jarvis,1,1
+bc2304,u10080980,Matthew Edmundson,1,1
+bc2304,u10119227,Michael Willows,1,1
+bc2304,u10070928,Mike Elkins,1,1
+bc2304,u10124117,Mohammed Ismail Ali,1,1
+bc2304,u46062474,Molly Lamb,1,1
+bc2304,u10117083,Narayan Jayaram,1,1
+bc2304,u77308302,Neil Sorensen,1,1
+bc2304,u10075483,Peter Gomersall,1,1
+bc2304,u10118854,Rachel Star,1,1
+bc2304,u10104370,Ronald Forbes,1,1
+bc2304,u88960607,Russ Bentley,1,1
+bc2304,u48003865,Sarah Amis,1,1
+bc2304,u10117092,Stephen Slater,1,1
+bc2304,u88324306,Steven Watkins,1,1
+bc2304,u10117510,Susannah Boddie,1,1
+bc2304,u10092176,Tara Nicholson,1,1
+bc2304,u10116005,Thomas Jones,1,1
+bc2304,u10109180,Tonia Lewis,1,1
+bc2304,u83691008,Tracy Hills,1,1
+bc2304,u10117960,Umer Samin,1,1
+bc2304,u10111438,William Barnes,1,1
+bc2304,u10117065,William Drabble,1,1
+bc2304,u10116675,Zaynab Yasmeen,1,1
+bc2306,u10116634,Tiffany Lau,1,1
+bc2306,u10025800,Trushar Pandya,1,1
+bc2306,u10117960,Umer Samin,1,1
+bc2307,u10065127,Ally Mays,1,1
+bc2307,u87144507,Ashley Buckner,1,1
+bc2307,u10116602,James Cawley,1,1
+bc2307,u82935401,Simon Lunn,1,1
+bc2308,u10081631,Adam Whitaker,1,1
+bc2308,u87144507,Ashley Buckner,1,1
+bc2308,u10116653,Benjamin Phillips,1,1
+bc2308,u10087637,Edward Pitt,1,1
+bc2308,u84433909,Fergal O'Kane,1,1
+bc2308,u10096870,Grace Stamate,1,1
+bc2308,u10071961,Jamie Douglas,1,1
+bc2308,u10074705,Lucy McKenna,1,1
+bc2308,u81676511,Martin Moran,1,1
+bc2308,u10007771,Melanie Bowden,1,1
+bc2308,u10076332,Paul Crust,1,1
+bc2308,u10061511,Richard Mosley,1,1
+bc2308,u10073059,Samuel Caton,1,1
+bc2308,u10000206,Stuart Hawkins,1,1
+bc2308,u10075402,Yasmine Ammar,1,1
+bc2308,u10116666,Zachary Vella,1,1
+bc2309g,u10105959,Christopher Vile,1,1
+bc2309g,u10123755,Elliott Larkinson,1,1
+bc2309g,u85801803,Jane Ball,1,1
+bc2309g,u10064049,Keith Boote,1,1
+bc2309g,u83216312,Libby Hughes,1,1
+bc2309g,u91276802,Olatunde Akinlade,1,1
+bc2311,u48007515,Alexander Kolomiets,1,1
+bc2311,u48007506,Alice Ndikumagenge,1,1
+bc2311,u48007516,Asli Yalcin,1,1
+bc2311,u48007513,Ian Creese,1,1
+bc2312,u48007515,Alexander Kolomiets,1,1
+bc2312,u48007506,Alice Ndikumagenge,1,1
+bc2312,u48007516,Asli Yalcin,1,1
+bc2312,u48007513,Ian Creese,1,1
+bc2313,u10105959,Christopher Vile,1,1
+bc2313,u85801803,Jane Ball,1,1
+bc2313,u83216312,Libby Hughes,1,1
+bc2313,u91276802,Olatunde Akinlade,1,1
+bc2315,u56707509,Gayll Thomson,1,0
+bc2316,u10112348,David Hurst,1,0
+bc2316,u10115033,Elainah Greer,1,0
+bc2316,u74297404,Emma Slater,1,0
+bc2316,u10145515,Ravinder Boparai,1,0
+bc2316,u10118740,Tom Griffiths,1,0
+bc2317,u10081631,Adam Whitaker,1,0
+bc2317,u10086692,Andrew Ward,1,0
+bc2317,u48003789,Arun Mehan,1,0
+bc2317,u10116653,Benjamin Phillips,1,0
+bc2317,u10097733,Bryony Maw,1,0
+bc2317,u10087637,Edward Pitt,1,0
+bc2317,u10144953,Elliot Coenen,1,0
+bc2317,u10116599,Francine Kidd,1,0
+bc2317,u10116649,Frankie Jackson,1,0
+bc2317,u10117588,Hasan Uddin,1,0
+bc2317,u10144955,Lewis Weinberger,1,0
+bc2317,u10001189,Mark Burley,1,0
+bc2317,u86873310,Mark Craimer,1,0
+bc2317,u81676511,Martin Moran,1,0
+bc2317,u88994910,Michael Payne,1,0
+bc2317,u10082042,Paris Kollias,1,0
+bc2317,u10074697,Raadhiyah Anees,1,0
+bc2317,u10073059,Samuel Caton,1,0
+bc2317,u10064012,Sharon Moore,1,0
+bc2317,u10104400,Steve Topping,1,0
+bc2317,u10115108,Steven Boyes,1,0
+bc2317,u88324306,Steven Watkins,1,0
+bc2317,u10000206,Stuart Hawkins,1,0
+bc2317,u46066408,Zareen Khan,1,0
+bc2319,u48007860,Ryan McDonald,1,0
+bc2320,,,0,0
+bc264,,,0,0
+bc277,,,0,0
+bc284,,,0,0
+bc291,,,0,0
+bc318,,,0,0
+bc328,,,0,0
+bc346,,,0,0
+bc353,,,0,0
+bc367,,,0,0
+bc369,,,0,0
+bc375,,,0,0
+bc397,,,0,0
+bc411,,,0,0
+bc428,,,0,0
+bc428pi,,,0,0
+bc441,,,0,0
+bc444,,,0,0
+bc444_w,,,0,0
+bc449,,,0,0
+bc452,,,0,0
+bc453,,,0,0
+bc456,,,0,0
+bc459,,,0,0
+bc486,,,0,0
+bc489,,,0,0
+bc504,,,0,0
+bc510,,,0,0
+bc517,u10117355,Helen Birks,1,1
+bc517,u10082020,Maria Paliuc,1,1
+bc519,,,0,0
+bc528,,,0,0
+bc529,,,0,0
+bc531,,,0,0
+bc539,,,0,0
+bc543,,,0,0
+bc561,,,0,0
+bc564,u10123718,Bethany Munns,1,1
+bc564,u77418005,Gillian Ferry,1,1
+bc564,u10063984,Glenn Covacic,1,1
+bc564,u10097907,Jennifer Gibson,1,1
+bc564,u10082395,Julius Urbutis,1,1
+bc564,u10117225,Nathan Kelly,1,1
+bc564,u10108039,Nicholas Thomas,1,1
+bc564,u90765203,Owen Magrath,1,1
+bc564,u10149844,Xiang-Yang Tang,1,1
+bc565,,,0,0
+bc570,,,0,0
+bc573,,,0,0
+bc577,,,0,0
+bc583,,,0,0
+bc589,,,0,0
+bc591,,,0,0
+bc604,,,0,0
+bc605,,,0,0
+bc612,,,0,0
+bc620,,,0,0
+bc628,,,0,0
+bc628a,,,0,0
+bc638,,,0,0
+bc644,,,0,0
+bc644rw,,,0,0
+bc649,,,0,0
+bc658,,,0,0
+bc666,u10090259,Adam Robinson,1,1
+bc666,u88609202,Angelo Valerio,1,1
+bc666,u48003643,Anisha Roberts,1,1
+bc666,u46028204,Bert Van-Landeghem,1,1
+bc666,u46050003,Cyriac Kodath,1,1
+bc666,u10107343,Edward Martyn,1,1
+bc666,u84433909,Fergal O'Kane,1,1
+bc666,u10116617,Genevieve Berwick,1,1
+bc666,u79160704,Jacob MacDonald,1,1
+bc666,u10116644,Jakob Reinholdsson,1,1
+bc666,u10086402,John Ferrier,1,1
+bc666,u10094818,Luke Montgomery,1,1
+bc666,u10007378,Nicholas Campbell,1,1
+bc666,u10097666,Philip Thomas,1,1
+bc666,u74769108,Roger Morgan,1,1
+bc666,u10117066,Sirrie Stewart-Fowajuh,1,1
+bc666,u10008328,Stewart Butler,1,1
+bc666,u10144723,Thomas Hamlyn,1,1
+bc666,u10024869,William Farbrother,1,1
+bc666,u10149849,Zana Wellicome,1,1
+bc666qa,,,0,1
+bc675,,,0,0
+bc675tmp,,,0,0
+bc695,,,0,0
+bc700,,,0,0
+bc704,,,0,0
+bc720,,,0,0
+bc737,u59349207,Ann Simpson-Hawkins,1,1
+bc737,u10098073,John Bilverstone,1,1
+bc737,u10085747,Kezia-Jane Rapley,1,1
+bc737,u88822500,Louise Blake,1,1
+bc743,,,0,0
+bc744,,,0,0
+bc746,,,0,0
+bc750,,,0,0
+bc752,,,0,0
+bc755,,,0,0
+bc773,,,0,0
+bc786,,,0,0
+bc791,,,0,0
+bc792,,,0,0
+bc796,,,0,0
+bc798,,,0,0
+bc799,,,0,0
+bc806,,,0,0
+bc806w,,,0,0
+bc807,,,0,0
+bc808,,,0,0
+bc821,,,0,0
+bc826,,,0,0
+bc865,,,0,0
+bc870,,,0,0
+bc879,,,0,0
+bc882,,,0,0
+bc887,,,0,0
+bc892,,,0,0
+bc900,,,0,0
+bc903,,,0,0
+bc910,,,0,0
+bc916,,,0,0
+bc920,,,0,0
+bc921,,,0,0
+bc938,,,0,0
+bc951,,,0,0
+bc957,,,0,0
+bc958,,,0,0
+bc960,,,0,0
+bc964,,,0,0
+bc965,,,0,0
+bc966,,,0,0
+bc966_w,,,0,0
+bc970,,,0,0
+bc970hb,,,0,0
+bc972,,,0,0
+bc974,,,0,0
+bc976,,,0,0
+bc977,,,0,0
+bc983,,,0,0
+bc994,,,0,0
+bc995_r,,,0,0
+bc995_w,,,0,0
+bcFECA,,,0,0
+bcFEPA,,,0,0
+bcHBCA,,,0,0
+bcHBPA,,,0,0
+bcpdcscb,,,0,0
+bcSAUfjr,,,0,0
+bcwwaihw,,,0,0
+bcwwasiw,,,0,0
+bfmd1,,,0,0
+bfmd10,,,0,0
+bfmd11,,,0,0
+bfmd2,,,0,0
+bfmd3,,,0,0
+bfmd4,,,0,0
+bfmd5,,,0,0
+bfmd6,,,0,0
+bfmd7,,,0,0
+bfmd8,,,0,0
+bfmd9,,,0,0
+bfmdm,,,0,0
+bhps,,,0,0
+bin,,,0,0
+bin,daemon,,1,0
+bin,root,,1,0
+boadmin,pserverp,,1,0
+bp1157,,,0,0
+cba,,,0,0
+cenatftp,u86965107,Andrea Bennie,1,0
+cenatftp,u10086739,Andrew Rushworth,1,0
+cenatftp,u10092805,Christopher Wheeler,1,0
+cenatftp,u59970300,David Etchells,1,0
+cenatftp,u10018690,Nick Ryan,1,0
+ceniris,,,0,0
+censas,,,0,0
+cent_adm,,,0,0
+cent_ftp,,,0,0
+centdown,,,0,0
+centnull,,,0,0
+CentTest,,,0,0
+centup,,,0,0
+chad1,,,0,0
+chad2,,,0,0
+chad3,,,0,0
+Ciu,,,0,0
+cron,,,0,0
+cyms,cyms,,1,0
+cyms,cymsdev,,1,0
+daemon,,,0,0
+daemon,root,,1,0
+datasciaws,,,0,0
+datascienc,u10080930,Daniel Routledge,1,0
+datascienc,u56707509,Gayll Thomson,1,0
+datascienc,u10077157,Pieter Wessels,1,0
+dba,u71135608,Matthew Pethig,1,0
+dba,oracle,,1,0
+dba,oracle11,,1,0
+dba,oracleinst,,1,0
+dba,oradba,,1,0
+dcb1,,,0,0
+destntn,,,0,0
+develop,,,0,0
+disben,,,0,0
+dmpdu3,,,0,0
+donjerry,,,0,0
+dp_mi_un,,,0,0
+dp_pfpe,,,0,0
+dp_pfpu,,,0,0
+dp2aapr,,,0,0
+dp2allpr,,,0,0
+dp2bical,,,0,0
+dp2bicbi,,,0,0
+dp2bicdc,,,0,0
+dp2bicmi,,,0,0
+dp2bictr,,,0,0
+dp2bpae,,,0,0
+dp2bpaew,,,0,0
+dp2bpau,,,0,0
+dp2bpauw,,,0,0
+dp2dispr,,,0,0
+dp2dlapr,,,0,0
+dp2esa,,,0,0
+dp2esar,,,0,0
+dp2eth_r,,,0,0
+dp2eth_w,,,0,0
+dp2icapr,,,0,0
+dp2iidpr,,,0,0
+dp2incpr,,,0,0
+dp2ispr,,,0,0
+dp2jsapr,,,0,0
+dp2mapr,,,0,0
+dp2migre,,,0,0
+dp2migru,,,0,0
+dp2pcpr,,,0,0
+dp2rppr,,,0,0
+dp2wagpr,,,0,0
+dp2wfp_d,,,0,0
+dp2wfp_s,,,0,0
+dp2wfpds,,,0,0
+dp2wk_a,,,0,0
+dp3a2wre,,,0,0
+dp3a2wru,,,0,0
+dp3adfre,,,0,0
+dp3adfru,,,0,0
+dp3all_e,,,0,0
+dp3all_u,,,0,0
+dp3alo_e,,,0,0
+dp3alo_u,,,0,0
+dp3chnit,,,0,0
+dp3chniw,,,0,0
+dp3emre,,,0,0
+dp3esf_e,,,0,0
+dp3esf_u,,,0,0
+dp3fine,,,0,0
+dp3finu,,,0,0
+dp3fnde,,,0,0
+dp3fndu,,,0,0
+dp3fsre,,,0,0
+dp3fsru,,,0,0
+dp3lpa4,,,0,0
+dp3ltand,,,0,0
+dp3opt_e,,,0,0
+dp3opt_u,,,0,0
+dp3p2wdc,,,0,0
+dp3p2wdo,,,0,0
+dp3prore,,,0,0
+dp3proru,,,0,0
+dp3ref_e,,,0,0
+dp3ref_u,,,0,0
+dp3rtwcw,,,0,0
+dp3saans,,,0,0
+dp3scpe,,,0,0
+dp3scpu,,,0,0
+dp3tmre,,,0,0
+dp3tmru,,,0,0
+dp3wfyco,,,0,0
+dp3wfyre,,,0,0
+dp3wfyru,,,0,0
+dp3wpw,,,0,0
+dp3ypand,,,0,0
+dp4gdev,,,0,0
+dp51423e,,,0,0
+dp51423u,,,0,0
+dp514452,,,0,0
+dp514453,,,0,0
+dp51445a,,,0,0
+dp51445e,,,0,0
+dp51445u,,,0,0
+dp54523e,,,0,0
+dp54523u,,,0,0
+dp5des14,,,0,0
+dp5des45,,,0,0
+dp5dtNar,,,0,0
+dp5frall,,,0,0
+dp5frdev,,,0,0
+dp5frraw,,,0,0
+dp5frrel,,,0,0
+dp5l142e,,,0,0
+dp5l142u,,,0,0
+dp5l143e,,,0,0
+dp5l143u,,,0,0
+dp5l42er,,,0,0
+dp5l452e,,,0,0
+dp5l452u,,,0,0
+dp5l453e,,,0,0
+dp5l453u,,,0,0
+dp5lp14a,,,0,0
+dp5lp45a,,,0,0
+dp5narda,,,0,0
+dp5narde,,,0,0
+dp5nardp,,,0,0
+dp5nardu,,,0,0
+dp5nardv,,,0,0
+dp5narel,,,0,0
+dp5narne,,,0,0
+dp5narnp,,,0,0
+dp5narnu,,,0,0
+dp5npdw,,,0,0
+dp5ntar,,,0,0
+dp6capw,,,0,0
+dp6emead,,,0,0
+dp6emrad,,,0,0
+dp6hbctb,,,0,0
+dp6hbctr,,,0,0
+dp6idbru,,,0,0
+dp6kdsw,,,0,0
+dp6l2adr,,,0,0
+dp6l2adw,,,0,0
+dp6nirse,,,0,0
+dp6nirsr,,,0,0
+dp6nirsw,,,0,0
+dp6pauoc,,,0,0
+dp6sav_e,,,0,0
+dp6sav_u,,,0,0
+dp6savde,,,0,0
+dp6savdu,,,0,0
+dp6savne,,,0,0
+dp6savnu,,,0,0
+dp6vet_e,,,0,0
+dp6vet_u,,,0,0
+dp9mianp,,,0,0
+dpaccser,,,0,0
+dpadcapa,u55832302,Andrew Needham,1,0
+dpadcapa,u63173905,Simon Gault,1,0
+dpaicd3,,,0,0
+dpaicd4,,,0,0
+dpaicd6,,,0,0
+dpaicd8,,,0,0
+dpamb_e,,,0,0
+dpamb_u,,,0,0
+dpatas_e,,,0,0
+dpatas_u,,,0,0
+dpatlive,,,0,0
+dpatm_e,,,0,0
+dpatm_u,,,0,0
+dpatraw,cftmain,,1,0
+dpatrm,,,0,0
+dpbenc,,,0,0
+dpbiabmr,,,0,0
+dpbiabmw,,,0,0
+dpbicbs,,,0,0
+dpbiclri,,,0,0
+dpbicmod,,,0,0
+dpbicstr,,,0,0
+dpbihrr,,,0,0
+dpbihrw,,,0,0
+dpbisher,,,0,0
+dpbishew,,,0,0
+dpbitpsr,,,0,0
+dpbitpsw,,,0,0
+dpbmad1,,,0,0
+dpbmad4,,,0,0
+dpbmad5,,,0,0
+dpbmad6,,,0,0
+dpbmadmp,,,0,0
+dpbmadpd,,,0,0
+dpbmadrm,,,0,0
+dpbrbrur,,,0,0
+dpbrbruw,u74667708,Ian Davis,1,0
+dpbrbruw,u69600466,Rob Willis,1,0
+dpbrdbsa,,,0,0
+dpbrdsfr,,,0,0
+dpbsk_e,,,0,0
+dpbsk_u,,,0,0
+dpCAaanR,,,0,0
+dpCAaanW,,,0,0
+dpCAaarR,,,0,0
+dpCAaarW,,,0,0
+dpCAacoR,,,0,0
+dpCAacoW,,,0,0
+dpCAaexR,,,0,0
+dpCAaexW,,,0,0
+dpCAamaR,,,0,0
+dpCAamaW,,,0,0
+dpCAapeW,,,0,0
+dpCAaprR,,,0,0
+dpCAaprW,,,0,0
+dpCAareR,,,0,0
+dpCAareW,,,0,0
+dpcad_an,,,0,0
+dpcad_un,cftmain,,1,0
+dpcadall,,,0,0
+dpcadcon,,,0,0
+dpcadudw,,,0,0
+dpCAuanR,,,0,0
+dpCAuanW,,,0,0
+dpCAuarR,,,0,0
+dpCAuarW,,,0,0
+dpCAucoR,,,0,0
+dpCAucoW,,,0,0
+dpCAudeR,,,0,0
+dpCAudeW,,,0,0
+dpCAuexR,,,0,0
+dpCAuexW,,,0,0
+dpCAumaR,,,0,0
+dpCAumaW,,,0,0
+dpCAupeW,,,0,0
+dpCAuprR,,,0,0
+dpCAuprW,,,0,0
+dpCAureR,,,0,0
+dpCAureW,,,0,0
+dpccda,,,0,0
+dpccdasl,,,0,0
+dpccsu1,,,0,0
+dpccsu2,,,0,0
+dpcdburn,,,0,0
+dpcenadv,u70985605,Amanda Smalley,1,0
+dpcenadv,u60937500,Carl Bullough,1,0
+dpcenadv,u71164502,Chris Fuller,1,0
+dpcenadv,u10104152,Craig Skelton,1,0
+dpcenadv,u52800310,Dave Fairhurst,1,0
+dpcenadv,u79848600,David Hanmore,1,0
+dpcenadv,u52713909,Dawn Lambert,1,0
+dpcenadv,u77672609,Gillian Gormley,1,0
+dpcenadv,u80421410,Ian Barlow,1,0
+dpcenadv,u10081382,Judith Derbyshire,1,0
+dpcenadv,u51359701,Julie Graves,1,0
+dpcenadv,u83181702,Lauren Byrne-Fraser,1,0
+dpcenadv,u56921408,Lynn Shaw,1,0
+dpcenadv,u89009308,Mark Dobson,1,0
+dpcenadv,u60598102,Mark Kingsley,1,0
+dpcenadv,u59921710,Mike Greenhalgh,1,0
+dpcenadv,u10081390,Neil Williams,1,0
+dpcenadv,u89003311,Nicky Tarry,1,0
+dpcenadv,u89938403,Rachel Turrell,1,0
+dpcenadv,u71814012,Rebecca Dickinson,1,0
+dpcenadv,u51541505,Stephen Turner,1,0
+dpcenadv,u10086199,Thomas Connell,1,0
+dpcenadv,u65424708,Toni Smith,1,0
+dpcenadv,u61308712,Victoria Hodgkinson,1,0
+dpcenaiu,u10086995,Alex Bailey,1,0
+dpcenaiu,u46048470,Koushik Anagurthi,1,0
+dpcenaiu,u10086813,Peter Baxter,1,0
+dpcenaiu,u10087016,Timothy Patton,1,0
+dpcendat,u80771012,Sarah Killick,1,0
+dpcendes,u10087955,Nikki Britton,1,0
+dpcendes,u67313007,Sharon Long,1,0
+dpcenDev,u70985605,Amanda Smalley,1,0
+dpcenDev,u60937500,Carl Bullough,1,0
+dpcenDev,u10104152,Craig Skelton,1,0
+dpcenDev,u48003392,Craig Tongue,1,0
+dpcenDev,u79848600,David Hanmore,1,0
+dpcenDev,u52713909,Dawn Lambert,1,0
+dpcenDev,u77672609,Gillian Gormley,1,0
+dpcenDev,u80421410,Ian Barlow,1,0
+dpcenDev,u51359701,Julie Graves,1,0
+dpcenDev,u83181702,Lauren Byrne-Fraser,1,0
+dpcenDev,u89009308,Mark Dobson,1,0
+dpcenDev,u60598102,Mark Kingsley,1,0
+dpcenDev,u59921710,Mike Greenhalgh,1,0
+dpcenDev,u10081390,Neil Williams,1,0
+dpcenDev,u56175502,Val Strassburg,1,0
+dpcendv2,u70985605,Amanda Smalley,1,0
+dpcendv2,u60937500,Carl Bullough,1,0
+dpcendv2,u10104152,Craig Skelton,1,0
+dpcendv2,u48003392,Craig Tongue,1,0
+dpcendv2,u79848600,David Hanmore,1,0
+dpcendv2,u52713909,Dawn Lambert,1,0
+dpcendv2,u35162707,Edmund Featherstone,1,0
+dpcendv2,u77672609,Gillian Gormley,1,0
+dpcendv2,u80421410,Ian Barlow,1,0
+dpcendv2,u51359701,Julie Graves,1,0
+dpcendv2,u81408208,Kelly Dugdale,1,0
+dpcendv2,u77725406,Kevin Winder,1,0
+dpcendv2,u83181702,Lauren Byrne-Fraser,1,0
+dpcendv2,u89009308,Mark Dobson,1,0
+dpcendv2,u60598102,Mark Kingsley,1,0
+dpcendv2,u59921710,Mike Greenhalgh,1,0
+dpcendv2,u10081390,Neil Williams,1,0
+dpcendv2,u83894409,Steve Perry,1,0
+dpcendv2,u56175502,Val Strassburg,1,0
+dpcendv2,censrv,,1,0
+dpcenftpch,u10092805,Christopher Wheeler,1,0
+dpcenftpch,u85356740,Lee Irving,1,0
+dpcenit,u76765601,Amanda Hill,1,0
+dpcenit,u48007891,Anand Alajangi,1,0
+dpcenit,u69609542,April Worrall,1,0
+dpcenit,u69669371,Bish Khan,1,0
+dpcenit,u10104152,Craig Skelton,1,0
+dpcenit,u88988606,Dave Mappin,1,0
+dpcenit,u10078495,David Rutter-Close,1,0
+dpcenit,u46049693,Dhiren Sarma,1,0
+dpcenit,u80421410,Ian Barlow,1,0
+dpcenit,u81408208,Kelly Dugdale,1,0
+dpcenit,u77725406,Kevin Winder,1,0
+dpcenit,u48003516,Krishnaveni Sanampudi,1,0
+dpcenit,u10019092,Lee Robinson,1,0
+dpcenit,u88617701,Malcolm Moran,1,0
+dpcenit,u79149409,Michael Harrison,1,0
+dpcenit,u10081390,Neil Williams,1,0
+dpcenit,u46047314,Rajesh Mariappan,1,0
+dpcenit,u57609905,Richard Hancock,1,0
+dpcenit,u69420765,Robert Fox,1,0
+dpcenit,u10088678,Shanmuga Srinivasan,1,0
+dpcenit,u10041022,Stefanie Strangwick,1,0
+dpcenit,u10021850,Stephen Carlin,1,0
+dpcenit,u46030636,Venkata Chhukudukayala,1,0
+dpcenit,u46064857,Venkata Chhukudukayala,1,0
+dpcenop,u10104152,Craig Skelton,1,0
+dpcenop,u80421410,Ian Barlow,1,0
+dpcenop,u10081382,Judith Derbyshire,1,0
+dpcenop,u77725406,Kevin Winder,1,0
+dpcenop,u83181702,Lauren Byrne-Fraser,1,0
+dpcenop,u56921408,Lynn Shaw,1,0
+dpcenop,u10081390,Neil Williams,1,0
+dpcenop,u89938403,Rachel Turrell,1,0
+dpcenop,u71814012,Rebecca Dickinson,1,0
+dpcenop,u51541505,Stephen Turner,1,0
+dpcenop,u10086199,Thomas Connell,1,0
+dpcenop,u61308712,Victoria Hodgkinson,1,0
+dpcenop,censrv,,1,0
+dpcenop,sftagent,,1,0
+dpcenpbS,u76765601,Amanda Hill,1,0
+dpcenpbS,u10104152,Craig Skelton,1,0
+dpcenpbS,u80421410,Ian Barlow,1,0
+dpcenpbS,u10081382,Judith Derbyshire,1,0
+dpcenpbS,u81408208,Kelly Dugdale,1,0
+dpcenpbS,u77725406,Kevin Winder,1,0
+dpcenpbS,u83181702,Lauren Byrne-Fraser,1,0
+dpcenpbS,u56921408,Lynn Shaw,1,0
+dpcenpbS,u10081390,Neil Williams,1,0
+dpcenpbS,u89938403,Rachel Turrell,1,0
+dpcenpbS,u71814012,Rebecca Dickinson,1,0
+dpcenpbS,u57609905,Richard Hancock,1,0
+dpcenpbS,u10041022,Stefanie Strangwick,1,0
+dpcenpbS,u51541505,Stephen Turner,1,0
+dpcenpbS,u10086199,Thomas Connell,1,0
+dpcenpbS,u61308712,Victoria Hodgkinson,1,0
+dpcenpbS,cenbatch,,1,0
+dpcenpdv,u10104152,Craig Skelton,1,0
+dpcenpdv,u80421410,Ian Barlow,1,0
+dpcenpdv,u10081390,Neil Williams,1,0
+dpcenpgp,u86965107,Andrea Bennie,1,0
+dpcenpgp,u10086739,Andrew Rushworth,1,0
+dpcenpgp,u10092805,Christopher Wheeler,1,0
+dpcenpgp,u59970300,David Etchells,1,0
+dpcenpgp,u53679208,Emma Gowan,1,0
+dpcenpgp,u79934707,Kevin Hawthorne,1,0
+dpcenpgp,u85356740,Lee Irving,1,0
+dpcenpgp,u10018690,Nick Ryan,1,0
+dpcenpgp,u71814012,Rebecca Dickinson,1,0
+dpcenpgp,pgp,,1,0
+dpcenprb,u10104152,Craig Skelton,1,0
+dpcenprb,u80421410,Ian Barlow,1,0
+dpcenprb,u81408208,Kelly Dugdale,1,0
+dpcenprb,u77725406,Kevin Winder,1,0
+dpcenprb,u10081390,Neil Williams,1,0
+dpcenprb,u56175502,Val Strassburg,1,0
+dpcenprl,u76765601,Amanda Hill,1,0
+dpcenprl,u10104152,Craig Skelton,1,0
+dpcenprl,u80421410,Ian Barlow,1,0
+dpcenprl,u81408208,Kelly Dugdale,1,0
+dpcenprl,u77725406,Kevin Winder,1,0
+dpcenprl,u10081390,Neil Williams,1,0
+dpcenprl,u57609905,Richard Hancock,1,0
+dpcenprl,u10041022,Stefanie Strangwick,1,0
+dpcenprl,u51541505,Stephen Turner,1,0
+dpcenprl,censrv,,1,0
+dpcenqac,u10081382,Judith Derbyshire,1,0
+dpcenqac,u56921408,Lynn Shaw,1,0
+dpcenqac,u89938403,Rachel Turrell,1,0
+dpcenqac,u71814012,Rebecca Dickinson,1,0
+dpcenqac,u51541505,Stephen Turner,1,0
+dpcenqac,u10086199,Thomas Connell,1,0
+dpcenqac,u61308712,Victoria Hodgkinson,1,0
+dpcenrrdv,,,0,0
+dpcensdr,u70985605,Amanda Smalley,1,0
+dpcensdr,u60937500,Carl Bullough,1,0
+dpcensdr,u52713909,Dawn Lambert,1,0
+dpcensdr,u80421410,Ian Barlow,1,0
+dpcensdr,u51359701,Julie Graves,1,0
+dpcensdr,u83181702,Lauren Byrne-Fraser,1,0
+dpcensdr,u85356740,Lee Irving,1,0
+dpcensdr,u60598102,Mark Kingsley,1,0
+dpcensdr,u59921710,Mike Greenhalgh,1,0
+dpcensdr,u10081390,Neil Williams,1,0
+dpcensup,u70985605,Amanda Smalley,1,0
+dpcensup,u60937500,Carl Bullough,1,0
+dpcensup,u52713909,Dawn Lambert,1,0
+dpcensup,u80421410,Ian Barlow,1,0
+dpcensup,u51359701,Julie Graves,1,0
+dpcensup,u83181702,Lauren Byrne-Fraser,1,0
+dpcensup,u60598102,Mark Kingsley,1,0
+dpcensup,u59921710,Mike Greenhalgh,1,0
+dpcensup,u10081390,Neil Williams,1,0
+dpcensup,u39464211,Trevor Hayman,1,0
+dpcenuac,u10104152,Craig Skelton,1,0
+dpcenuac,u80421410,Ian Barlow,1,0
+dpcenuac,u10081382,Judith Derbyshire,1,0
+dpcenuac,u56921408,Lynn Shaw,1,0
+dpcenuac,u10081390,Neil Williams,1,0
+dpcenuac,u89938403,Rachel Turrell,1,0
+dpcenuac,u71814012,Rebecca Dickinson,1,0
+dpcenuac,u80771012,Sarah Killick,1,0
+dpcenuac,u51541505,Stephen Turner,1,0
+dpcenuac,u10086199,Thomas Connell,1,0
+dpcenuac,u61308712,Victoria Hodgkinson,1,0
+dpcenuat,u10104152,Craig Skelton,1,0
+dpcenuat,u80421410,Ian Barlow,1,0
+dpcenuat,u10081382,Judith Derbyshire,1,0
+dpcenuat,u56921408,Lynn Shaw,1,0
+dpcenuat,u10081390,Neil Williams,1,0
+dpcenuat,u89938403,Rachel Turrell,1,0
+dpcenuat,u71814012,Rebecca Dickinson,1,0
+dpcenuat,u80771012,Sarah Killick,1,0
+dpcenuat,u51541505,Stephen Turner,1,0
+dpcenuat,u10086199,Thomas Connell,1,0
+dpcenuat,u61308712,Victoria Hodgkinson,1,0
+dpcenuat,pservert,,1,0
+dpcenudr,u76765601,Amanda Hill,1,0
+dpcenudr,u71164502,Chris Fuller,1,0
+dpcenudr,u81408208,Kelly Dugdale,1,0
+dpcenudr,u77725406,Kevin Winder,1,0
+dpcenudr,u60598102,Mark Kingsley,1,0
+dpcenudr,u57609905,Richard Hancock,1,0
+dpcenudr,u10041022,Stefanie Strangwick,1,0
+dpcenudr,pserverp,,1,0
+dpcenutD,u76765601,Amanda Hill,1,0
+dpcenutD,u10104152,Craig Skelton,1,0
+dpcenutD,u80421410,Ian Barlow,1,0
+dpcenutD,u10081382,Judith Derbyshire,1,0
+dpcenutD,u81408208,Kelly Dugdale,1,0
+dpcenutD,u77725406,Kevin Winder,1,0
+dpcenutD,u56921408,Lynn Shaw,1,0
+dpcenutD,u10081390,Neil Williams,1,0
+dpcenutD,u89938403,Rachel Turrell,1,0
+dpcenutD,u71814012,Rebecca Dickinson,1,0
+dpcenutD,u57609905,Richard Hancock,1,0
+dpcenutD,u80771012,Sarah Killick,1,0
+dpcenutD,u10041022,Stefanie Strangwick,1,0
+dpcenutD,u51541505,Stephen Turner,1,0
+dpcenutD,u10086199,Thomas Connell,1,0
+dpcenutD,u61308712,Victoria Hodgkinson,1,0
+dpcenutS,u76765601,Amanda Hill,1,0
+dpcenutS,u10104152,Craig Skelton,1,0
+dpcenutS,u80421410,Ian Barlow,1,0
+dpcenutS,u10081382,Judith Derbyshire,1,0
+dpcenutS,u81408208,Kelly Dugdale,1,0
+dpcenutS,u77725406,Kevin Winder,1,0
+dpcenutS,u56921408,Lynn Shaw,1,0
+dpcenutS,u10081390,Neil Williams,1,0
+dpcenutS,u89938403,Rachel Turrell,1,0
+dpcenutS,u71814012,Rebecca Dickinson,1,0
+dpcenutS,u57609905,Richard Hancock,1,0
+dpcenutS,u80771012,Sarah Killick,1,0
+dpcenutS,u10041022,Stefanie Strangwick,1,0
+dpcenutS,u51541505,Stephen Turner,1,0
+dpcenutS,u10086199,Thomas Connell,1,0
+dpcenutS,u61308712,Victoria Hodgkinson,1,0
+dpcenuup,u76765601,Amanda Hill,1,0
+dpcenuup,u71164502,Chris Fuller,1,0
+dpcenuup,u81408208,Kelly Dugdale,1,0
+dpcenuup,u77725406,Kevin Winder,1,0
+dpcenuup,u60598102,Mark Kingsley,1,0
+dpcenuup,u57609905,Richard Hancock,1,0
+dpcenuup,u10041022,Stefanie Strangwick,1,0
+dpcenwhdv,u70985605,Amanda Smalley,1,0
+dpcenwhdv,u71164502,Chris Fuller,1,0
+dpcenwhdv,u52800310,Dave Fairhurst,1,0
+dpcenwhdv,u79848600,David Hanmore,1,0
+dpcenwhdv,u77672609,Gillian Gormley,1,0
+dpcenwhdv,u65424708,Toni Smith,1,0
+dpcenwop,,,0,0
+dpchad4,,,0,0
+dpchb_r,,,0,0
+dpchb_rl,,,0,0
+dpchb_w,u50829301,Debby Bell,1,0
+dpchbsp,,,0,0
+dpchssr,,,0,0
+dpchssrl,,,0,0
+dpchssw,,,0,0
+dpcisdwh,,,0,0
+dpcli_e,,,0,0
+dpcli_u,,,0,0
+dpcmau,,,0,0
+dpcmecau,,,0,0
+dpcmmis,u85278112,Lee Swan,1,0
+dpcmmis,u24366710,Sandra Cartner,1,0
+dpcmr_r,,,0,0
+dpcmr_w,,,0,0
+dpcmsdpa,,,0,0
+dpcpueat,,,0,0
+dpcs4a,,,0,0
+dpcs4b,,,0,0
+dpcs5a,,,0,0
+dpcs5b,,,0,0
+dpcsaauh,,,0,0
+dpcsaaum,,,0,0
+dpcsaaup,,,0,0
+dpcsaaus,,,0,0
+dpcsaus2,,,0,0
+dpcsaus4,,,0,0
+dpcsausr,,,0,0
+dpcsaweb,,,0,0
+dpcsltr,,,0,0
+dpcspipw,,,0,0
+dpdcb3,,,0,0
+dpdcb5,,,0,0
+dpdcbdpw,,,0,0
+dpdcbdr,,,0,0
+dpdcbdrr,,,0,0
+dpdcbdw,,,0,0
+dpdcdpd,,,0,0
+dpdcicsr,,,0,0
+dpdciphu,,,0,0
+dpdcirc,,,0,0
+dpdciusr,,,0,0
+dpddw,,,0,0
+dpddwpp,,,0,0
+dpdest,,,0,0
+dpdius,,,0,0
+dpdiusac,,,0,0
+dpdiusin,,,0,0
+dpdiusqa,,,0,0
+dpdiusre,,,0,0
+dpdmac,,,0,0
+dpdmsoct,,,0,0
+dpdrd5,,,0,0
+dpdsp6,,,0,0
+dpdspd6,,,0,0
+dpdspd9,,,0,0
+dpdsu1,,,0,0
+dpdsu10,,,0,0
+dpdsu2,u50829301,Debby Bell,1,0
+dpdsu2,u80200606,Leigh Taggart,1,0
+dpdsu2,u10017946,Louise McGuinness,1,0
+dpdsu2,u74908502,Steve Howe,1,0
+dpdsu2,u10015157,Suzy Rutter,1,0
+dpdsu2a,u77994604,Caroline Ashmore,1,0
+dpdsu2a,u80203010,Debbie Morton,1,0
+dpdsu2a,u50829301,Debby Bell,1,0
+dpdsu2a,u79513311,Ingrid Whitworth,1,0
+dpdsu2a,u43777206,Linda Donnelly,1,0
+dpdsu2a,u10017946,Louise McGuinness,1,0
+dpdsu2a,u24366710,Sandra Cartner,1,0
+dpdsu2a,u74908502,Steve Howe,1,0
+dpdsu2a,u10015157,Suzy Rutter,1,0
+dpdsu2a,rawinput,,1,0
+dpdsu2b,u77994604,Caroline Ashmore,1,0
+dpdsu2b,u86884409,Daniel Hickey,1,0
+dpdsu2b,u80203010,Debbie Morton,1,0
+dpdsu2b,u50829301,Debby Bell,1,0
+dpdsu2b,u10014595,Iain Woolard,1,0
+dpdsu2b,u79513311,Ingrid Whitworth,1,0
+dpdsu2b,u85278112,Lee Swan,1,0
+dpdsu2b,u80200606,Leigh Taggart,1,0
+dpdsu2b,u43777206,Linda Donnelly,1,0
+dpdsu2b,u10017946,Louise McGuinness,1,0
+dpdsu2b,u10021846,Neil Coulson,1,0
+dpdsu2b,u24366710,Sandra Cartner,1,0
+dpdsu2b,u84023906,Stephen Clark,1,0
+dpdsu2b,u74908502,Steve Howe,1,0
+dpdsu2b,u10015157,Suzy Rutter,1,0
+dpdsu2b,mqm,,1,0
+dpdsu2b,sftagent,,1,0
+dpdsu2n3,u80203010,Debbie Morton,1,0
+dpdsu2n3,u43777206,Linda Donnelly,1,0
+dpdsu2n3,u24366710,Sandra Cartner,1,0
+dpdsu2rm,,,0,0
+dpdsu5,,,0,0
+dpdsu7,,,0,0
+dpdsu8,,,0,0
+dpdsusav,,,0,0
+dpdsuvet,,,0,0
+dpdwd_r,,,0,0
+dpdwd_w,,,0,0
+dpdwd1,,,0,0
+dpdwddep,,,0,0
+dpdwddet,,,0,0
+dpdwdera,,,0,0
+dpdwdhaw,,,0,0
+dpdwdits,,,0,0
+dpdwdor,,,0,0
+dpdwdpce,,,0,0
+dpdwdsea,,,0,0
+dpegddpa,,,0,0
+dpelmd1,,,0,0
+dpelmd3,,,0,0
+dpelmd4,,,0,0
+dpelmd5,,,0,0
+dpelmd6,,,0,0
+dpelmd8,,,0,0
+dpelmdcs,,,0,0
+dpelmpsa,,,0,0
+dpema,,,0,0
+dpemsr,,,0,0
+dpepdanr,,,0,0
+dpepdanw,,,0,0
+dpeppraw,,,0,0
+dpeqop_e,,,0,0
+dpeqop_u,,,0,0
+dpera_dc,,,0,0
+dpera_e,,,0,0
+dpera_u,,,0,0
+dpesabda,,,0,0
+dpesad_r,,,0,0
+dpesad_w,,,0,0
+dpesaibr,,,0,0
+dpewldlm,,,0,0
+dpewldsr,,,0,0
+dpewlma,,,0,0
+dpewlw,,,0,0
+dpez_e,,,0,0
+dpez_u,,,0,0
+dpez_z,,,0,0
+dpf3wpls,,,0,0
+dpfacs,,,0,0
+dpfd1,,,0,0
+dpfd10,,,0,0
+dpfd10ia,,,0,0
+dpfd10id,,,0,0
+dpfd10in,,,0,0
+dpfd11,,,0,0
+dpfd2,,,0,0
+dpfd3,,,0,0
+dpfd4,,,0,0
+dpfd5,,,0,0
+dpfd6,,,0,0
+dpfd6dla,,,0,0
+dpfd6du,,,0,0
+dpfd7,,,0,0
+dpfd8,,,0,0
+dpfd9,,,0,0
+dpfe3s1s,,,0,0
+dpfeaw,u86873310,Mark Craimer,1,0
+dpfem_sr,,,0,0
+dpfem_sw,,,0,0
+dpfem1,u10017674,Adam Pearce,1,0
+dpfem1,u10098073,John Bilverstone,1,0
+dpfem1,u88822500,Louise Blake,1,0
+dpfem1fv3,,,0,0
+dpfem1r,,,0,0
+dpfem1sa,,,0,0
+dpfem2,u10085747,Kezia-Jane Rapley,1,0
+dpfem2r,,,0,0
+dpfem2sa,,,0,0
+dpfem2Sn,,,0,0
+dpfem3,,,0,0
+dpfem3sd,,,0,0
+dpfem3x,,,0,0
+dpfem4,,,0,0
+dpfem5,,,0,0
+dpfem6,,,0,0
+dpfem7,,,0,0
+dpfesda1,,,0,0
+dpfesda2,,,0,0
+dpfinfma,,,0,0
+dpfm_e,,,0,0
+dpfm_u,,,0,0
+dpfpseew,,,0,0
+dpfpwd1,,,0,0
+dpfpwd10,,,0,0
+dpfpwd11,,,0,0
+dpfpwd2,,,0,0
+dpfpwd3,,,0,0
+dpfpwd4,,,0,0
+dpfpwd5,,,0,0
+dpfpwd6,,,0,0
+dpfpwd7,,,0,0
+dpfpwd8,,,0,0
+dpfpwd9,,,0,0
+dpfpwdse,,,0,0
+dpfrd01,,,0,0
+dpfrd02,,,0,0
+dpfrd03,,,0,0
+dpfrd04,,,0,0
+dpfrd05,,,0,0
+dpfrd06,,,0,0
+dpfrd07,,,0,0
+dpfrd08,,,0,0
+dpfrd09,,,0,0
+dpfrd10,,,0,0
+dpfrd11,,,0,0
+dpfrd12,,,0,0
+dpfrd13,,,0,0
+dpfrd14,,,0,0
+dpfrd15,,,0,0
+dpfrd16,,,0,0
+dpfrd17,,,0,0
+dpfrd18,,,0,0
+dpfrd19,,,0,0
+dpfrd20,,,0,0
+dpfrd21,,,0,0
+dpfrdall,,,0,0
+dpgenana,u55367111,Joe Bosak,1,0
+dpgenana,u71135608,Matthew Pethig,1,0
+dpgenana,u56175502,Val Strassburg,1,0
+dpgendev,u71952400,Howard Redway,1,0
+dpgendev,u55367111,Joe Bosak,1,0
+dpgendev,u71135608,Matthew Pethig,1,0
+dpgendev,u56175502,Val Strassburg,1,0
+dpgenrel,u71952400,Howard Redway,1,0
+dpgenrel,u55367111,Joe Bosak,1,0
+dpgmcbce,,,0,0
+dpgmcbcp,,,0,0
+dpgmcbcu,,,0,0
+dpgmcbne,,,0,0
+dpgmcbnp,,,0,0
+dpgmcbnu,,,0,0
+dpgmdlce,,,0,0
+dpgmdlcp,,,0,0
+dpgmdlcu,,,0,0
+dpgmdlne,,,0,0
+dpgmdlnp,,,0,0
+dpgmdlnu,,,0,0
+dpgmescb,,,0,0
+dpgmesce,,,0,0
+dpgmescp,,,0,0
+dpgmescu,,,0,0
+dpgmesne,,,0,0
+dpgmesnp,,,0,0
+dpgmesnu,,,0,0
+dpgmfcce,,,0,0
+dpgmfccu,,,0,0
+dpgmfcne,,,0,0
+dpgmfcnu,,,0,0
+dpgmhbce,,,0,0
+dpgmhbcp,,,0,0
+dpgmhbcu,,,0,0
+dpgmhbne,,,0,0
+dpgmhbnp,,,0,0
+dpgmhbnu,,,0,0
+dpgmhdre,,,0,0
+dpgmhdrn,,,0,0
+dpgmhdrp,,,0,0
+dpgmicce,,,0,0
+dpgmiccp,,,0,0
+dpgmiccu,,,0,0
+dpgmicne,,,0,0
+dpgmicnp,,,0,0
+dpgmicnu,,,0,0
+dpgmiice,,,0,0
+dpgmiicp,,,0,0
+dpgmiicu,,,0,0
+dpgmiine,,,0,0
+dpgmiinp,,,0,0
+dpgmiinu,,,0,0
+dpgmiscb,,,0,0
+dpgmisce,,,0,0
+dpgmiscp,,,0,0
+dpgmiscu,,,0,0
+dpgmisne,,,0,0
+dpgmisnp,,,0,0
+dpgmisnu,,,0,0
+dpgmjscb,,,0,0
+dpgmjsce,,,0,0
+dpgmjscp,,,0,0
+dpgmjscu,,,0,0
+dpgmjsne,,,0,0
+dpgmjsnp,,,0,0
+dpgmjsnu,,,0,0
+dpgmmige,,,0,0
+dpgmmigu,,,0,0
+dpgmntce,,,0,0
+dpgmntcp,,,0,0
+dpgmntcu,,,0,0
+dpgmntne,,,0,0
+dpgmntnp,,,0,0
+dpgmntnu,,,0,0
+dpgmonee,,,0,0
+dpgmonep,,,0,0
+dpgmoneu,,,0,0
+dpgmorce,,,0,0
+dpgmorcp,,,0,0
+dpgmorcu,,,0,0
+dpgmpccb,,,0,0
+dpgmpcce,,,0,0
+dpgmpccp,,,0,0
+dpgmpccu,,,0,0
+dpgmpcne,,,0,0
+dpgmpcnp,,,0,0
+dpgmpcnu,,,0,0
+dpgmpece,,,0,0
+dpgmpecu,,,0,0
+dpgmpene,,,0,0
+dpgmpenu,,,0,0
+dpgmrpcp,,,0,0
+dpgmrpnp,,,0,0
+dpgms100,,,0,0
+dpgms2,,,0,0
+dpgmsall,,,0,0
+dpgmsalp,,,0,0
+dpgmsdci,,,0,0
+dpgmsone,,,0,0
+dpgmsonf,,,0,0
+dpgmstem,,,0,0
+dpgmwfce,,,0,0
+dpgmwfcu,,,0,0
+dphb,,,0,0
+dphbdev,cftmain,,1,0
+dphbenc,,,0,0
+dphbfrd,,,0,0
+dphbmsc,pserverp,,1,0
+dphbr_r,,,0,0
+dphbr_w,,,0,0
+dphbrel,,,0,0
+dphbrfro,,,0,0
+dphbrfrw,,,0,0
+dphbrfur,,,0,0
+dphbroe,,,0,0
+dphbrou,,,0,0
+dphbsd,,,0,0
+dphbsdds,,,0,0
+dphbsdre,,,0,0
+dphbsdru,,,0,0
+dphbsdrw,,,0,0
+dphbuenc,,,0,0
+dphbuser,,,0,0
+dphbwib,,,0,0
+dphbwp14,,,0,0
+dphbwp45,,,0,0
+dphbwpma,,,0,0
+dphhold,,,0,0
+dphobhdw,u10001893,Richard Ward,1,0
+dphobhdw,u10105923,Stephanie Astley,1,0
+dphowdw,,,0,0
+dphr6prb,,,0,0
+dphrad_r,,,0,0
+dphrad1,,,0,0
+dphrad2,,,0,0
+dphrad2i,,,0,0
+dphrad3,u10115317,Elijah Hall,1,0
+dphrad3,u88258803,Juliet Hutchinson,1,0
+dphrad3,u79836508,Mark Tempest,1,0
+dphrad3,u10104467,William Waugh,1,0
+dphrad4,,,0,0
+dphrad5,,,0,0
+dphrad6,,,0,0
+dphrad7,,,0,0
+dphrad8,,,0,0
+dphrad9,,,0,0
+dphradsw,,,0,0
+dphwwd,,,0,0
+dphwwmew,,,0,0
+dpiad434,,,0,0
+dpib_e,,,0,0
+dpib_u,,,0,0
+dpibuser,,,0,0
+dpicause,,,0,0
+dpidtata,,,0,0
+dpidtcen,,,0,0
+dpidtsas,u80203010,Debbie Morton,1,0
+dpidtsas,u43777206,Linda Donnelly,1,0
+dpidtsas,u24366710,Sandra Cartner,1,0
+dpidtwam,u39464211,Trevor Hayman,1,0
+dpidtwb,,,0,0
+dpidtwt,,,0,0
+dpidyfed,,,0,0
+dpidywad,,,0,0
+dpiidbsv,,,0,0
+dpim1,,,0,0
+dpim1tc,,,0,0
+dpim2,,,0,0
+dpim2rw,,,0,0
+dpim3,,,0,0
+dpim3112,,,0,0
+dpim3123,,,0,0
+dpim3dev,,,0,0
+dpim3hbd,,,0,0
+dpim3hqa,u10064731,Christopher Steer,1,0
+dpim3hqa,u10070928,Mike Elkins,1,0
+dpim3hqw,,,0,0
+dpim4,u10116283,Clive Warhurst,1,0
+dpim4,u46059503,Jack Andrews,1,0
+dpim4,u10117257,Jonathan Howard,1,0
+dpim4,u10117083,Narayan Jayaram,1,0
+dpim4r,,,0,0
+dpim5,,,0,0
+dpinsjcw,,,0,0
+dpitcust,,,0,0
+dpitndev,,,0,0
+dpitsdev,,,0,0
+dpjad2,,,0,0
+dpjad3,,,0,0
+dpjad5,,,0,0
+dpjad6,,,0,0
+dpjad8,,,0,0
+dpjc_p1,,,0,0
+dpjc_p2,,,0,0
+dpjcl_e,,,0,0
+dpjcl_u,,,0,0
+dpjcpdiv,,,0,0
+dpjd2wp,,,0,0
+dpjd2wpr,,,0,0
+dpjd6mor,,,0,0
+dpjd6mow,,,0,0
+dpjd6mre,,,0,0
+dpjd6mru,,,0,0
+dpjdwp,,,0,0
+dpjma_e,,,0,0
+dpjma_u,,,0,0
+dpjot_e,,,0,0
+dpjot_re,,,0,0
+dpjot_u,,,0,0
+dpjotrle,,,0,0
+dpjotrlu,,,0,0
+dpjotrun,,,0,0
+dpjpcbfu,,,0,0
+dpjpp_e,,,0,0
+dpjpp_u,,,0,0
+dpjppd3,,,0,0
+dpjpsues,,,0,0
+dpjpsutp,,,0,0
+dpjrrp,,,0,0
+dpjsalpr,,,0,0
+dpjsalpw,,,0,0
+dpjscane,,,0,0
+dpjscanu,,,0,0
+dpjsesfr,,,0,0
+dpjsesfw,,,0,0
+dpjsx1b,,,0,0
+dpjsx2b,,,0,0
+dpjsx2br,,,0,0
+dpjsx3a,,,0,0
+dpjsx3b,,,0,0
+dpjsx4b,,,0,0
+dpju_r_s,,,0,0
+dpju_rel,,,0,0
+dplima_e,,,0,0
+dplima_u,,,0,0
+dpllmdb2,,,0,0
+dpllwrr,,,0,0
+dpllwrw,,,0,0
+dplmidem,,,0,0
+dplmtuwl,,,0,0
+dplmtuwn,,,0,0
+dplngdb3,,,0,0
+dplngpen,,,0,0
+dplngtd,,,0,0
+dplngte,,,0,0
+dplongit,,,0,0
+dplp_e,,,0,0
+dplp_u,,,0,0
+dpltbanr,,,0,0
+dpltu_e,,,0,0
+dpltu_u,,,0,0
+dplvtmp,,,0,0
+dpmatas,,,0,0
+dpmcds1,,,0,0
+dpmcds2,,,0,0
+dpmcds3,,,0,0
+dpmcds4,,,0,0
+dpmcore,,,0,0
+dpmdd,,,0,0
+dpmdpubp,,,0,0
+dpmdpubr,,,0,0
+dpmdpubu,,,0,0
+dpmdu1,u71952400,Howard Redway,1,0
+dpmdu1,u59219109,John Snow,1,0
+dpmdu1r,,,0,0
+dpmdu1w,,,0,0
+dpmdu2,u55367111,Joe Bosak,1,0
+dpmdu2r,,,0,0
+dpmdu2rw,,,0,0
+dpmdu3,u52370807,Paul Greenfield,1,0
+dpmdu4,,,0,0
+dpmdu5,,,0,0
+dpmdu6,,,0,0
+dpmdu7,,,0,0
+dpmdu8,u71952400,Howard Redway,1,0
+dpmdudla,,,0,0
+dpmdulfr,,,0,0
+dpmduprd,,,0,0
+dpmeo_e,,,0,0
+dpmeo_u,,,0,0
+dpmhbms,,,0,0
+dpmi_r_e,,,0,0
+dpmi_r_f,,,0,0
+dpmi_r_u,,,0,0
+dpmidas,,,0,0
+dpmigeod,,,0,0
+dpmindex,,,0,0
+dpmiraor,,,0,0
+dpmispdv,,,0,0
+dpmodcub,u50829301,Debby Bell,1,0
+dpmodcub,u24366710,Sandra Cartner,1,0
+dpmoj,,,0,0
+dpmoj_b,,,0,0
+dpmoj_c,,,0,0
+dpmtg_re,,,0,0
+dpmtg_ru,,,0,0
+dpn50_e,,,0,0
+dpn50_u,,,0,0
+dpnarall,,,0,0
+dpnddp_e,,,0,0
+dpnddp_u,,,0,0
+dpndp_u,,,0,0
+dpninos,,,0,0
+dpnotdwp,,,0,0
+dpnst_wk,,,0,0
+dpnstprr,,,0,0
+dpodian1,,,0,0
+dpodiaro,,,0,0
+dpodidsd,,,0,0
+dpodileb,,,0,0
+dpodiwwt,,,0,0
+dponsash,,,0,0
+dponsre,,,0,0
+dponsru,,,0,0
+dpor10,,,0,0
+dpor12,,,0,0
+dpp2w_e,,,0,0
+dpp2w_u,,,0,0
+dpp6mow,,,0,0
+dppacs_e,,,0,0
+dppacsni,,,0,0
+dppacspa,,,0,0
+dppadadv,,,0,0
+dppadafc,,,0,0
+dppadain,,,0,0
+dppadpen,,,0,0
+dppafa,,,0,0
+dppafar,,,0,0
+dppaid7,,,0,0
+dpparas5,,,0,0
+dpparuos,,,0,0
+dpPAUall,,,0,0
+dppaudew,,,0,0
+dpPAUdtm,,,0,0
+dppauhbr,,,0,0
+dppauhbw,,,0,0
+dpPAUpap,,,0,0
+dpPAUrti,,,0,0
+dppca_e,,,0,0
+dppca_u,,,0,0
+dppd1arr,,,0,0
+dppd1arw,,,0,0
+dppdag_r,,,0,0
+dppdag_w,,,0,0
+dppdb_e,,,0,0
+dppdb_u,,,0,0
+dppdb_uo,,,0,0
+dppdcat,,,0,0
+dppdcsaa,,,0,0
+dppdcscb,,,0,0
+dppdcscp,,,0,0
+dppdcsor,,,0,0
+dppdcsrp,,,0,0
+dppdcsxc,,,0,0
+dppdsdsa,,,0,0
+dppdsera,,,0,0
+dppe2ana,,,0,0
+dppe2dev,,,0,0
+dppencom,,,0,0
+dppenor1,,,0,0
+dppenor2,,,0,0
+dppmadba,,,0,0
+dppmaddc,,,0,0
+dppmadea,,,0,0
+dppmadfe,,,0,0
+dppmadjb,,,0,0
+dppmadpa,,,0,0
+dppmadsr,,,0,0
+dppmadta,,,0,0
+dppmpr_w,u43777206,Linda Donnelly,1,0
+dppmpr_w,u24366710,Sandra Cartner,1,0
+dppmpusr,,,0,0
+dppost_r,,,0,0
+dppost_w,,,0,0
+dpppad1,,,0,0
+dpppad2,,,0,0
+dpppad3,,,0,0
+dpppad4,,,0,0
+dpppad5,,,0,0
+dpppad6,,,0,0
+dpppsd2,,,0,0
+dppsm,,,0,0
+dppsm_r0,,,0,0
+dppsm_r1,,,0,0
+dppsm1,,,0,0
+dppsm2,,,0,0
+dppsm3,,,0,0
+dppwdpcw,,,0,0
+dprapid,,,0,0
+dprbv_w,,,0,0
+dprresp,u79934707,Kevin Hawthorne,1,0
+dprresp,u89009308,Mark Dobson,1,0
+dprresp,u77752804,Neil Taylor,1,0
+dprtwc_e,,,0,0
+dprtwc_u,,,0,0
+dpsanc_e,,,0,0
+dpsanc_u,,,0,0
+dpsasvws,,,0,0
+dpsau1,,,0,0
+dpsau2,,,0,0
+dpsau3,,,0,0
+dpsau4,,,0,0
+dpsau5,,,0,0
+dpsauucr,,,0,0
+dpsauucw,,,0,0
+dpsc_e,,,0,0
+dpsc_u,,,0,0
+dpsdv1w,,,0,0
+dpsecure,u39464211,Trevor Hayman,1,0
+dpselfd,,,0,0
+dpsffw,,,0,0
+dpsfrecw,,,0,0
+dpsfrel,,,0,0
+dpshbe_r,,,0,0
+dpshbe_w,,,0,0
+dpshep_w,,,0,0
+dpshepdv,,,0,0
+dpsjxcw,,,0,0
+dpsolrw,,,0,0
+dpsp8p2a,,,0,0
+dpspad1,,,0,0
+dpspad10,,,0,0
+dpspad2,,,0,0
+dpspad3,,,0,0
+dpspad3p,,,0,0
+dpspad4,,,0,0
+dpspad5,,,0,0
+dpspad6,,,0,0
+dpspad7,,,0,0
+dpspad8,u10096834,Amy Grant,1,0
+dpspad8,u10094987,Benjamin Ashton,1,0
+dpspad8,u10123718,Bethany Munns,1,0
+dpspad8,u10075066,Christopher Lord,1,0
+dpspad8,u86805011,Gary Gifford,1,0
+dpspad8,u77418005,Gillian Ferry,1,0
+dpspad8,u10098491,James Oswald,1,0
+dpspad8,u88820207,James Rees,1,0
+dpspad8,u10097907,Jennifer Gibson,1,0
+dpspad8,u10116680,Jennifer Szulc,1,0
+dpspad8,u10082395,Julius Urbutis,1,0
+dpspad8,u10124114,Kieran Gregory,1,0
+dpspad8,u10106551,Matt Parkinson,1,0
+dpspad8,u10106551,Matthew Parkinson,1,0
+dpspad8,u10108039,Nicholas Thomas,1,0
+dpspad8,u10117081,Philippe Gaudart-Wifling,1,0
+dpspad8,u10110004,Rachel Boughey,1,0
+dpspad8,u10084627,Salina Choudhry,1,0
+dpspad8,u10112091,Sarah-Kate O'Grady,1,0
+dpspad8,u10117383,William Talbot,1,0
+dpspad8,u10149844,Xiang-Yang Tang,1,0
+dpspad9,,,0,0
+dpssahoc,,,0,0
+dpsscbae,,,0,0
+dpsscbaw,,,0,0
+dpssccrr,,,0,0
+dpssccrw,,,0,0
+dpsscsdw,,,0,0
+dpsscssa,u10075483,Peter Gomersall,1,0
+dpsscsse,,,0,0
+dpssd2pe,,,0,0
+dpssd2qa,u84685704,Courtney Hoilett,1,0
+dpssde3d,,,0,0
+dpssdeal,,,0,0
+dpssdev1,,,0,0
+dpssdev2,,,0,0
+dpssdev3,u70941307,Judith Correia,1,0
+dpssdev4,,,0,0
+dpssdev5,,,0,0
+dpssdism,,,0,0
+dpsslpor,,,0,0
+dpsslpow,,,0,0
+dpssmap,,,0,0
+dpssneig,,,0,0
+dpsspend,,,0,0
+dpssproj,,,0,0
+dpssvare,,,0,0
+dpsswaac,,,0,0
+dpsswg_v,,,0,0
+dpsswprg,,,0,0
+dpsuel_e,,,0,0
+dpsuel_u,,,0,0
+dpsupa_e,,,0,0
+dpsupa_u,,,0,0
+dpsurvs1,u10096834,Amy Grant,1,0
+dpsurvs1,u10086692,Andrew Ward,1,0
+dpsurvs1,u10080885,James Evans,1,0
+dpsurvs1,u10076219,James Hudson,1,0
+dpsurvs1,u10087109,James Hurkett,1,0
+dpsurvs1,u10097903,John Stainsby,1,0
+dpsurvs1,u10076420,Joseph Cann,1,0
+dpsurvs1,u10095351,Lily Shannon,1,0
+dpsurvs1,u10074705,Lucy McKenna,1,0
+dpsurvs1,u10089194,Luke Barclay,1,0
+dpsurvs1,u10076244,Lyndon Clews,1,0
+dpsurvs1,u10080980,Matthew Edmundson,1,0
+dpsurvs1,u10076989,Matthew Tapley,1,0
+dpsurvs1,u10085091,Meshkath Mukul,1,0
+dpsurvs1,u10079375,Michael Oldridge,1,0
+dpsurvs1,u10086262,Michael Scott,1,0
+dpsurvs1,u10073059,Samuel Caton,1,0
+dpsurvs1,u10077857,Stefania Porcu,1,0
+dpsurvs1,u10096973,William Shaw,1,0
+dpsurvs2,u10096834,Amy Grant,1,0
+dpsurvs2,u10107343,Edward Martyn,1,0
+dpsurvs2,u10104173,Francois Kabriti,1,0
+dpsurvs2,u10117260,Greg Harrison,1,0
+dpsurvs2,u10097903,John Stainsby,1,0
+dpsurvs2,u10103134,Kate Martin,1,0
+dpsurvs2,u10095351,Lily Shannon,1,0
+dpsurvs2,u10112091,Sarah-Kate O'Grady,1,0
+dpsurvs2,u10106373,Thomas Lloyd,1,0
+dpsurvs2,u10096973,William Shaw,1,0
+dpsurvs3,u46028204,Bert Van-Landeghem,1,0
+dpsurvs3,u78440700,Chris Cousins,1,0
+dpsurvs3,u63138805,Chris Tracey,1,0
+dpsurvs3,u84685704,Courtney Hoilett,1,0
+dpsurvs3,u82407111,Edward Green,1,0
+dpsurvs3,u77418005,Gillian Ferry,1,0
+dpsurvs3,u72604007,Graham Jones,1,0
+dpsurvs3,u71952400,Howard Redway,1,0
+dpsurvs3,u74667708,Ian Davis,1,0
+dpsurvs3,u79160704,Jacob MacDonald,1,0
+dpsurvs3,u78537011,James Lind,1,0
+dpsurvs3,u85801803,Jane Ball,1,0
+dpsurvs3,u55367111,Joe Bosak,1,0
+dpsurvs3,u59219109,John Snow,1,0
+dpsurvs3,u81676511,Martin Moran,1,0
+dpsurvs3,u81570205,Penny Pegman,1,0
+dpsurvs3,u74769108,Roger Morgan,1,0
+dpsurvs3,u63173905,Simon Gault,1,0
+dpsurvs3,u83626008,Simon Wood,1,0
+dpsurvs3,u74167502,Stuart Grant,1,0
+dpsurvs4,u88957504,Chris Anderson,1,0
+dpsurvs4,u84433909,Fergal O'Kane,1,0
+dpsurvs4,u88959405,James Barrott,1,0
+dpsurvs4,u88820207,James Rees,1,0
+dpsurvs4,u89201205,Joanna Lone,1,0
+dpsurvs4,u86873310,Mark Craimer,1,0
+dpsurvs4,u88994910,Michael Payne,1,0
+dpsurvs4,u91276802,Olatunde Akinlade,1,0
+dpsurvs4,u89024111,Rhys Cockerell,1,0
+dpsurvs4,u89894301,Rickson Gunzo,1,0
+dpsurvs4,u90195803,Steven Tulloch,1,0
+dpsurvs4,u86840000,Thomas Dawson,1,0
+dpsurvs4,u88969707,Tom Davies,1,0
+dpsurvs4,u88491000,Tom Stewart,1,0
+dpsurvsr,u10046308,Andrew Stocks,1,0
+dpsurvsr,u10026085,Edmund O'Mahony,1,0
+dpsurvsr,u10000189,Hitesh Patel,1,0
+dpsurvsr,u10014365,Joanne Gilroy,1,0
+dpsurvsr,u10002890,Josephine Daniels,1,0
+dpsurvsr,u10023546,Nadejda Tzokova,1,0
+dpsurvsr,u10060581,Riaz Ali,1,0
+dpsurvsr,u10061511,Richard Mosley,1,0
+dpsurvsr,u10001893,Richard Ward,1,0
+dpsurvsr,u10065126,Rosina Citrone,1,0
+dpsurvsr,u10063166,Timothy Hefferon,1,0
+dpsurvsr,u10060716,Waqas Zahid,1,0
+dpsurvu1,,,0,0
+dpsurvur,,,0,0
+dpsus_e,,,0,0
+dpsus_u,,,0,0
+dptabdev,,,0,0
+dpuc2re,,,0,0
+dpucad,u63138805,Chris Tracey,1,0
+dpucad,u74667708,Ian Davis,1,0
+dpucad,u78284210,Joe McLaughlin,1,0
+dpucad,u64956512,Nigel Lister,1,0
+dpucad,u69600466,Rob Willis,1,0
+dpucadrw,,,0,0
+dpucalbn,u91140805,Adam Hillmore,1,0
+dpucalbn,u63138805,Chris Tracey,1,0
+dpucalbn,u10087637,Edward Pitt,1,0
+dpucalbn,u74667708,Ian Davis,1,0
+dpucalbn,u88959405,James Barrott,1,0
+dpucalbn,u69600466,Rob Willis,1,0
+dpucalbr,,,0,0
+dpucbimw,,,0,0
+dpuceval,u63138805,Chris Tracey,1,0
+dpuceval,u74667708,Ian Davis,1,0
+dpucevw,,,0,0
+dpucinfr,,,0,0
+dpucinfw,u91140805,Adam Hillmore,1,0
+dpucinfw,u10081631,Adam Whitaker,1,0
+dpucinfw,u87144507,Ashley Buckner,1,0
+dpucinfw,u63138805,Chris Tracey,1,0
+dpucinfw,u10116707,Daniel Hatton,1,0
+dpucinfw,u10087637,Edward Pitt,1,0
+dpucinfw,u74667708,Ian Davis,1,0
+dpucinfw,u10124540,Jake Reast,1,0
+dpucinfw,u88959405,James Barrott,1,0
+dpucinfw,u10087109,James Hurkett,1,0
+dpucinfw,u78284210,Joe McLaughlin,1,0
+dpucinfw,u85650304,Lorna Morns-Stephenson,1,0
+dpucinfw,u81676511,Martin Moran,1,0
+dpucinfw,u10007771,Melanie Bowden,1,0
+dpucinfw,u64956512,Nigel Lister,1,0
+dpucinfw,u10082042,Paris Kollias,1,0
+dpucinfw,u10007253,Paul Ainsworth,1,0
+dpucinfw,u81570205,Penny Pegman,1,0
+dpucinfw,u10060581,Riaz Ali,1,0
+dpucinfw,u89894301,Rickson Gunzo,1,0
+dpucinfw,u69600466,Rob Willis,1,0
+dpucinfw,u10000115,Samantha Poole,1,0
+dpucinfw,u10073059,Samuel Caton,1,0
+dpucr,,,0,0
+dpucw,u70941307,Judith Correia,1,0
+dpup18sw,,,0,0
+dpw7lrca,u10096834,Amy Grant,1,0
+dpw7lrca,u10106007,Andrew McCarthy,1,0
+dpw7lrca,u10086692,Andrew Ward,1,0
+dpw7lrca,u10071619,Annie Morton,1,0
+dpw7lrca,u48003789,Arun Mehan,1,0
+dpw7lrca,u87144507,Ashley Buckner,1,0
+dpw7lrca,u10116653,Benjamin Phillips,1,0
+dpw7lrca,u10097733,Bryony Maw,1,0
+dpw7lrca,u63138805,Chris Tracey,1,0
+dpw7lrca,u10144914,Daniel Woodell,1,0
+dpw7lrca,u82407111,Edward Green,1,0
+dpw7lrca,u10104173,Francois Kabriti,1,0
+dpw7lrca,u10116649,Frankie Jackson,1,0
+dpw7lrca,u10106588,Gabriel Ferros,1,0
+dpw7lrca,u86805011,Gary Gifford,1,0
+dpw7lrca,u10116617,Genevieve Berwick,1,0
+dpw7lrca,u10096870,Grace Stamate,1,0
+dpw7lrca,u10117260,Greg Harrison,1,0
+dpw7lrca,u10105854,Hannah Bewley,1,0
+dpw7lrca,u10117588,Hasan Uddin,1,0
+dpw7lrca,u74667708,Ian Davis,1,0
+dpw7lrca,u10116631,Inna Danylyuk,1,0
+dpw7lrca,u10144863,Jacob Kenny,1,0
+dpw7lrca,u79160704,Jacob MacDonald,1,0
+dpw7lrca,u10076219,James Hudson,1,0
+dpw7lrca,u10087109,James Hurkett,1,0
+dpw7lrca,u46032075,Jennifer George,1,0
+dpw7lrca,u80703301,Kavandeep Aujla,1,0
+dpw7lrca,u10095351,Lily Shannon,1,0
+dpw7lrca,u10094818,Luke Montgomery,1,0
+dpw7lrca,u10001189,Mark Burley,1,0
+dpw7lrca,u10081672,Matthew Roberts,1,0
+dpw7lrca,u10085091,Meshkath Mukul,1,0
+dpw7lrca,u88994910,Michael Payne,1,0
+dpw7lrca,u10095539,Michael Roussos-Poponis,1,0
+dpw7lrca,u10115002,Oliver Rea,1,0
+dpw7lrca,u10097666,Philip Thomas,1,0
+dpw7lrca,u10077157,Pieter Wessels,1,0
+dpw7lrca,u10074697,Raadhiyah Anees,1,0
+dpw7lrca,u10063407,Rachel Councell,1,0
+dpw7lrca,u10061511,Richard Mosley,1,0
+dpw7lrca,u10001893,Richard Ward,1,0
+dpw7lrca,u74769108,Roger Morgan,1,0
+dpw7lrca,u10065126,Rosina Citrone,1,0
+dpw7lrca,u10073059,Samuel Caton,1,0
+dpw7lrca,u10112091,Sarah-Kate O'Grady,1,0
+dpw7lrca,u82935401,Simon Lunn,1,0
+dpw7lrca,u83626008,Simon Wood,1,0
+dpw7lrca,u10116662,Sophie Dangerfield,1,0
+dpw7lrca,u10124362,Stephen Sint-Nicolaas,1,0
+dpw7lrca,u10106373,Thomas Lloyd,1,0
+dpw7lrca,u10096973,William Shaw,1,0
+dpw7lrch,u10106007,Andrew McCarthy,1,0
+dpw7lrch,u10117260,Greg Harrison,1,0
+dpw7lrch,u10144863,Jacob Kenny,1,0
+dpw7lrch,u80703301,Kavandeep Aujla,1,0
+dpw7lrch,u10001893,Richard Ward,1,0
+dpw7lrch,u74769108,Roger Morgan,1,0
+dpw7lrch,u10077857,Stefania Porcu,1,0
+dpw7lrci,u88969707,Tom Davies,1,0
+dpw7lrcl,,,0,0
+dpw7lrcla,u10071619,Annie Morton,1,0
+dpw7lrcla,u48003789,Arun Mehan,1,0
+dpw7lrcla,u10097733,Bryony Maw,1,0
+dpw7lrcla,u78440700,Chris Cousins,1,0
+dpw7lrcla,u10117588,Hasan Uddin,1,0
+dpw7lrcla,u10076219,James Hudson,1,0
+dpw7lrcla,u80703301,Kavandeep Aujla,1,0
+dpw7lrcla,u10095351,Lily Shannon,1,0
+dpw7lrcla,u10001189,Mark Burley,1,0
+dpw7lrcla,u10095539,Michael Roussos-Poponis,1,0
+dpw7lrcla,u10065126,Rosina Citrone,1,0
+dpw7lrcs,u78440700,Chris Cousins,1,0
+dpw7lrcs,u84685704,Courtney Hoilett,1,0
+dpw7lrcs,u86805011,Gary Gifford,1,0
+dpw7lrcs,u89201205,Joanna Lone,1,0
+dpw7lrcs,u80703301,Kavandeep Aujla,1,0
+dpw7lrcw,u10107343,Edward Martyn,1,0
+dpw7lrcw,u80703301,Kavandeep Aujla,1,0
+dpw7lrcw,u81676511,Martin Moran,1,0
+dpw7lrcw,u10076989,Matthew Tapley,1,0
+dpw7lrcw,u10001893,Richard Ward,1,0
+dpwabsfr,,,0,0
+dpwaidrr,,,0,0
+dpwaidrw,,,0,0
+dpwasdp1,,,0,0
+dpwasdp2,,,0,0
+dpwasdp3,,,0,0
+dpwasdp4,,,0,0
+dpwasdp9,,,0,0
+dpwblare,,,0,0
+dpwblarn,,,0,0
+dpwfp_e,,,0,0
+dpwfp_u,,,0,0
+dpwhbul,u10075157,Ahmed Khan,1,0
+dpwhbul,u77842406,Allyson Evans,1,0
+dpwhbul,u80957500,Andrea Robson,1,0
+dpwhbul,u86321509,Anna Dyson,1,0
+dpwhbul,u10117561,Billy Williams,1,0
+dpwhbul,u60804312,Christine Crozier,1,0
+dpwhbul,u69447275,Craig Barker,1,0
+dpwhbul,u69611235,Dalbag Suman,1,0
+dpwhbul,u59821205,David Barnes,1,0
+dpwhbul,u64355507,David Ledger,1,0
+dpwhbul,u10105479,Dean Blake,1,0
+dpwhbul,u80421410,Ian Barlow,1,0
+dpwhbul,u10104031,Jude Dennis,1,0
+dpwhbul,u10105477,Mairead Kirby,1,0
+dpwhbul,u89009308,Mark Dobson,1,0
+dpwhbul,u56762612,Mick Watson,1,0
+dpwhbul,u85082204,Neil Emmerson,1,0
+dpwhbul,u77752804,Neil Taylor,1,0
+dpwhbul,u46064856,Ramanjaneya Pallerla,1,0
+dpwhbul,u57195512,Richard Butterworth,1,0
+dpwhbul,u88398602,Richard Roblin,1,0
+dpwhbul,u10117214,Ridwan Jeena,1,0
+dpwhbul,u46064844,Saeed Anjum,1,0
+dpwhbul,u46064847,Sai Dasari,1,0
+dpwhbul,u46064851,Satish Tandel,1,0
+dpwhbul,u10117594,Shireesha Dhareddy,1,0
+dpwhbul,u10120623,Stewart Lee,1,0
+dpwhbul,u75588010,Susan Harper,1,0
+dpwhbul,u10105480,Tracey Philip,1,0
+dpwhbul,u10117222,Umesh Asnani,1,0
+dpwhbul,u46064852,Venkatram Nallamothu,1,0
+dpwhbul,pserverd,,1,0
+dpwhbul,pservert,,1,0
+dpwhdes,u10075157,Ahmed Khan,1,0
+dpwhdes,u10081241,Alexandra Hutchinson,1,0
+dpwhdes,u77842406,Allyson Evans,1,0
+dpwhdes,u80957500,Andrea Robson,1,0
+dpwhdes,u10017204,Andrew Taylor,1,0
+dpwhdes,u10117561,Billy Williams,1,0
+dpwhdes,u60804312,Christine Crozier,1,0
+dpwhdes,u69447275,Craig Barker,1,0
+dpwhdes,u10104152,Craig Skelton,1,0
+dpwhdes,u69611235,Dalbag Suman,1,0
+dpwhdes,u59821205,David Barnes,1,0
+dpwhdes,u64355507,David Ledger,1,0
+dpwhdes,u10105479,Dean Blake,1,0
+dpwhdes,u80421410,Ian Barlow,1,0
+dpwhdes,u10104031,Jude Dennis,1,0
+dpwhdes,u79934707,Kevin Hawthorne,1,0
+dpwhdes,u10105477,Mairead Kirby,1,0
+dpwhdes,u89009308,Mark Dobson,1,0
+dpwhdes,u56762612,Mick Watson,1,0
+dpwhdes,u85082204,Neil Emmerson,1,0
+dpwhdes,u77752804,Neil Taylor,1,0
+dpwhdes,u55823509,Phil Bell,1,0
+dpwhdes,u57195512,Richard Butterworth,1,0
+dpwhdes,u88398602,Richard Roblin,1,0
+dpwhdes,u10117214,Ridwan Jeena,1,0
+dpwhdes,u46064844,Saeed Anjum,1,0
+dpwhdes,u46064851,Satish Tandel,1,0
+dpwhdes,u10120623,Stewart Lee,1,0
+dpwhdes,u75588010,Susan Harper,1,0
+dpwhdes,u10105480,Tracey Philip,1,0
+dpwhdes,u10117222,Umesh Asnani,1,0
+dpwhedts,,,0,0
+dpwhlvs,,,0,0
+dpwhpro,u52358212,Angie Panting,1,0
+dpwhpro,u77994604,Caroline Ashmore,1,0
+dpwhpro,u86884409,Daniel Hickey,1,0
+dpwhpro,u46064846,David Fleming,1,0
+dpwhpro,u80203010,Debbie Morton,1,0
+dpwhpro,u50829301,Debby Bell,1,0
+dpwhpro,u10014595,Iain Woolard,1,0
+dpwhpro,u79513311,Ingrid Whitworth,1,0
+dpwhpro,u10096747,Jen Machin,1,0
+dpwhpro,u85278112,Lee Swan,1,0
+dpwhpro,u80200606,Leigh Taggart,1,0
+dpwhpro,u43777206,Linda Donnelly,1,0
+dpwhpro,u10017946,Louise McGuinness,1,0
+dpwhpro,u10021846,Neil Coulson,1,0
+dpwhpro,u24366710,Sandra Cartner,1,0
+dpwhpro,u84023906,Stephen Clark,1,0
+dpwhpro,u74908502,Steve Howe,1,0
+dpwhpro,u10015157,Suzy Rutter,1,0
+dpwhpro,cftmain,,1,0
+dpwhpro,mqm,,1,0
+dpwhpro,pserverp,,1,0
+dpwhpro,sftagent,,1,0
+dpwhtst,u48007891,Anand Alajangi,1,0
+dpwhtst,u69609542,April Worrall,1,0
+dpwhtst,u69669371,Bish Khan,1,0
+dpwhtst,u88988606,Dave Mappin,1,0
+dpwhtst,u10078495,David Rutter-Close,1,0
+dpwhtst,u46049693,Dhiren Sarma,1,0
+dpwhtst,u48003516,Krishnaveni Sanampudi,1,0
+dpwhtst,u10019092,Lee Robinson,1,0
+dpwhtst,u88617701,Malcolm Moran,1,0
+dpwhtst,u79149409,Michael Harrison,1,0
+dpwhtst,u46047314,Rajesh Mariappan,1,0
+dpwhtst,u48004197,Robbie ONeill,1,0
+dpwhtst,u69420765,Robert Fox,1,0
+dpwhtst,u10088678,Shanmuga Srinivasan,1,0
+dpwhtst,u10021850,Stephen Carlin,1,0
+dpwhtst,u46064857,Venkata Chhukudukayala,1,0
+dpwhtst,pserverd,,1,0
+dpwhtst,pservert,,1,0
+dpwhtsta,u48007891,Anand Alajangi,1,0
+dpwhtsta,u69609542,April Worrall,1,0
+dpwhtsta,u69669371,Bish Khan,1,0
+dpwhtsta,u88988606,Dave Mappin,1,0
+dpwhtsta,u10078495,David Rutter-Close,1,0
+dpwhtsta,u46049693,Dhiren Sarma,1,0
+dpwhtsta,u48003516,Krishnaveni Sanampudi,1,0
+dpwhtsta,u10019092,Lee Robinson,1,0
+dpwhtsta,u88617701,Malcolm Moran,1,0
+dpwhtsta,u79149409,Michael Harrison,1,0
+dpwhtsta,u46047314,Rajesh Mariappan,1,0
+dpwhtsta,u48004197,Robbie ONeill,1,0
+dpwhtsta,u69420765,Robert Fox,1,0
+dpwhtsta,u10088678,Shanmuga Srinivasan,1,0
+dpwhtsta,u10021850,Stephen Carlin,1,0
+dpwhtsta,u46064857,Venkata Chhukudukayala,1,0
+dpwnp_e,,,0,0
+dpwnp_u,,,0,0
+dpwpdev,,,0,0
+dpwplsdv,,,0,0
+dpwprdea,,,0,0
+dpwprdia,,,0,0
+dpwprdlt,,,0,0
+dpwprdpe,u56175502,Val Strassburg,1,0
+dpwprdpi,,,0,0
+dpwprltr,,,0,0
+dpwpwpa,,,0,0
+dpwstp_e,,,0,0
+dpwstp_u,,,0,0
+dpwtwsdw,,,0,0
+dpwtwser,,,0,0
+dpwwaswa,,,0,0
+dpwwegbp,,,0,0
+dpwwsd2,,,0,0
+dpwwsd7,,,0,0
+dpwwsdee,,,0,0
+dpwwsubw,,,0,0
+dpxpad1,,,0,0
+dpxpad10,,,0,0
+dpxpad2,,,0,0
+dpxpad3,,,0,0
+dpxpad4,,,0,0
+dpxpad5,,,0,0
+dpxpad5w,,,0,0
+dpxpad6,,,0,0
+dpxpad7,,,0,0
+dpxpad8,,,0,0
+dpxpad9,u92491309,Dominic Pinto,1,0
+dpxpad9,u88820207,James Rees,1,0
+dpxpd9gh,,,0,0
+dpxx5wr,,,0,0
+dpyp_e,,,0,0
+dpyp_u,,,0,0
+dsu,,,0,0
+dsu1,,,0,0
+dsu1a,,,0,0
+dsu2,,,0,0
+dsu2a,,,0,0
+dsu3,,,0,0
+dsu4,,,0,0
+dsu5,,,0,0
+dsu6,,,0,0
+dsu7,,,0,0
+dwhinc,u46049299,Anthony Carmichael,1,0
+dwhinc,u46061705,Ben Featherstone,1,0
+dwhinc,u46053701,Ben Storey,1,0
+dwhinc,u46055083,Christian Gardner,1,0
+dwhinc,u46059043,Christopher Holmes,1,0
+dwhinc,u46055715,Christopher Lang,1,0
+dwhinc,u46047486,David Sives-Rutherford,1,0
+dwhinc,u52392208,Ian Hertwick,1,0
+dwhinc,u46040067,Jack Gartland,1,0
+dwhinc,u48000006,James Gardner,1,0
+dwhinc,u46054748,Jason McMullen,1,0
+dwhinc,u46053330,Peter Hamilton,1,0
+dwhinc,u46037248,Reece Dunn,1,0
+dwhinc,u46061708,Scott White,1,0
+dwhinc,u46057960,Stephen Crahan,1,0
+dwhinc,u46063009,Vitalij Shamov,1,0
+dwhinc,u46055439,Yiu-Keung Tsang,1,0
+dwhsshfull,u46049299,Anthony Carmichael,1,0
+dwhsshfull,u46061705,Ben Featherstone,1,0
+dwhsshfull,u46053701,Ben Storey,1,0
+dwhsshfull,u46055083,Christian Gardner,1,0
+dwhsshfull,u46059043,Christopher Holmes,1,0
+dwhsshfull,u46055715,Christopher Lang,1,0
+dwhsshfull,u46047486,David Sives-Rutherford,1,0
+dwhsshfull,u52392208,Ian Hertwick,1,0
+dwhsshfull,u46040067,Jack Gartland,1,0
+dwhsshfull,u48000006,James Gardner,1,0
+dwhsshfull,u46054748,Jason McMullen,1,0
+dwhsshfull,u52370807,Paul Greenfield,1,0
+dwhsshfull,u46053330,Peter Hamilton,1,0
+dwhsshfull,u46037248,Reece Dunn,1,0
+dwhsshfull,u46061708,Scott White,1,0
+dwhsshfull,u46057960,Stephen Crahan,1,0
+dwhsshfull,u46063009,Vitalij Shamov,1,0
+dwhsshfull,u46055439,Yiu-Keung Tsang,1,0
+dxoffice,unison,,1,0
+dxp9asrr,,,0,0
+dxp9asrw,,,0,0
+dxp9oraw,,,0,0
+dxx5eres,,,0,0
+egtrain,,,0,0
+egtrainr,,,0,0
+elm,,,0,0
+elm1,,,0,0
+elm2,,,0,0
+elm3,,,0,0
+elm4,,,0,0
+elm5,,,0,0
+elm6,,,0,0
+emeu,,,0,0
+emplymod,,,0,0
+entmod,,,0,0
+etu,,,0,0
+exgmhbce,,,0,0
+exgmhbne,,,0,0
+fcm,,,0,0
+fdad1,,,0,0
+fdad2,,,0,0
+fdad3,,,0,0
+fdad4,,,0,0
+fdad5,,,0,0
+fdad6,,,0,0
+fdad7,,,0,0
+fdad8,,,0,0
+fdad9,,,0,0
+fes,,,0,0
+fped,,,0,0
+fraud,,,0,0
+frauddev,,,0,0
+fraudraw,,,0,0
+frs,u48007515,Alexander Kolomiets,1,0
+frs,u48007506,Alice Ndikumagenge,1,0
+frs,u48007516,Asli Yalcin,1,0
+frs,u10076486,Christopher Tucker,1,0
+frs,u10071146,Claire Cameron,1,0
+frs,u10116283,Clive Warhurst,1,0
+frs,u83209701,Dawn McDonagh,1,0
+frs,u82640007,Donncha Burke,1,0
+frs,u84084503,George Johnson,1,0
+frs,u10116629,Grace Cassidy,1,0
+frs,u10145500,Grace Moignard,1,0
+frs,u10124202,Harrison Jones,1,0
+frs,u10115913,Helen Smith,1,0
+frs,u48007513,Ian Creese,1,0
+frs,u46059503,Jack Andrews,1,0
+frs,u87447002,Joanne Burrage,1,0
+frs,u10117257,Jonathan Howard,1,0
+frs,u10117280,Joseph Welham,1,0
+frs,u10148475,Justyna Owen,1,0
+frs,u10124365,Kiran Ameer,1,0
+frs,u90591506,Mark Vaughan,1,0
+frs,u10103759,Matt Jarvis,1,0
+frs,u10117083,Narayan Jayaram,1,0
+frs,u77308302,Neil Sorensen,1,0
+frs,u48007860,Ryan McDonald,1,0
+frs,u10117960,Umer Samin,1,0
+frs,u56175502,Val Strassburg,1,0
+frs,u10117065,William Drabble,1,0
+frsanon,u10014729,???,1,0
+frsanon,u10028283,???,1,0
+frsanon,u10052757,???,1,0
+frsanon,u10062261,???,1,0
+frsanon,u89875421,???,1,0
+frsanon,u90106802,???,1,0
+frsanon,u82407111,Edward Green,1,0
+frsanon,u88959405,James Barrott,1,0
+frsanon,u90591506,Mark Vaughan,1,0
+frsanon,u10063218,Thomas Pickering,1,0
+frsanon,u10060716,Waqas Zahid,1,0
+frsuser,,,0,0
+frsuser1,,,0,0
+frsuser2,,,0,0
+frsuser3,,,0,0
+frsuser4,,,0,0
+ftp,,,0,0
+games,,,0,0
+gdm,,,0,0
+gmsload,,,0,0
+hbai,,,0,0
+hbfraud,,,0,0
+hbms,,,0,0
+houseben,,,0,0
+houseben_c,,,0,0
+hpsmh,,,0,0
+hpwhbul,,,0,0
+hpwhpip,,,0,0
+hpwhtst,,,0,0
+httpd,,,0,0
+ia2,,,0,0
+ia3,,,0,0
+ia4,,,0,0
+ia5,,,0,0
+IASS_Adm,,,0,0
+icausup,u55823509,Phil Bell,1,0
+iccollat,,,0,0
+IM_admin,u52370807,Paul Greenfield,1,0
+incap,,,0,0
+infaos,,,0,0
+infaosp,,,0,0
+infcam,,,0,0
+infcamp,u10014595,Iain Woolard,1,0
+infcamp,u79513311,Ingrid Whitworth,1,0
+infcamt,,,0,0
+infcen,,,0,0
+infcenp,u77994604,Caroline Ashmore,1,0
+infcenp,u86884409,Daniel Hickey,1,0
+infcenp,u46064846,David Fleming,1,0
+infcenp,u80203010,Debbie Morton,1,0
+infcenp,u50829301,Debby Bell,1,0
+infcenp,u10014595,Iain Woolard,1,0
+infcenp,u79513311,Ingrid Whitworth,1,0
+infcenp,u85278112,Lee Swan,1,0
+infcenp,u80200606,Leigh Taggart,1,0
+infcenp,u43777206,Linda Donnelly,1,0
+infcenp,u10021846,Neil Coulson,1,0
+infcenp,u24366710,Sandra Cartner,1,0
+infcenp,u84023906,Stephen Clark,1,0
+infcenp,u74908502,Steve Howe,1,0
+infcenp,u10015157,Suzy Rutter,1,0
+infcenp,pserverp,,1,0
+infcent,,,0,0
+infcis,,,0,0
+infcisp,cftmain,,1,0
+infcist,,,0,0
+infcps,,,0,0
+infcpsp,cftmain,,1,0
+infcpst,,,0,0
+infcsa,csroper,,1,0
+infcsa,mqm,,1,0
+infcsap,,,0,0
+infcsat,,,0,0
+infdi,,,0,0
+infdip,,,0,0
+infdq,u10014595,Iain Woolard,1,0
+infdqp,u10014595,Iain Woolard,1,0
+infdqs,u10014595,Iain Woolard,1,0
+infdqsp,,,0,0
+infdqst,,,0,0
+infdqt,,,0,0
+infesa,,,0,0
+infesap,u10018172,???,1,0
+infesap,u88997902,Allan Riggs,1,0
+infesat,,,0,0
+inffra,,,0,0
+inffrap,u10018172,???,1,0
+inffrap,u88997902,Allan Riggs,1,0
+inffrat,,,0,0
+infif,,,0,0
+infifp,u79513311,Ingrid Whitworth,1,0
+infots,,,0,0
+infotsp,,,0,0
+infotst,,,0,0
+infpip,,,0,0
+infpipp,u79513311,Ingrid Whitworth,1,0
+infpipp,cftmain,,1,0
+infptp,,,0,0
+infptpp,cftmain,,1,0
+infptpt,,,0,0
+infuc,,,0,0
+infucp,u79513311,Ingrid Whitworth,1,0
+infucp,cftmain,,1,0
+infwh,,,0,0
+infwhds,pservert,,1,0
+infwhdsp,u10014595,Iain Woolard,1,0
+infwhp,,,0,0
+infwht,,,0,0
+issm,,,0,0
+itcusint,,,0,0
+itdhouse,,,0,0
+itresdev,,,0,0
+jad1,,,0,0
+jad2,,,0,0
+jad3,,,0,0
+jad4,,,0,0
+jad5,,,0,0
+jad6,,,0,0
+jad7,,,0,0
+jad8,,,0,0
+jira-admin,,,0,0
+jira-users,u88997902,Allan Riggs,1,0
+jira-users,u35162707,Edmund Featherstone,1,0
+jira-users,u52392208,Ian Hertwick,1,0
+jira-users,u71135608,Matthew Pethig,1,0
+jira-users,u39464211,Trevor Hayman,1,0
+jira-users,u56175502,Val Strassburg,1,0
+jpad1,,,0,0
+jpad2,,,0,0
+jpad3,,,0,0
+jpad4,,,0,0
+jpad5,,,0,0
+jsx2b,,,0,0
+kmem,ingres,,1,0
+kmem,root,,1,0
+kuglerj,,,0,0
+lfsdev,,,0,0
+Llmdb,,,0,0
+llmdb2,,,0,0
+longbow,,,0,0
+longdb3,,,0,0
+Longitud,,,0,0
+longpens,,,0,0
+Longvtmp,,,0,0
+lp,,,0,0
+lp,adm,,1,0
+lp,root,,1,0
+lpr,adm,,1,0
+lpr,root,,1,0
+mail,mail,,1,0
+mail,root,,1,0
+mailman,mailman,,1,0
+masterin,,,0,0
+mds,,,0,0
+mem,,,0,0
+Mindex,,,0,0
+misource,u88997902,Allan Riggs,1,0
+mlocate,,,0,0
+modstats,u79060702,Alan Gibson,1,0
+modstats,u10018487,Ali Spahiu,1,0
+modstats,u77994604,Caroline Ashmore,1,0
+modstats,u80203010,Debbie Morton,1,0
+modstats,u50829301,Debby Bell,1,0
+modstats,u79513311,Ingrid Whitworth,1,0
+modstats,u10089240,Katie Wong,1,0
+modstats,u85278112,Lee Swan,1,0
+modstats,u43777206,Linda Donnelly,1,0
+modstats,u24366710,Sandra Cartner,1,0
+modstats,u74908502,Steve Howe,1,0
+modstats,u10015157,Suzy Rutter,1,0
+modstats,httpd,,1,0
+mqm,csroper,,1,0
+mysql,,,0,0
+mysql,mysql,,1,0
+nagios,,,0,0
+nddp,,,0,0
+nes,,,0,0
+netadm,,,0,0
+newcast,,,0,0
+news,,,0,0
+noaccess,,,0,0
+nobody,,,0,0
+nobodyV,,,0,0
+nogroup,,,0,0
+nuucp,root,,1,0
+oct_whds,u79934707,Kevin Hawthorne,1,0
+oinstall,oracleinst,,1,0
+one,,,0,0
+openldap,,,0,0
+operator,,,0,0
+opr,root,,1,0
+or1,,,0,0
+or10,,,0,0
+or11,,,0,0
+or12,,,0,0
+or2,,,0,0
+or3,,,0,0
+or4,,,0,0
+or5,,,0,0
+or5eb,,,0,0
+or6,,,0,0
+or7,,,0,0
+or8,,,0,0
+or9,,,0,0
+orcdata,,,0,0
+other,root,,1,0
+otsload,u50829301,Debby Bell,1,0
+otsload,u55823509,Phil Bell,1,0
+p2w,,,0,0
+pacssftp,,,0,0
+pad1c,,,0,0
+pad1d,,,0,0
+penscomm,,,0,0
+pensim2,,,0,0
+pensusrs,,,0,0
+pkg5srv,,,0,0
+postgres,,,0,0
+poverty,,,0,0
+ppad1,,,0,0
+ppad2,,,0,0
+ppad3,,,0,0
+ppad4,,,0,0
+ppad5,,,0,0
+ppd,,,0,0
+pse2,,,0,0
+pse3,,,0,0
+psm,,,0,0
+psppc,,,0,0
+resbfmd5,,,0,0
+ris,,,0,0
+root,,,0,0
+sas,,,0,0
+SAS9,,,0,0
+sasm6,,,0,0
+sasmonitor,u46044900,Mark Mulvaney,1,0
+sasusersm6,u86317511,Mark Foster,1,0
+sasusersm6,lsfuserm6,,1,0
+sasusersm6,sasdemom6,,1,0
+sasusersm6,sasdmadm6,,1,0
+saswhbu,u10075157,Ahmed Khan,1,0
+saswhbu,u77842406,Allyson Evans,1,0
+saswhbu,u80957500,Andrea Robson,1,0
+saswhbu,u86321509,Anna Dyson,1,0
+saswhbu,u10117561,Billy Williams,1,0
+saswhbu,u60804312,Christine Crozier,1,0
+saswhbu,u69447275,Craig Barker,1,0
+saswhbu,u69611235,Dalbag Suman,1,0
+saswhbu,u59821205,David Barnes,1,0
+saswhbu,u64355507,David Ledger,1,0
+saswhbu,u10105479,Dean Blake,1,0
+saswhbu,u80421410,Ian Barlow,1,0
+saswhbu,u10104031,Jude Dennis,1,0
+saswhbu,u10105477,Mairead Kirby,1,0
+saswhbu,u89009308,Mark Dobson,1,0
+saswhbu,u56762612,Mick Watson,1,0
+saswhbu,u85082204,Neil Emmerson,1,0
+saswhbu,u77752804,Neil Taylor,1,0
+saswhbu,u57195512,Richard Butterworth,1,0
+saswhbu,u88398602,Richard Roblin,1,0
+saswhbu,u10117214,Ridwan Jeena,1,0
+saswhbu,u46064844,Saeed Anjum,1,0
+saswhbu,u46064851,Satish Tandel,1,0
+saswhbu,u10120623,Stewart Lee,1,0
+saswhbu,u75588010,Susan Harper,1,0
+saswhbu,u10105480,Tracey Philip,1,0
+saswhbu,u10117222,Umesh Asnani,1,0
+saswhde,u10075157,Ahmed Khan,1,0
+saswhde,u10081241,Alexandra Hutchinson,1,0
+saswhde,u77842406,Allyson Evans,1,0
+saswhde,u80957500,Andrea Robson,1,0
+saswhde,u10017204,Andrew Taylor,1,0
+saswhde,u10117561,Billy Williams,1,0
+saswhde,u60804312,Christine Crozier,1,0
+saswhde,u69447275,Craig Barker,1,0
+saswhde,u10104152,Craig Skelton,1,0
+saswhde,u69611235,Dalbag Suman,1,0
+saswhde,u59821205,David Barnes,1,0
+saswhde,u64355507,David Ledger,1,0
+saswhde,u10105479,Dean Blake,1,0
+saswhde,u80421410,Ian Barlow,1,0
+saswhde,u10104031,Jude Dennis,1,0
+saswhde,u10105477,Mairead Kirby,1,0
+saswhde,u89009308,Mark Dobson,1,0
+saswhde,u56762612,Mick Watson,1,0
+saswhde,u85082204,Neil Emmerson,1,0
+saswhde,u77752804,Neil Taylor,1,0
+saswhde,u57195512,Richard Butterworth,1,0
+saswhde,u88398602,Richard Roblin,1,0
+saswhde,u10117214,Ridwan Jeena,1,0
+saswhde,u46064844,Saeed Anjum,1,0
+saswhde,u46064851,Satish Tandel,1,0
+saswhde,u10120623,Stewart Lee,1,0
+saswhde,u75588010,Susan Harper,1,0
+saswhde,u10105480,Tracey Philip,1,0
+saswhde,u10117222,Umesh Asnani,1,0
+saswhiac,u79934707,Kevin Hawthorne,1,0
+saswhls,,,0,0
+saswhmde,,,0,0
+saswhpr,u52358212,Angie Panting,1,0
+saswhpr,u77994604,Caroline Ashmore,1,0
+saswhpr,u86884409,Daniel Hickey,1,0
+saswhpr,u46064846,David Fleming,1,0
+saswhpr,u80203010,Debbie Morton,1,0
+saswhpr,u50829301,Debby Bell,1,0
+saswhpr,u10014595,Iain Woolard,1,0
+saswhpr,u79513311,Ingrid Whitworth,1,0
+saswhpr,u10096747,Jen Machin,1,0
+saswhpr,u85278112,Lee Swan,1,0
+saswhpr,u80200606,Leigh Taggart,1,0
+saswhpr,u43777206,Linda Donnelly,1,0
+saswhpr,u10017946,Louise McGuinness,1,0
+saswhpr,u10021846,Neil Coulson,1,0
+saswhpr,u24366710,Sandra Cartner,1,0
+saswhpr,u84023906,Stephen Clark,1,0
+saswhpr,u74908502,Steve Howe,1,0
+saswhpr,u10015157,Suzy Rutter,1,0
+saswhpr,sftagent,,1,0
+saswhte,,,0,0
+sdb_user,,,0,0
+sdt_serv,,,0,0
+sec,,,0,0
+Selfad,,,0,0
+sftagent,,,0,0
+smmsp,,,0,0
+socfund,,,0,0
+spad1,,,0,0
+spad2,,,0,0
+spad3,,,0,0
+spad4,,,0,0
+sr1,,,0,0
+sr10,,,0,0
+sr2,,,0,0
+sr3,,,0,0
+sr4,,,0,0
+sr5,,,0,0
+sr6,,,0,0
+sr7,,,0,0
+sr8,,,0,0
+sr9,,,0,0
+staff,,,0,0
+stata,,,0,0
+statanal,,,0,0
+statau,,,0,0
+statepen,,,0,0
+stathb,,,0,0
+statjcpl,,,0,0
+statneig,,,0,0
+statnewd,,,0,0
+statpens,,,0,0
+statwage,,,0,0
+sys,adm,,1,0
+sys,bin,,1,0
+sys,root,,1,0
+sysadmin,,,0,0
+system,u46049299,Anthony Carmichael,1,0
+system,u46061705,Ben Featherstone,1,0
+system,u46053701,Ben Storey,1,0
+system,u43716903,Charlie Tynan,1,0
+system,u46055083,Christian Gardner,1,0
+system,u46059043,Christopher Holmes,1,0
+system,u46055715,Christopher Lang,1,0
+system,u46047486,David Sives-Rutherford,1,0
+system,u52392208,Ian Hertwick,1,0
+system,u61291407,Ian Watson,1,0
+system,u46040067,Jack Gartland,1,0
+system,u46054748,Jason McMullen,1,0
+system,u46061710,Kemi Biye-Malcolm,1,0
+system,u46044900,Mark Mulvaney,1,0
+system,u52370807,Paul Greenfield,1,0
+system,u46053330,Peter Hamilton,1,0
+system,u46061708,Scott White,1,0
+system,u46057960,Stephen Crahan,1,0
+system,u39464211,Trevor Hayman,1,0
+system,u46063009,Vitalij Shamov,1,0
+system,u46055439,Yiu-Keung Tsang,1,0
+system,oracleinst,,1,0
+system,pservert,,1,0
+system,thtest,,1,0
+takeup,,,0,0
+tape,,,0,0
+tcb,,,0,0
+tomcat,tomcat,,1,0
+tty,adm,,1,0
+tty,root,,1,0
+unknown,,,0,0
+upnp,,,0,0
+users,u35162707,Edmund Featherstone,1,0
+userscsr,u50829301,Debby Bell,1,0
+uucp,,,0,0
+uucp,root,,1,0
+warpen,,,0,0
+weblinux,,,0,0
+webmiqa,,,0,0
+webservd,,,0,0
+xvm,,,0,0
